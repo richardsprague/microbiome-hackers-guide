@@ -122,14 +122,6 @@ levels of Firmicutes and Bacteroidetes.
 How are you different?
 ======================
 
-[^1]: De Filippo, Carlotta, Duccio Cavalieri, Monica Di Paola, Matteo
-    Ramazzotti, Jean Baptiste Poullet, Sebastien Massart, Silvia
-    Collini, Giuseppe Pieraccini, and Paolo Lionetti. 2010. “Impact of
-    Diet in Shaping Gut Microbiota Revealed by a Comparative Study in
-    Children from Europe and Rural Africa.” *Proceedings of the National
-    Academy of Sciences of the United States of America* 107 (33):
-    14691–96. doi:10.1073/pnas.1005963107.
+[^1]: De Filippo, Carlotta, Duccio Cavalieri, Monica Di Paola, Matteo Ramazzotti, Jean Baptiste Poullet, Sebastien Massart, Silvia Collini, Giuseppe Pieraccini, and Paolo Lionetti. 2010. “Impact of Diet in Shaping Gut Microbiota Revealed by a Comparative Study in Children from Europe and Rural Africa.” *Proceedings of the National Academy of Sciences of the United States of America* 107 (33):   14691–96. doi:10.1073/pnas.1005963107.
 
-[^2]: Cho, Ilseung, and Martin J Blaser. 2012. “The Human Microbiome: At
-    the Interface of Health and Disease.” *Nature Reviews. Genetics* 13
-    (4): 260–70. doi:10.1038/nrg3182.
+[^2]: Cho, Ilseung, and Martin J Blaser. 2012. “The Human Microbiome: At the Interface of Health and Disease.” *Nature Reviews. Genetics* 13 (4): 260–70. doi:10.1038/nrg3182.
