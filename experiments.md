@@ -22,6 +22,7 @@ First, click the “Download taxonomy” button on [the web page for your sample
 
 Although it will look like gobbley-gook, you can turn this into an Excel spreadsheet easily enough following the techniques in the chapter “Analyze your microbiome in Excel”. At that point, you’ll have a spreadsheet with three columns: “count\_norm”, “tax\_rank” and “tax\_name”:
 
+![](images/excelCSVconverted.png)
 
 Then it’s a simple matter of running some standard Excel filtering operations on the fields, as explained in the previous chapter. Filter tax\_rank by “Phylum” and then sort the count\_norm field from largest to smallest. The count\_norm numbers correspond to parts per million – just divide by 10,000 to get the percentages.
 
@@ -29,7 +30,7 @@ By the way, a big bonus awaits you in the taxonomy file that you can’t get fro
 
 Next go to [the Github page for this book] and download ubiome.py. If you have the Python language on your computer (all Macs come with it built-in), you can run this file without installing anything extra. See the appendix for a quick summary of what you’ll need to know to get started.
 
-In my case, I have two samples that I’ve downloaded to my computer. The first, before.JSON is the taxonomic information from the start of my experiment. The file from the sample taken one week later is called after.JSON. Let’s see what changed during the week.
+In my case, I have two samples that I’ve downloaded to my computer. The first, ```before.JSON``` is the taxonomic information from the start of my experiment. The file from the sample taken one week later is called ```after.JSON```. Let’s see what changed during the week.
 
 On a Mac, open Terminal and run the following command:
 
@@ -43,7 +44,7 @@ Similarly, the following command will give you a file that contains the relative
 
 This time, the –c switch tells the script to compare the two samples and return the differences between them. Opening the file diff.csv, I find this:
 
-![][2]
+![](images/excelDiff1.png)
 
 Negative numbers indicate a drop from the first sample; positive numbers mean the amounts increased at the second test. In this case, I’m seeing a large drop in the phylum Firmicutes at the end of the week, with a small increase in Bacteroidetes.
 
@@ -51,13 +52,13 @@ Incidentally, these differences would normally sum to zero, but in this case the
 
 Here’s another look, this time at the species level:
 
-![][3]
+![](images/excelSpecies1.png)
 
 In this example, I see a large increase in ***Faecalibacterium prausnitzii***, often considered a marker for health (see the discussion in the section “Organisms to Watch”). I’ll want to look at my meals over the test period to see what might have driven this positive change.
 
 Using the macronutrient data I collected daily with MyFitnessPal (exported to CSV with the handy exporter at <https://www.designbyvh.com/myfitnesspal-export-data/>) I produced this simple chart to see if my eating habits had an effect on my microbiome:
 
-![][4]
+![](images/excelMFPsummary.png)
 
 As you can see, though I apparently ate about 20% more overall during the week of my test, my dietary cholesterol was conspicuously lower than normal. Did this affect my microbiome?
 
@@ -67,7 +68,7 @@ To find out, I searched the medical and biology literature to see if there are k
 
 I’m not a doctor, nor do I pretend that this has any medical consequences, but when I look at my own changes for the week, I see the following genera:
 
-![][5]
+![](images/excelGeneraChange.png)
 
 Is it a coincidence that the very specific bacterial genera that are mentioned in a paper linking cholesterol to the gut biome *are the same ones that changed* in a week in which I ate less dietary cholesterol than normal? Did I find something new? That’s the exciting part about this type of citizen science: armed with my own data and imagination, new discoveries are everywhere.
 
