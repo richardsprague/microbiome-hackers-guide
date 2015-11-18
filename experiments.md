@@ -18,11 +18,13 @@ I chose to do my tests from Sunday to Sunday, carefully tracking several weeks o
 
 First, click the “Download taxonomy” button on [the web page for your sample](http://app.ubiome.com).
 
-![](images/ubiomeTaxonomy.png)
+![](images/experiments/ubiomeTaxonomy.png)
+
 
 Although it will look like gobbley-gook, you can turn this into an Excel spreadsheet easily enough following the techniques in the chapter “Analyze your microbiome in Excel”. At that point, you’ll have a spreadsheet with three columns: “count\_norm”, “tax\_rank” and “tax\_name”:
 
-![](images/excelCSVconverted.png)
+![](images/experiments/excelCSVconverted.png)
+
 
 Then it’s a simple matter of running some standard Excel filtering operations on the fields, as explained in the previous chapter. Filter tax\_rank by “Phylum” and then sort the count\_norm field from largest to smallest. The count\_norm numbers correspond to parts per million – just divide by 10,000 to get the percentages.
 
@@ -133,11 +135,11 @@ Martin Blaser’s excellent book about the microbiome, *Missing Microbes*, ment
 
 A quick internet search for “gut microbe serotonin” will lead you to  [B. infantis, which modulates tryptophan], the stuff in turkey that urban legends have long blamed for [that sleepy feeling] you get after Thanksgiving dinner. This seems like a good target to check, so my first step was to look at my gut biome results to see my levels of the *B. infantis* parent genus *bifidobacterium*.
 
-![][6]
+![](images/experiments/excelBifido1.png)
 
 How do I tell whether 0.85% is a “normal” or not? uBiome offers this view to compare yourself to the others in their database:
 
-![][7]
+![](images/experiments/ubiomeBifidoCompare.png)
 
 Looks like I’m much lower than average. A search through the rest of the sheet shows that I have no measured amount of *B. infantis*. The 16S testing for a specific species can be unreliable, so I won’t take that as a definitive no, but it clearly leaves some room for improvement.
 
@@ -155,7 +157,7 @@ For this experiment I started with two tablespoons the first day, and then three
 
 After a few days, the sleep effect started to wear off, though I still felt much-improved. But could I trace the improvement to improved levels of Bifido? To find out, I measured myself again:
 
-![][8]
+![](images/experiments/excelBifido2.png)
 
 Bifidobacterium is *much* higher! I raised my bifido levels by almost 7 times.
 
