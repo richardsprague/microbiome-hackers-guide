@@ -84,14 +84,14 @@ We spent most of our time in a rural, jungle part of Belize, about a half hour�
 
 I did one other thing: before leaving on the trip, and immediately afterwards, I took some gut microbiome samples. Here’s what my gut microbiome (phylum level) looked like before and after the trip:
 
-  **Phylum**            **Before**   **After**
-  --------------------- ------------ -----------
-  **Firmicutes**        71.836%      67.930%
-  **Bacteroidetes**     16.424%      14.900%
-  **Actinobacteria**    7.616%       0.771%
-  **Proteobacteria**    0.982%       7.514%
-  **Verrucomicrobia**   0.664%       0.013%
-  **Tenericutes**       0.065%       0.071%
+  **Phylum** |           **Before** |  **After**|
+  ---------------------| ------------ -----------|
+  **Firmicutes**        |71.836%      |67.930%
+  **Bacteroidetes**     |16.424%      |14.900%
+  **Actinobacteria**    |7.616%       |0.771%
+  **Proteobacteria**    |0.982%       |7.514%
+  **Verrucomicrobia**   |0.664%       |0.013%
+  **Tenericutes**       |0.065%       |0.071%
 
 As we discussed in previous chapters, the phylum level is the “big picture”, and the first place to look at a new sample. In my case, the two biggest groupings didn’t change much: my ratio of Firmicutes to Bacteroidetes changed hardly at all, despite the different eating and living conditions. Apparently those two microbes quickly adjusted.
 
@@ -99,18 +99,20 @@ The most unusual change during my trip was the increase in *Proteobacteria*, fr
 
 To see how or why this happened, I’ll review my samples at a lower taxonomic level. Here are the organisms found at the genus level:
 
-  Genus                **Before**   **After**
-  -------------------- ------------ -----------
-  Faecalibacterium     14.198%      20.374%
-  Bacteroides          12.717%      10.396%
-  Blautia              4.469%       8.585%
-  Ruminococcus         8.383%       7.906%
-  Pseudobutyrivibrio   1.804%       4.134%
-  Cronobacter          0.002%       3.592%
-  Coprococcus          5.411%       2.574%
-  Clostridium          6.611%       1.763%
-  Parabacteroides      0.507%       1.393%
-
+  Genus               | **Before** |  **After**|
+  --------------------| ------------| -----------
+  Faecalibacterium	|   14.198%|      20.374%|
+  Bacteroides|          12.717%|      10.396%|
+  Blautia |             4.469% |      8.585%|
+  Ruminococcus  |       8.383% |      7.906%|
+  Pseudobutyrivibrio |  1.804% |      4.134%|
+  Cronobacter        |  0.002% |      3.592%|
+  Coprococcus          |5.411% |      2.574%|
+  Clostridium          |6.611% |      1.763%|
+  Parabacteroides      |0.507% |      1.393%|
+  
+  
+  
 Most of the new organisms I picked up come from the family [***Enterobacteriales***], of which the majority – about 3.5% of my entire sample – is [***Cronobacter***], a nasty pathogen named after the [**Greek mythological titan**] who swallowed his children!
 
 Ouch! Fortunately I never got sick. Why not? The science is just too new to say for sure, but here’s my theory: there is [**no such thing as “good” or “bad” bacteria**]. Everything depends on the *ratios*, on *balance* among lots of competing germs. In my case – and this is my pure, amateur, unscientific speculation – the *Cronobacteria* increase might actually have *helped* my health, by out-eating something else that may have been even worse.
