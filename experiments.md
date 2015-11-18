@@ -16,12 +16,12 @@ To track food, I use the (free) app MyFitnessPal <http://myfitnesspal.com> , on 
 
 I chose to do my tests from Sunday to Sunday, carefully tracking several weeks of nutritional data before, during, and after. After submitting my samples by mail, it takes about 6 weeks to get results. At that point, just log into the uBiome web site and download your raw information. Here’s how:
 
-First, click the “Download taxonomy” button on [the web page for your sample].
+First, click the “Download taxonomy” button on [the web page for your sample](http://app.ubiome.com).
 
+![](images/ubiomeTaxonomy.png)
 
 Although it will look like gobbley-gook, you can turn this into an Excel spreadsheet easily enough following the techniques in the chapter “Analyze your microbiome in Excel”. At that point, you’ll have a spreadsheet with three columns: “count\_norm”, “tax\_rank” and “tax\_name”:
 
-![][1]
 
 Then it’s a simple matter of running some standard Excel filtering operations on the fields, as explained in the previous chapter. Filter tax\_rank by “Phylum” and then sort the count\_norm field from largest to smallest. The count\_norm numbers correspond to parts per million – just divide by 10,000 to get the percentages.
 
