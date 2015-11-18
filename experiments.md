@@ -46,7 +46,8 @@ Similarly, the following command will give you a file that contains the relative
 
 This time, the –c switch tells the script to compare the two samples and return the differences between them. Opening the file diff.csv, I find this:
 
-![](images/excelDiff1.png)
+![](images/experiments/excelDiff1.png)
+
 
 Negative numbers indicate a drop from the first sample; positive numbers mean the amounts increased at the second test. In this case, I’m seeing a large drop in the phylum Firmicutes at the end of the week, with a small increase in Bacteroidetes.
 
@@ -54,13 +55,13 @@ Incidentally, these differences would normally sum to zero, but in this case the
 
 Here’s another look, this time at the species level:
 
-![](images/excelSpecies1.png)
+![](images/experiments/excelSpecies1.png)
 
 In this example, I see a large increase in ***Faecalibacterium prausnitzii***, often considered a marker for health (see the discussion in the section “Organisms to Watch”). I’ll want to look at my meals over the test period to see what might have driven this positive change.
 
 Using the macronutrient data I collected daily with MyFitnessPal (exported to CSV with the handy exporter at <https://www.designbyvh.com/myfitnesspal-export-data/>) I produced this simple chart to see if my eating habits had an effect on my microbiome:
 
-![](images/excelMFPsummary.png)
+![](images/experiments/excelMFPsummary.png)
 
 As you can see, though I apparently ate about 20% more overall during the week of my test, my dietary cholesterol was conspicuously lower than normal. Did this affect my microbiome?
 
@@ -70,7 +71,7 @@ To find out, I searched the medical and biology literature to see if there are k
 
 I’m not a doctor, nor do I pretend that this has any medical consequences, but when I look at my own changes for the week, I see the following genera:
 
-![](images/excelGeneraChange.png)
+![](images/experiments/excelGeneraChange.png)
 
 Is it a coincidence that the very specific bacterial genera that are mentioned in a paper linking cholesterol to the gut biome *are the same ones that changed* in a week in which I ate less dietary cholesterol than normal? Did I find something new? That’s the exciting part about this type of citizen science: armed with my own data and imagination, new discoveries are everywhere.
 
