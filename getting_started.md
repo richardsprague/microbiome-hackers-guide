@@ -3,11 +3,11 @@ Getting Started
 
 You just received an email that uBiome has finished processing your sample. Now what do you do?
 
-The first stop of course is the [*uBiome web dashboard*], where you’ll see an overview of your results. The instructions there are self-explanatory and you’ll learn most of what you need to know by simply clicking around. The following explanation will help you dig deeper.
+The first stop of course is the [*uBiome web dashboard*](http://app.ubiome.com/), where you’ll see an overview of your results. The instructions there are self-explanatory and you’ll learn most of what you need to know by simply clicking around. The following explanation will help you dig deeper.
 
 If you only have one sample, your page will look something like this:
 
-![]
+![](images/OverallSampleJun16.jpg)
 
 Figure : Overview of June Sample
 
@@ -17,7 +17,7 @@ You’re seeing a *phyla*-based look at your microbiome. This is a very high lev
 
 Now scroll down to see the same data represented in a pie chart.
 
-![][1]
+![](images/OverallSamplePieJun16.jpg)
 
 This time the various phyla *are* represented as percentages of the whole, so some of them are relegated to tiny slices of the pie. That doesn’t necessarily mean they’re unimportant, though, because in the world of life, even some tiny populations can exert an outsized influence.
 
@@ -67,7 +67,3 @@ How are you different?
 [^1]: De Filippo, Carlotta, Duccio Cavalieri, Monica Di Paola, Matteo Ramazzotti, Jean Baptiste Poullet, Sebastien Massart, Silvia Collini, Giuseppe Pieraccini, and Paolo Lionetti. 2010. “Impact of Diet in Shaping Gut Microbiota Revealed by a Comparative Study in Children from Europe and Rural Africa.” *Proceedings of the National Academy of Sciences of the United States of America* 107 (33): 14691–96. doi:10.1073/pnas.1005963107.
 
 [^2]: Cho, Ilseung, and Martin J Blaser. 2012. “The Human Microbiome: At the Interface of Health and Disease.” *Nature Reviews. Genetics* 13 (4): 260–70. doi:10.1038/nrg3182.
-
-  [*uBiome web dashboard*]: http://app.ubiome.com/
-  []: images/OverallSampleJun16.jpg
-  [1]: images/OverallSamplePieJun16.jpg

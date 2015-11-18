@@ -268,28 +268,3 @@ Second, 16S technology has proven accuracy when identifying unique organisms, so
 
 [^1]: Gut microbiota dysbiosis and bacterial community assembly associated with cholesterol gallstones in large-scale study http://www.ncbi.nlm.nih.gov/pubmed/24083370
 
-  [the web page for your sample]: https://app.ubiome.com/
-  []: media/image1.png
-  [1]: media/image2.jpg
-  [Most scientists trust]: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2045242/
-  [the Github page for this book]: https://github.com/richardsprague/uBiome
-  [2]: media/image3.png
-  [3]: media/image4.png
-  [4]: media/image5.png
-  [5]: media/image6.png
-  [***Enterobacteriales***]: https://en.wikipedia.org/wiki/Enterobacteriaceae
-  [***Cronobacter***]: https://en.wikipedia.org/wiki/Cronobacter
-  [**Greek mythological titan**]: https://en.wikipedia.org/wiki/Cronus
-  [**no such thing as “good” or “bad” bacteria**]: http://www.nytimes.com/2011/11/01/health/scientist-examines-possible-link-between-antibiotics-and-obesity.html
-  [are made in the gut]: http://www.ncbi.nlm.nih.gov/pubmed/22968153
-  [B. infantis, which modulates tryptophan]: http://www.pnas.org/content/108/7/3047.long
-  [that sleepy feeling]: http://www.webmd.com/food-recipes/features/the-truth-about-tryptophan
-  [6]: media/image7.png
-  [7]: media/image8.jpg
-  [8]: media/image9.png
-  [*Capnocytophaga*]: https://en.wikipedia.org/wiki/Capnocytophaga
-  [Streptococcus rubneri]: http://www.ncbi.nlm.nih.gov/pubmed/23749274
-  [Prevotella buccae]: https://microbewiki.kenyon.edu/index.php/Prevotella
-  [Wikipedia]: https://en.wikipedia.org/wiki/Streptococcus_sanguinis
-  [9]: https://en.wikipedia.org/wiki/Streptococcus_pseudopneumoniae
-  [“treads the fine line between commensal and pathogen”]: http://www.cmnewsletter.com/article/S0196-4399(14)00027-0/abstract?cc=y
