@@ -11,7 +11,7 @@ following explanation will help you dig deeper.
 
 If you only have one sample, your page will look something like this:
 
-![](OverallSampleJun16.jpg)
+![](images/OverallSampleJun16.jpg)
 
 Figure : Overview of June Sample
 
@@ -35,7 +35,7 @@ approximation is pretty crude.
 
 Now scroll down to see the same data represented in a pie chart.
 
-![](OverallSamplePieJun16.jpg)
+![](images/OverallSamplePieJun16.jpg)
 
 This time the various phyla *are* represented as percentages of the
 whole, so some of them are relegated to tiny slices of the pie. That
