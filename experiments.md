@@ -18,7 +18,6 @@ I chose to do my tests from Sunday to Sunday, carefully tracking several weeks o
 
 First, click the “Download taxonomy” button on [the web page for your sample].
 
-![]
 
 Although it will look like gobbley-gook, you can turn this into an Excel spreadsheet easily enough following the techniques in the chapter “Analyze your microbiome in Excel”. At that point, you’ll have a spreadsheet with three columns: “count\_norm”, “tax\_rank” and “tax\_name”:
 
@@ -34,13 +33,13 @@ In my case, I have two samples that I’ve downloaded to my computer. The first,
 
 On a Mac, open Terminal and run the following command:
 
-&gt; python ubiome.py –u before.JSON after.JSON &gt; extinct.CSV
+    python ubiome.py –u before.JSON after.JSON &gt; extinct.CSV
 
 The –u switch tells the script to identify from the two samples only those organisms that are unique to the first sample. The new file, extinct.CSV contains just those organisms, i.e. the ones from the sample before, but not in the later one. In other words, these are the organisms that went extinct during the week-long trial.
 
 Similarly, the following command will give you a file that contains the relative differences between every organism in before and after.
 
-&gt; python ubiome.py –c before.JSON after.JSON &gt; diffs.CSV
+    python ubiome.py –c before.JSON after.JSON &gt; diffs.CSV
 
 This time, the –c switch tells the script to compare the two samples and return the differences between them. Opening the file diff.csv, I find this:
 
