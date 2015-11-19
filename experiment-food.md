@@ -69,3 +69,6 @@ I’m not a doctor, nor do I pretend that this has any medical consequences, but
 ![](images/experiments/excelGeneraChange.png)
 
 Is it a coincidence that the very specific bacterial genera that are mentioned in a paper linking cholesterol to the gut biome *are the same ones that changed* in a week in which I ate less dietary cholesterol than normal? Did I find something new? That’s the exciting part about this type of citizen science: armed with my own data and imagination, new discoveries are everywhere. 
+
+
+[^1]: Gut microbiota dysbiosis and bacterial community assembly associated with cholesterol gallstones in large-scale study http://www.ncbi.nlm.nih.gov/pubmed/24083370
