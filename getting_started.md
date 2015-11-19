@@ -30,36 +30,17 @@ The most common phyla
 
 Most westerners will find their sample dominated by two phyla: *Firmicutes* and *Bacteroidetes*. These are so common in healthy people that it’s tempting to assume that it’s supposed to be that way, but like much else with the microbiome, the situation is different outside the western world, a clue that it’s difficult to summarize a single individual’s microbiome as “good” or “bad.” It all depends.
 
-Firmicutes is usually the most common, and for good reason: it’s very good at sucking energy out of the types of high-fat, highly-processed food we eat in industrialized societies. For that reason, some scientists think it may be associated with obesity because you don’t need to eat as much to extract the same amount of energy from food. On the other hand, it’s not hard to find skinny people with lots of Firmicutes, so this theory doesn’t always hold, but it’s worth asking the question.
+**Firmicutes** is usually the most common, and for good reason: it’s very good at sucking energy out of the types of high-fat, highly-processed food we eat in industrialized societies. For that reason, some scientists think it may be associated with obesity because you don’t need to eat as much to extract the same amount of energy from food. On the other hand, it’s not hard to find skinny people with lots of Firmicutes, so this theory doesn’t always hold, but it’s worth asking the question.
 
-Bacteroidetes is not as good at digesting fat, so it sticks to high-fiber foods like those in vegetables, which is why vegetarians tend to have high levels of this phylum. It’s often most prominent outside the industrialized world, too, where people eat less meat.
+**Bacteroidetes** is not as good at digesting fat, so it sticks to high-fiber foods like those in vegetables, which is why vegetarians tend to have high levels of this phylum. It’s often most prominent outside the industrialized world, too, where people eat less meat.
 
-Prevotella tends to be more prevalent among high-carb eaters.
+**Prevotella** tends to be more prevalent among high-carb eaters.
 
-If you’re an otherwise normal omnivore and see double-digit amounts of phyla other than the above, it can be a sign that your body was recently under attack. For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn’s disease. That doesn’t mean that Proteobacteria is *bad*; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a long trip to Central America, during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
 
-Check your key ratios
-=====================
+**Proteobacteria**: 
+If you’re an otherwise normal omnivore and see double-digit amounts of this it can be a sign that your body was recently under attack. For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn’s disease. That doesn’t mean that Proteobacteria is *bad*; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a long trip to Central America, during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
 
-Like every ecology, your microbes are all inter-related. Too much or too little of one or another and things go haywire. It’s all about balance. For that reason, rather than focus on absolute counts, it’s more helpful to look at the ratios of some key organisms.
 
-Firmicutes and Bacteroidetes
-----------------------------
-
-In most westerners, these are by far the most dominant.
-
-There *does* seem to be a relationship
-
-Bacteroidetes vs. Prevotella
-
-One study compared a high-fiber diet of rural Africa with a modern European[^1] one and found that Prevotella seems
-
-What are some bad signs?
-========================
-
-Here are a few to watch out for.
-
-Fuseobacterium is associated with colorectal cancer[^2]. Nobody is sure exactly why, but increases in this phyla also seem to involve lower levels of Firmicutes and Bacteroidetes.
 
 How are you different?
 ======================
