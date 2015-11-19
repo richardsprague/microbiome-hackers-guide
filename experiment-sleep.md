@@ -1,11 +1,11 @@
 Experiment 3: Hacking my sleep
-------------------------------
+==============================
 
 Measuring before and after a change is a nice way to see how my microbiome adjusts to circumstances, but what happens if I try to manipulate the microbiome to achieve a specific result? This experiment will try to do exactly that.
 
-Martin Blaser’s excellent book about the microbiome, *Missing Microbes*, mentions that most (80%) of the precursors to the sleep- and mood-regulating neurotransmitter serotonin [are made in the gut]. Could my gut microbes affect my sleep?
+Martin Blaser’s excellent book about the microbiome, *Missing Microbes*, mentions that most (80%) of the precursors to the sleep- and mood-regulating neurotransmitter serotonin [are made in the gut](http://www.ncbi.nlm.nih.gov/pubmed/22968153). Could my gut microbes affect my sleep?
 
-A quick internet search for “gut microbe serotonin” will lead you to  [B. infantis, which modulates tryptophan], the stuff in turkey that urban legends have long blamed for [that sleepy feeling] you get after Thanksgiving dinner. This seems like a good target to check, so my first step was to look at my gut biome results to see my levels of the *B. infantis* parent genus *bifidobacterium*.
+A quick internet search for “gut microbe serotonin” will lead you to  [B. infantis, which modulates tryptophan](http://www.pnas.org/content/108/7/3047.long), the stuff in turkey that urban legends have long blamed for [that sleepy feeling](http://www.webmd.com/food-recipes/features/the-truth-about-tryptophan) you get after Thanksgiving dinner. This seems like a good target to check, so my first step was to look at my gut biome results to see my levels of the *B. infantis* parent genus *bifidobacterium*.
 
 ![](images/experiments/excelBifido1.png)
 
@@ -34,5 +34,7 @@ After a few days, the sleep effect started to wear off, though I still felt much
 Bifidobacterium is *much* higher! I raised my bifido levels by almost 7 times.
 
 The other genera changed as well, but among the top taxa, the Bifido change was clearly the most significant. For more proof, look at this chart showing all the samples I took before and after my potato starch experiments.
+
+![](images/experiments/excelBifidoBeforeAfter.png)
 
 Clearly, something significant changed when I added potato starch to my diet.
