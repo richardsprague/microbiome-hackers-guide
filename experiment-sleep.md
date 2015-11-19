@@ -1,5 +1,5 @@
 Experiment 3: Hacking my sleep
-==============================
+------------------------------
 
 Measuring before and after a change is a nice way to see how my microbiome adjusts to circumstances, but what happens if I try to manipulate the microbiome to achieve a specific result? This experiment will try to do exactly that.
 

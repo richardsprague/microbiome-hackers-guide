@@ -62,7 +62,7 @@ As you can see, though I apparently ate about 20% more overall during the week o
 
 To find out, I searched the medical and biology literature to see if there are known relationships between dietary cholesterol and *Faecalibacterium*. A simple Pubnet search for that taxa and “cholesterol” brings several hits, including one from a paper published in BMC Genomics[^1], about patients with cholesterol gallstones. Note this key result from the summary:
 
-* there were significant (P &lt; 0.001) increases of gut bacterial phylum Proteobacteria and decreases of three gut bacterial genera ,Faecalibacterium, Lachnospira, and Roseburia. *
+>there were significant (P&lt;0.001) increases of gut bacterial phylum Proteobacteria and decreases of three gut bacterial genera ,Faecalibacterium,Lachnospira, and Roseburia.
 
 I’m not a doctor, nor do I pretend that this has any medical consequences, but when I look at my own changes for the week, I see the following genera:
 
