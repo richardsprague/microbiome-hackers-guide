@@ -46,6 +46,7 @@ How are you different?
 ======================
 Since so little about the microbiome is well-understood, most of the time your results by themselves will be hard to interpret. This is where the power of uBiome's citizen science can help, because the web page lets you easily compare your results with other people.
 
+![](images/YourSampleVsAllSamples.pdf)
 
 
 [^1]: De Filippo, Carlotta, Duccio Cavalieri, Monica Di Paola, Matteo Ramazzotti, Jean Baptiste Poullet, Sebastien Massart, Silvia Collini, Giuseppe Pieraccini, and Paolo Lionetti. 2010. “Impact of Diet in Shaping Gut Microbiota Revealed by a Comparative Study in Children from Europe and Rural Africa.” *Proceedings of the National Academy of Sciences of the United States of America* 107 (33): 14691–96. doi:10.1073/pnas.1005963107.
