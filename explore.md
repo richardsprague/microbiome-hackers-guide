@@ -1,9 +1,6 @@
 Explore Your Raw Data
 =====================
 
-#Check your key ratios
-
-
 Like every ecology, your microbes are all inter-related. Too much or too little of one or another and things go haywire. It’s all about balance. For that reason, rather than focus on absolute counts, it’s more helpful to look at the ratios of some key organisms.
 
 ## Firmicutes and Bacteroidetes
