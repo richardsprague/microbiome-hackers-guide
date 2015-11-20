@@ -1,4 +1,7 @@
 The Science of the Microbiome
 =============================
 
-Microbes are everywhere.
+We can't see microbes, but they are everywhere.
+
+
+
