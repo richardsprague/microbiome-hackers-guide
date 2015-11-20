@@ -4,6 +4,11 @@ This book is for curious people with little or no knowledge of biology who want 
 Here are the main sections:
 
 * Getting Started: What to look for in your first uBiome results.
-* 
+* Explore the Raw Data: Download your results for deeper analysis.
+* The Science: Learn more background about the microbiome
+* Experiments: Examples of self-experimenting
+* Next Steps: Take your knowledge to the next level
+
+By the end of the book, you will be well on your way to a hands-on understanding of one of the most exciting areas at the frontier of biology.
 
 
