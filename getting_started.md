@@ -34,7 +34,7 @@ Most westerners will find their sample dominated by two phyla: *Firmicutes* and 
 
 **Bacteroidetes** is not as good at digesting fat, so it sticks to high-fiber foods like those in vegetables, which is why vegetarians tend to have high levels of this phylum. It’s often most prominent outside the industrialized world, too, where people eat less meat.
 
-**Prevotella** tends to be more prevalent among high-carb eaters.
+**Prevotella** is associated with carbohydrates.
 
 
 **Proteobacteria**: 
@@ -44,10 +44,11 @@ If you’re an otherwise normal omnivore and see double-digit amounts of this it
 
 How are you different?
 ======================
-Since so little about the microbiome is well-understood, most of the time your results by themselves will be hard to interpret. This is where the power of uBiome's citizen science can help, because the web page lets you easily compare your results with other people.
+Since so little about the microbiome is well-understood, most of the time it will be hard to interpret your results by themselves. This is where the power of uBiome's citizen science can help, because the web page lets you easily compare your results with other people.
 
 ![](images/YourSampleVsAllSamples.png)
 
+In this case I have unusually high levels of Proteobacteria
 
 [^1]: De Filippo, Carlotta, Duccio Cavalieri, Monica Di Paola, Matteo Ramazzotti, Jean Baptiste Poullet, Sebastien Massart, Silvia Collini, Giuseppe Pieraccini, and Paolo Lionetti. 2010. “Impact of Diet in Shaping Gut Microbiota Revealed by a Comparative Study in Children from Europe and Rural Africa.” *Proceedings of the National Academy of Sciences of the United States of America* 107 (33): 14691–96. doi:10.1073/pnas.1005963107.
 
