@@ -1,4 +1,9 @@
 {
     "title":"Microbiome Hackers Guide (Gitbook Edition)",
-    "plugins": ["ga"]
+    "plugins": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-70548909-1"
+        }
+    }
 }
