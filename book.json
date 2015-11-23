@@ -1,1 +1,4 @@
-{"title":"Microbiome Hackers Guide (Gitbook Edition)"}
+{
+    "title":"Microbiome Hackers Guide (Gitbook Edition)",
+    "plugins": ["ga"]
+}
