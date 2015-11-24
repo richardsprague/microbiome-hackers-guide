@@ -6,6 +6,7 @@
     * [Travel](experiment-jungleTravel.md)
     * [Sleep](experiment-sleep.md)
     * [Dentist](experiment-dentist.md)
+    * [Gut Cleanse](experiment-colon.md)
 * [Explore the Raw Data](explore.md)
 * [Learn the Science](science.md)
 * [Go Further](further.md)
