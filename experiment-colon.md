@@ -13,7 +13,8 @@ I recently tried exactly that, using a colon cleanse – the kind you do before 
 
 Here’s the the summary from uBiome:
 
-<img src="/Users/sprague/OneDrive/Projects/Books/microbiome/microbiome-hackers-guide/images/experiments/colonCleanse/colonCleanseBacteria.png" width=640 >
+![uBiome before/after](images/experiments/colonCleanse/colonCleanseBacteria.png)
+
 
 and a quick check of one key Phylum measure that summarizes how my overall microbiome fared:
 
