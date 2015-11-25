@@ -63,7 +63,11 @@ We eat plants for their nutrients, but often a “nutrient” is in the eye of t
 
 
 #Your stomach
-After clearing the mouth and falling down the throat, the first stop for 
+After clearing the mouth and falling down the throat, the first stop for your food is the stomach:
+[more details here]
+very acidic environment, hostile to almost all living things...with the notable exception of *H. Pylori*
+
+[lots more to say]
 
 
 #Your Appendix
@@ -73,7 +77,7 @@ Somewhere near the border between the small intestine and the large intestine (c
 Appendicitis used to be very rare (3-4 cases/year till 1890, up to 113 by 1918), which was fortunate, because there was no treatment. It was a sad fact that, for example the only death among the hundred or so frontiersmen and explorers on the Lewis and Clark expedition in the early 1800s was caused by appendicitis — a terrible, painful death in the wilderness but one that would have been just as inevitable at the finest hospitals in the world at the time.
 
 What’s known is that the appendix apparently houses three things: tissue from the immune system, a bunch of what are called IgA antibodies that fight infections, and tons of bacteria. What’s also known is that people who have their appendix removed surgically — usually as a result of one of those terrible infections — recover to live apparently normal lives, with no side effects even decades upon decades later. So what is the appendix doing?
-One clue comes from a recent study of 254 patients recovering from a C. Difficil infection, a horridly tenacious bacterium that has gained near-complete resistance to antibiotics and is notoriously difficult to treat. In the study, those with an appendix saw their infections come back 11% of the time, but those with no appendix suffered re-infection rates of 44% — a large and significant difference that has caused most scientists to speculate that the appendix is harboring something that enables the body to recover after a microbial disaster.
+One clue comes from a recent study of 254 patients recovering from a *C. Difficil* infection, a horridly tenacious bacterium that has gained near-complete resistance to antibiotics and is notoriously difficult to treat. In the study, those with an appendix saw their infections come back 11% of the time, but those with no appendix suffered re-infection rates of 44% — a large and significant difference that has caused most scientists to speculate that the appendix is harboring something that enables the body to recover after a microbial disaster.
 
 My own interest in this subject is not idle curiosity. About fifty years ago, doctors at a small town hospital gave an appendectomy to my five-year-old self in order to treat an unusual belly ache. While doing what was apparently an exploratory surgery to find the cause, they came upon my otherwise healthy-looking appendix and decided on the spot to simply remove it. “Why not?” I’m sure they thought at the time. “If nothing else, it’ll prevent him from appendicitis”, which is as tautologically sound a reason as any.
 Did that change me, somehow? Am I fundamentally different because for most of my life I’ve been missing an important microbe safety zone that the rest of you enjoy? Science doesn’t know the answers, and even when there are studies based on well-conducted experiments, I can’t know the answer unless I do the experiment on me. [Hint: that’s exactly what I did: see Chapter 3]
