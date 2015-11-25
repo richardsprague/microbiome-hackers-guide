@@ -7,6 +7,7 @@
     * [Sleep](experiment-sleep.md)
     * [Dentist](experiment-dentist.md)
     * [Gut Cleanse](experiment-colon.md)
+    * [...and more](experiment-other.md)
 * [Explore the Raw Data](explore.md)
     * [Export to Excel](HowToAnalyze/HowToAnalyze.md)
 * [Learn the Science](science.md)
