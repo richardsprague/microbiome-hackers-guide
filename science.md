@@ -19,7 +19,7 @@ Unlike the genetic discoveries you can make by understanding your DNA (from a lo
 
 [This next few sections give examples of microbes everywhere]
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/7/73/Ecoli_colonies.png)
 
 [Examples of odd microbes everywhere]
 
