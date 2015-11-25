@@ -20,5 +20,7 @@ and a quick check of one key Phylum measure that summarizes how my overall micro
 
 ![](images/experiments/colonCleanse/colonCleanseFirmicutesBacteroidetes.png)
 
+And other one:
+![](images/experiments/colonCleanse/colonCleanseBacteroidetesPrevotella.png)
 
 [Follow me](http://twitter.com/sprague) on Twitter, or check [my personal web site](http://richardsprague.com/) for more details of my experiment, and please let me know if you did or are thinking of something similar!
