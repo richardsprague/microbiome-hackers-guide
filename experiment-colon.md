@@ -22,7 +22,11 @@ Here's a look at the key Phylum measure [we discussed previously](explore.md) th
 
 **It’s pretty hard to make a significant change.** These days a little googling will find plenty of web sites, books, diets, and supplements that claim to “fix” or “change” your microbiome. I’m a healthy, reasonably fit adult, so I’m not as motivated as somebody with a specific health problem, but I thought simply popping probiotics and eating a variety of new and fermented foods would have a big effect. Nope. There are exceptions – my past experience with [sleep hacking](http://www.ubiomeblog.com/my-ubiome-sleep-hacking-update/) demonstrated conclusively to me that I can temporarily change my bifidobacterium levels for example – but those are harder to find than I had hoped.
 
+Here's another important ratio [discussed here] that microbiologists have found useful to see how the gut biome changes:
 
-And other one:
 ![](images/experiments/colonCleanse/colonCleanseBacteroidetesPrevotella.png)
+
+See much change?  Me neither. There's a short spike during the cleanse, but then it just pops back to normal.
+
+
 
