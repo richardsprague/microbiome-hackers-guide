@@ -117,6 +117,9 @@ I prefer to use both methods of measurement: absolute number changes matter for 
 
 #All my uBiome results in a single table
 
+[this whole section should be replaced with references to [Powerbiome](http://warm-bastion-4552.herokuapp.com/)]
+
+
 I often read news about a fresh scientific discovery involving the microbiome and immediately wonder if the discovery applies to me. For example, I recently saw a study from Oregon State University that seemed to find a link between high sugar diets and “cognitive flexibility”, i.e. your ability to adapt and adjust to changing circumstances. The study’s author, Kathy Magnusson, a professor in the OSU College of Veterinary Medicine, found that mice who eat lots of sugar have elevated levels of Clostridiales bacteria, and that this seemed to relate to a slower ability to solve a maze. Hmmm, I thought — how much Clostridiales do I have?
 
 If you have just one uBiome result, that’s easy:
