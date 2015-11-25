@@ -48,7 +48,11 @@ Since so little about the microbiome is well-understood, most of the time it wil
 
 ![](images/YourSampleVsAllSamples.png)
 
-In this case I have unusually high levels of Proteobacteria
+That first bacteria, *Deinococcus-Thermus* is an extremophile, usually only found in harsh environments, like the impossibly acidic human stomach. Why would I have so many more than other people like me?
+
+One clue is the similarly-high levels of Proteobacteria, which as we just noted is often high in people with gastro-intestinal issues. Maybe I was exposed to something that released a bit of stomach acid, and its extremophile *Deinococcus* into my colon.
+
+*Verrucomicrobia* is elevated too, but not by much. 
 
 [^1]: De Filippo, Carlotta, Duccio Cavalieri, Monica Di Paola, Matteo Ramazzotti, Jean Baptiste Poullet, Sebastien Massart, Silvia Collini, Giuseppe Pieraccini, and Paolo Lionetti. 2010. “Impact of Diet in Shaping Gut Microbiota Revealed by a Comparative Study in Children from Europe and Rural Africa.” *Proceedings of the National Academy of Sciences of the United States of America* 107 (33): 14691–96. doi:10.1073/pnas.1005963107.
 
