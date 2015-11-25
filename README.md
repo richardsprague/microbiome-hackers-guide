@@ -2,6 +2,13 @@
 
 This is a very, very early draft excerpt of a book for curious people with little or no knowledge of biology who want to learn the basics of the human microbiome in a hands-on, practical way — by experimenting on yourself. We assume you have a reasonable level of comfort with computer software, either as programmer, or as an end-user comfortable installing and running common applications like Excel.  By practicing with your own examples, you’ll learn how to study and manipulate the microbes inside you.
 
+###Prerequistes
+Before you begin, you will need
+* An account on uBiome. [Order a kit now!](http://ubiome.com/pages/buynow)
+* Access to the [PowerBiome web tools](http://warm-bastion-4552.herokuapp.com/).
+
+
+
 Here are the main sections:
 
 * Getting Started: What to look for in your first uBiome results.
