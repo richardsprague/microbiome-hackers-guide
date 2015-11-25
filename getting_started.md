@@ -13,15 +13,15 @@ Figure : Overview of June Sample
 
 This colorful bar chart is your first high-level glimpse of the bacteria found in your sample. Hover over it with your mouse (or tap with your finger if you’re on a phone or iPad), to see a pop-up view of the approximate percentages.
 
-You’re seeing a *phyla*-based look at your microbiome. This is a very high level view, a bit like how a Martian might see life on earth from far in outer space. Keep in mind that by “very high level”, I mean *very* high, the equivalent of seeing life only at the level of “vertebrate” and “invertebrate”. You don’t even bother separating fish from one another or for that matter, from land animals: just lump all of them together. At the phyla level, mammals, reptiles, fish – they’re all the same. Similarly, when you see the phylum *Firmicutes*, for example, think of it as having as encompassing as much variation as all the vertebrates, from those on land, in the ocean, big, small, harmless, dangerous and everything in between. In other words, this first approximation is pretty crude.
+You’re seeing a *phyla*-based look at your microbiome. As [we'll learn in more detail later](science.md), this is a very high level view, a bit like how a Martian might see life on earth from far in outer space. Keep in mind that by “very high level”, we mean *very* high, the equivalent of seeing life only at the level of “vertebrate” and “invertebrate”. You don’t even bother separating fish from one another or for that matter, from land animals: just lump all of them together. At the phyla level, mammals, reptiles, fish – they’re all the same. Similarly, when you see the phylum *Firmicutes*, for example, think of it as having as encompassing as much variation as all the vertebrates, from those on land, in the ocean, big, small, harmless, dangerous and everything in between. In other words, this first approximation is pretty crude.
 
 Now scroll down to see the same data represented in a pie chart.
 
 ![](images/OverallSamplePieJun16.jpg)
 
-This time the various phyla *are* represented as percentages of the whole, so some of them are relegated to tiny slices of the pie. That doesn’t necessarily mean they’re unimportant, though, because in the world of life, even some tiny populations can exert an outsized influence.
+This time the various phyla *are* represented as percentages of the whole, so some of them are relegated to tiny slices of the pie. That doesn’t necessarily mean they’re unimportant, though, because in the world of life, even some tiny populations can exert an outsized influence. A wolf is just one of a gazillion different creatures in Yellowstone National Park, but that is little comfort to a rabbit.
 
-Remember too that so far we’re treating each individual organism as if it’s the same size as the others, but that’s an oversimplification too, just like it would be a mistake to assume that elephants matter more because they’re bigger than humans,
+Remember too that so far we’re treating each individual organism as if it’s the same size as the others, but that’s an oversimplification too, just like it would be a mistake to assume that elephants matter more because they’re bigger than humans.
 
 All we know at the phylum level is that proportionately, certain large classes of bacteria are more well-represented than others. That may not sound like much to go on, but as we’ll see, scientists have been able to learn quite a bit from tiny clues like this.
 
