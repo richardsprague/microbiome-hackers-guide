@@ -2,7 +2,23 @@ The Science of the Microbiome
 =============================
 [this chapter is a stub]
 
-Microbes are everywhere.
+----
+
+#The Basics of Botany
+How do you talk about the relationships between various different life forms?
+
+A taxon is a simple unit of life. A *homo sapiens* is a taxon, but so is a primate. A mammal is a taxon too. It might seem odd in the ordinary biological world to bother using the same term ‘taxon’ to refer to all of those units, but for bacteria and anything that reproduces asexually, it’s an important distinction because often taxonomists don’t agree about whether a group of organisms is part of the same taxon or not.
+
+
+Since Carl Linnaeus in the 1700’s, the science of taxonomy divides all life into seven major categories: Kingdom, Phylum, Class, Order, Family, Genus, Species (which I was taught in sixth grade to remember by the mnemonic “King Philip Came Over for Girl Scouts”). 
+
+
+
+Bacteria make up their own kingdom. Just as the animal kingdom includes everything from humans to jellyfish to beetles, the diversity of bacterial life is enormous, a point which can’t be emphasized too much. This is true at every rank in the taxonomy. Even two organisms that are the same at a lower rank, like genus, might have radically different affects on the human body, just as a member of the animal genus Canis could be anything from a wolf or coyote to a Chihuahua. 
+
+You cannot mix and match these ranks. If you know something about the number of organisms in one genus, for example, this is meaningful only in comparison to the numbers of another genus. Keep that in mind during our analysis. 
+
+#Microbes are everywhere.
 
 The word “microbe” refers to any tiny organism that carries its own genetic information for purposes of propagating itself. Far too small to see with the naked eye, dozens could fit inside a typical human cell. The vast majority of microbes are bacteria, though viruses and phages fit this description too, as well as archaea, the extremophile life forms that live and thrive in environments too challenging for bacteria.
 
