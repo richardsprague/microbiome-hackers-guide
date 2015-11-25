@@ -1,6 +1,6 @@
 # The Microbiome Hackers Guide
 
-This is a very, very early draft excerpt of a book for curious people with little or no knowledge of biology who want to learn the basics of the human microbiome in a hands-on, practical way — by experimenting on yourself. We assume you have a reasonable level of comfort with computer software, either as programmer, or as an end-user comfortable installing and running common applications like Excel.  By practicing with your own examples, you’ll learn how to study and manipulate the microbes inside you.
+This is a **very, very early draft** excerpt of a book for curious people with little or no knowledge of biology who want to learn the basics of the human microbiome in a hands-on, practical way — by experimenting on yourself. We assume you have a reasonable level of comfort with computer software, either as programmer, or as an end-user comfortable installing and running common applications like Excel.  By practicing with your own examples, you’ll learn how to study and manipulate the microbes inside you.
 
 ###Prerequistes
 Before you begin, you will need
@@ -11,11 +11,11 @@ Before you begin, you will need
 
 Here are the main sections:
 
-* Getting Started: What to look for in your first uBiome results.
-* Explore the Raw Data: Download your results for deeper analysis.
-* The Science: Learn more background about the microbiome
-* Experiments: Examples of self-experimenting
-* Next Steps: Take your knowledge to the next level
+* [Getting Started](getting_started.md): What to look for in your first uBiome results.
+* [Explore the Raw Data](explore.md): Download your results for deeper analysis.
+* [The Science](science.md): Learn more background about the microbiome
+* [Experiments](experiments.md): Examples of self-experimenting
+* [Next Steps](further.md): Take your knowledge to the next level
 
 By the end of the book, you will be well on your way to a hands-on understanding of one of the most exciting areas at the frontier of biology.
 
