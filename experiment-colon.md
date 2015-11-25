@@ -63,8 +63,7 @@ Next: analyze the food to see if there is a relationship between various macronu
 * Bacteroidetes (which likes carbs)
 * Bifido (which likes fiber)
 
-[See operations in PowerBiome]
-
+[See more at [PowerBiome web tools](http://warm-bastion-4552.herokuapp.com/).]
 
 
 
