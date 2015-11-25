@@ -38,7 +38,7 @@ Most westerners will find their sample dominated by two phyla: *Firmicutes* and 
 
 
 **Proteobacteria**: 
-If you’re an otherwise normal omnivore and see double-digit amounts of this it can be a sign that your body was recently under attack. For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn’s disease. That doesn’t mean that Proteobacteria is *bad*; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a long trip to Central America, during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
+If you’re an otherwise normal omnivore and see double-digit amounts of this it can be a sign that your body was recently under attack. For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn’s disease. That doesn’t mean that Proteobacteria is *bad*; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a [long trip to Central America](experiment-jungleTravel.md), during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
 
 
 
