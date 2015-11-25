@@ -130,7 +130,7 @@ I programmed a short Python script to generate a single Excel table with every b
 
 ![](ubiomeExcelMultiTable.jpg)
 The data makes it easy to generate a chart showing how my Clostridiales changes over time:
-![](ubiomeExcelClostridiales.pn)
+![](ubiomeExcelClostridiales.png)
 
 Hmmm, in my case it looks like something happened since last fall to increase my Clostridiales levels. Maybe it was the potato starch I tried in order to hack my sleep? Was it my trip to Central America in February? And of course the biggest question: has the increase affected my cognitive flexibility? I’m not really sure. Whatever happened, the level of Clostridiales seems to have stabilized in the past couple of months.
 
