@@ -60,6 +60,9 @@ It's just a theory, and perhaps an unlikely one, but I wonder if my body was fig
 
 Similarly, your own results comparing to others may lead you to clues about aspects of your environment you didn't otherwise suspect.
 
+Incidentally, since this test I've sent dozens of additional samples to uBiome and never saw that *Deinococcus* thing again. Good riddance? or maybe I should be thankful for the protection, and hope that little bits of it may still be present, undetectably in my stomach, waiting to fight another external enemy the next time I come in contact with something in the soil.
+
+
 ---
 
 [^1]: De Filippo, Carlotta, Duccio Cavalieri, Monica Di Paola, Matteo Ramazzotti, Jean Baptiste Poullet, Sebastien Massart, Silvia Collini, Giuseppe Pieraccini, and Paolo Lionetti. 2010. “Impact of Diet in Shaping Gut Microbiota Revealed by a Comparative Study in Children from Europe and Rural Africa.” *Proceedings of the National Academy of Sciences of the United States of America* 107 (33): 14691–96. doi:10.1073/pnas.1005963107.
