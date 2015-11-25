@@ -7,7 +7,7 @@ The mouth harbors its own unique ecology of bacteria, much of which is entirely 
 
 So far the research *is* clear that cavities are almost always caused by one nasty species: *Streptococcus Mutans*. This bug contains receptors that adhere to the surface of the tooth, creating a slimy biofilm where, under the right conditions it can breed rapidly. Interestingly, just a few hundred bacterial cells is enough for it to begin its work, feeding on glucose to create a reaction that combines with the tool enamel to form plaque. The ever-present lactic acid in the mouth, a critical component of pre-digestion, reacts with the plaque to remove calcium from the tooth, leaving small, ever deepening holes that will destroy the tooth unless the dentist intervenes will a filling.
 
-\[Author Note: the examples in this section are written in R, but should be modified to work with Python. \]
+\[Author Note: the examples in this section are written in R, but should be modified to work with Python -- and made compatible with PowerBiome \]
 
 So my first test will be to see if I have any S. Mutans:
 
