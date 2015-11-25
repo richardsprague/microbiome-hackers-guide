@@ -4,8 +4,8 @@ This is a **very, very early draft** excerpt of a book for curious people with l
 
 ###Prerequistes
 To take best advantage of this book, you will need:
-* An account on uBiome. [Order a kit now!](http://ubiome.com/pages/buynow)
-* Access to the [PowerBiome web tools](http://warm-bastion-4552.herokuapp.com/).
+* An account with uBiome. ([Order a kit now!](http://ubiome.com/pages/buynow))
+* The [PowerBiome web tools](http://warm-bastion-4552.herokuapp.com/).
 
 
 
@@ -19,6 +19,8 @@ Here are the main sections:
 
 By the end of the book, you will be well on your way to a hands-on understanding of one of the most exciting areas at the frontier of biology.
 
-Please [contact us](http://twitter.com/sprague) for more information on how to get the final version of the book:  
+Please [contact us](http://twitter.com/sprague) for more information on how to get the final version of the book
+
+(c) 2015 Ensembio, Inc.
 
 
