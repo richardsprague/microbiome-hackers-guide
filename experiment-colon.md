@@ -13,7 +13,7 @@ Notice the big change on the day of the cleanse, followed by a big shift back to
 
 **Amounts and ratios changed, but not the specific organisms**. Of course I lost a bunch of bacteria – that was the point – but surprisingly I didn’t seem to gain anything really new, even after an aggressive attempt at re-seeding. I didn’t gain or lose a single phyla. Other than amounts and ratios, I had to dig down to the Class level of the biological hierarchy to find anything that was permanently lost, and even at the very fine-grained Genus level, only two taxa that had been regularly present beforehand were now extinct. (*Holdemania* and *Methanomassiliicoccus*).
 
-Here's a look at the key Phylum measure [we discussed previously] that summarizes how my overall microbiome fared:
+Here's a look at the key Phylum measure [we discussed previously](explore.md) that summarizes how my overall microbiome fared:
 
 ![](images/experiments/colonCleanse/colonCleanseFirmicutesBacteroidetes.png)
 
