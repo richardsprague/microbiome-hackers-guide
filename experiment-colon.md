@@ -11,7 +11,7 @@ Here’s the the summary from uBiome:
 
 Notice the big change on the day of the cleanse, followed by a big shift back to normal just a day later.
 
-Here’s another look at the same data:
+Here’s the functional view of the same data:
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sprague/22666646263/in/photostream/" title="Cleanse"><img src="https://farm6.staticflickr.com/5833/22666646263_1a083fe751_z.jpg" width="640" height="273" alt="Cleanse"></a>
 
 
