@@ -11,7 +11,12 @@
     * [Export to Excel](HowToAnalyze/HowToAnalyze.md)
 * [Learn the Science](science.md)
 * [Go Further](further.md)
-* [Annotated References](References.md)
+
+---
+
+[Annotated References](References.md)
+
+[Glossary and Index](GLOSSARY.md)
 
 
 
