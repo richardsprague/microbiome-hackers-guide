@@ -21,6 +21,7 @@ By the end of the book, you will be well on your way to a hands-on understanding
 
 Please [contact us](http://twitter.com/sprague) for more information on how to get the final version of the book
 
-(c) 2015 Ensembio, Inc.
+
+<img src="images/Ensembio Logo 114x114.png" width=25>(c) 2015 Ensembio, Inc. 
 
 
