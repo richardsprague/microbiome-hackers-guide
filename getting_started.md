@@ -28,7 +28,7 @@ All we know at the phylum level is that proportionately, certain large classes o
 The most common phyla
 =====================
 
-Most westerners will find their sample dominated by two phyla: *Firmicutes* and *Bacteroidetes*. These are so common in healthy people that it’s tempting to assume that it’s supposed to be that way, but like much else with the microbiome, the situation is different outside the western world, a clue that it’s difficult to summarize a single individual’s microbiome as “good” or “bad.” It all depends.
+Most westerners will find their sample dominated by two phyla: *Firmicutes* and *Bacteroidetes*. These are so common in healthy people that it’s tempting to assume this is "natural" or "normal", but like much else with the microbiome, the situation is different outside the western world, a clue that it’s difficult to summarize a single individual’s microbiome as “good” or “bad.” It all depends.
 
 **Firmicutes** is usually the most common, and for good reason: it’s very good at sucking energy out of the types of high-fat, highly-processed food we eat in industrialized societies. For that reason, some scientists think it may be associated with obesity because you don’t need to eat as much to extract the same amount of energy from food. On the other hand, it’s not hard to find skinny people with lots of Firmicutes, so this theory doesn’t always hold, but it’s worth asking the question.
 
