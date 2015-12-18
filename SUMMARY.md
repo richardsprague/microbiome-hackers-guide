@@ -13,6 +13,7 @@
     * [Measuring Diversity](diversity.md)
 * [Learn the Science](science.md)
 * [Go Further](further.md)
+* [References](references.md)
 
 ---
 
