@@ -7,14 +7,18 @@ Here are my suggestions for additional reading.
 Read more about Toxoplasma Gondii: http://www.theatlantic.com/magazine/archive/2012/03/how-your-cat-is-making-you-crazy/308873/
 
 This is a new field, so much of the written literature remains in academia
-Books
 
-Missing Microbes by Martin Blaser
-The Wild Life of Our Bodies by Rob Dunn
-Plague Time: The New Germ Theory of Disease by Paul Ewald
-An Epidemic of Absence: A New Way of Understanding Allergies and Autoimmune Diseases by Moises Velasquz-Manoff
+# Books
 
-Practical
+*Missing Microbes* by Martin Blaser
+
+*The Wild Life of Our Bodies* by Rob Dunn
+
+*Plague Time: The New Germ Theory of Disease* by Paul Ewald
+
+*An Epidemic of Absence: A New Way of Understanding Allergies and Autoimmune Diseases* by Moises Velasquz-Manoff
+
+# Practical
 Wild Fermentation: The Flavor, Nutrition, and Craft of Life Culture Foods Sandor Kaz
 
 #Authors
@@ -47,8 +51,9 @@ https://github.com/biocore
 Foundation for Bacteriology (which, according to the Guidestar list, has not filed reports for years and may no longer exist)
 
 
-#Diet and nutrition
-The Paleo Manifesto: Ancient Wisdom for Lifelong Health     Durant, John
+# Diet and nutrition
+
+*The Paleo Manifesto: Ancient Wisdom for Lifelong Health*     Durant, John
 The best summary so far of the motivation and principles of ancestral health. The author is a student of Steven Pinker’s, from Harvard, and writes with a general, more academic orientation rather than as a how-to manual. The basic principle, that the modern world is not our natural habitat, makes much sense, and I like the way he applies that rule to diet and exercise, plus sleep and much more.
 
 Paleofantasy: What Evolution Really Tells Us about Sex, Diet, and How We Live     Zuk, Marlene
