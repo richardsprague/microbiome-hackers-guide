@@ -1,0 +1,7 @@
+Looking at a baby biome
+---
+A friend sent me a sample from their one-month-old baby girl “Ava” [My made-up name: I won’t give more details unless I have explicit permission to say more]. She’s a healthy infant whose first-time parents are interested in the microbiome and have tried to do everything they can do optimize their baby’s microbial health. Ava was born vaginally, has never had antibiotics, is exclusively breast-fed by a mother who is careful to eat only nutritious, organic food. They all live in the country, surrounded by nature, including pets and other animals that will become more of her life when she starts to move around.
+
+The first thing I noticed is the dominance of *Bacteroidetes*, and the nearly non-existence of *Firmicutes*. In most westerners, the dominance of these two phyla is exactly reversed.
+
+But *“Firmicutes”* is a broad category, a bit like discussing “vertebrates” and lumping in everything from fish to people as one kind of life. Yeah, *Firmicutes* have some distinctive things in common — they mostly appear to like fat, for example — but to understand the difference between this baby and an adult, let’s dig more deeply into exactly which types of *Firmicutes* are common in her.
