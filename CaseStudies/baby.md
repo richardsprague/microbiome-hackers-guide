@@ -12,6 +12,10 @@ In most adults, *Firmicutes* seems to be a short-hand for *Clostridiales*, becau
 
 Ava’s *Firmicutes* is much more interesting. Instead of  *Clostridiales* (of which she has nearly none), hers is made nearly entirely of a single species,  *Phascolarctobacterium faecium*. What does it do? We don’t really know.
 
-Her *Bacteroidetes* is almost exclusively one species: *Bacteroides fragilis*, of which her Mom has a tiny bit too, but her Dad has none.
+Her *Bacteroidetes* is almost exclusively one species: *Bacteroides fragilis*, of which her Mom has a tiny bit too, but her Dad has none. This particular species has well-known [immune system modulating properties](http://aem.asm.org/content/77/23/8318.full), and studies have shown it correlates with asthma:
+
+>>>B. fragilis are higher in children with high specific IgE (sIgE) (32). IgE plays a central role in asthma and allergy (8). Other studies have shown a correlation of B. fragilis with asthma (34) and pollen allergy (19).
+
+Now that doesn't mean this baby is predisposed to any of these conditions -- in fact, it may mean the exact opposite depending on the amounts or the presence or absence of other species. How little we understand is just one of the frustrating recurring themes as we study the microbiome.
 
 [^1]: My made-up name: I won’t give more details unless I have explicit permission to say more
