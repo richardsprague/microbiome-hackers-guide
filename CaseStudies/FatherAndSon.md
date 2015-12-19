@@ -4,19 +4,19 @@ That said, I was surprised to see our gut biomes were so similar.
 
 Here's me:
 
-| tax_name        | percent |
-|-----------------|--------:|
-| Firmicutes      |  74.71% |
-| Bacteroidetes   |  21.09% |
-| Actinobacteria  |   2.62% |
-| Proteobacteria  |   0.99% |
-| Verrucomicrobia |   0.30% |
-| Euryarchaeota   |   0.18% |
-| Lentisphaerae   |   0.04% |
-| Synergistetes   |   0.03% |
-| Tenericutes     |   0.03% |
-| Fusobacteria    |   0.00% |
-| Fibrobacteres   |   0.00% |
+| **tax_name**        	| **percent** 	|
+|-----------------	|--------:	|
+| Firmicutes      	|  74.71% 	|
+| Bacteroidetes   	|  21.09% 	|
+| Actinobacteria  	|   2.62% 	|
+| Proteobacteria  	|   0.99% 	|
+| Verrucomicrobia 	|   0.30% 	|
+| Euryarchaeota   	|   0.18% 	|
+| Lentisphaerae   	|   0.04% 	|
+| Synergistetes   	|   0.03% 	|
+| Tenericutes     	|   0.03% 	|
+| Fusobacteria    	|   0.00% 	|
+| Fibrobacteres   	|   0.00% 	|
 
 Here's Dad
 
