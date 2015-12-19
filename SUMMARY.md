@@ -1,7 +1,7 @@
 # Summary
 
 * [Getting Started](getting_started.md)
-* [Case Studies](CaseStudies/baby.md)
+* [Case Studies](CaseStudies/README.md)
     * [Baby](CaseStudies/baby.md)
     * [Father and me](FatherAndSon.md)
 * [Experiments](experiments.md)
