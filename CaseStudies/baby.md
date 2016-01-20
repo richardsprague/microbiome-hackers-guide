@@ -1,7 +1,7 @@
 Peeking into a baby biome
 ---
 ![](molly1Month.jpg)
-Meet one-month-old baby girl “Ava”[^babyName]. She’s a healthy infant whose first-time parents are interested in the microbiome and have tried to do everything they can do optimize their baby’s microbial health. Ava was born vaginally, has never had antibiotics, is exclusively breast-fed by a mother who is careful to eat only nutritious, organic food. They all live in the country, surrounded by nature, including pets and other animals that will become more of her life when she starts to move around.
+Meet one-month-old baby girl “Molly Aspen McAndrew”[^1]. She’s a healthy infant whose first-time parents are interested in the microbiome and have tried to do everything they can do optimize their baby’s microbial health. Molly was born vaginally, has never had antibiotics, is exclusively breast-fed by a mother who is careful to eat only nutritious, organic food. They all live in the country, surrounded by nature, including pets and other animals that will become more of her life when she starts to move around.
 
 Her parents gave Ava an $89 [uBiome gut kit](http://ubiome.com) for her one-month birthday. As any parent on diaper duty knows, collecting the, um, sample is pretty easy. A few weeks later, uBiome gave them a list of the microbes found in the sample and a breakdown of their percentage abundances:
 
@@ -47,7 +47,7 @@ One microbe that doesn't appear in Ava's sample is *Lactobacillus*, which is oft
 
 Do you know somebody with a newborn baby? Since they'll be changing diapers regularly anyway, why not get them a uBiome gut kit so they can learn more too -- and contribute to the scientific understanding of the microbiome.
 
-[^babyName]: Not her real name, to protect the privacy of baby and parents.
+[^1]: Very cute kid.
 
 [^breastMilk]: It takes up to 500 calories per day for a mother to produce enough breastmilk to feed a child (pregnancy takes only an extra 300), so nature is apparently very serious about getting this right.
 
