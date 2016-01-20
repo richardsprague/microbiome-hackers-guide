@@ -11,7 +11,6 @@ Her parents gave Ava an $89 [uBiome gut kit](http://ubiome.com) for her one-mont
 | Proteobacteria | 3.97%  |
 | Firmicutes     | 2.26%  |
 
-![Baby Biome](BabyBiomePhyla.jpg)
 
 ![Baby Biome](babyBiomePhyla.jpg)
 
