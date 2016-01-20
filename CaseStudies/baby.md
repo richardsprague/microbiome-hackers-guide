@@ -27,6 +27,7 @@ What does this mean? Well, the first thing to notice about Ava's microbiome is t
 
 ![Mom's microbiome](babyBiomeMom.pdf =500x)
 
+
 Both baby and mother are pretty normal so far, but can we dig deeper to learn more? Well, *“Firmicutes”* is a broad category, a bit like discussing “vertebrates” and lumping in everything from fish to people as one kind of life. Yeah, *Firmicutes* have some distinctive things in common — they mostly appear to like fat, for example — but to understand the difference between this baby and an adult, let’s dig more deeply into exactly which types of *Firmicutes* are common in her.
 
 In most adults, *Firmicutes* seems to be a short-hand for *Clostridiales*, because that’s pretty much all you generally see in a typical *Firmicutes* sample: often something like 99% or more. Ava’s *Firmicutes* is much more interesting. Instead of  *Clostridiales* (of which she has nearly none), hers is made nearly entirely of a single species,  *Phascolarctobacterium faecium*. What does it do? We don’t really know.
