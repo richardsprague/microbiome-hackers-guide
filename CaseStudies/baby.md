@@ -11,7 +11,9 @@ Her parents gave Ava an $89 [uBiome gut kit](http://ubiome.com) for her one-mont
 | Proteobacteria | 3.97%  |
 | Firmicutes     | 2.26%  |
 
-![Baby Biome](images/BabyBiomePhyla.jpg =500x)
+![Baby Biome](BabyBiomePhyla.jpg)
+
+![Baby Biome](babyBiomePhyla.jpg)
 
 What does this mean? Well, the first thing to notice about Ava's microbiome is the dominance of *Bacteroidetes*, and the near non-existence of *Firmicutes*. In most westerners, the dominance of these two phyla is exactly reversed, as you can see in a similar breakdown we have of Ava’s mom:
 
