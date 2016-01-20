@@ -25,7 +25,7 @@ What does this mean? Well, the first thing to notice about Ava's microbiome is t
 | Proteobacteria  | 1.59%  |
 | Nitrospirae     | 0.02%  |
 
-![Mom's microbiome](babyBiomeMom.pdf =500x)
+![Mom's microbiome](images/babyBiomeMom.jpg)
 
 
 Both baby and mother are pretty normal so far, but can we dig deeper to learn more? Well, *“Firmicutes”* is a broad category, a bit like discussing “vertebrates” and lumping in everything from fish to people as one kind of life. Yeah, *Firmicutes* have some distinctive things in common — they mostly appear to like fat, for example — but to understand the difference between this baby and an adult, let’s dig more deeply into exactly which types of *Firmicutes* are common in her.
