@@ -7,7 +7,7 @@ To take best advantage of this book, you will need:
 * An account with uBiome. ([Order a kit now!](http://ubiome.com/pages/buynow))
 * The [PowerBiome web tools](http://warm-bastion-4552.herokuapp.com/).
 
-The original, much more detailed version of this book is available at Amazon as well a fine bookstores everywhere.
+The original, much more detailed version of this book is available at the best bookstores.
 
 Here are the main sections:
 
