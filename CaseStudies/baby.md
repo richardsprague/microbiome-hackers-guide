@@ -1,7 +1,7 @@
 Peeking into a baby biome
 ---
 
-<img src="molly1Month.jpg" width=400</>
+<img src="molly1Month.jpg" alt="Molly" width=400 />
 
 Meet one-month-old baby girl “Molly Aspen McAndrew”[^1]. She’s a healthy infant whose first-time parents are interested in the microbiome and have tried to do everything they can do optimize their baby’s microbial health. Molly was born vaginally, has never had antibiotics, is exclusively breast-fed by a mother who is careful to eat only nutritious, organic food. They all live in the country, surrounded by nature, including pets and other animals that will become more of her life when she starts to move around.
 
