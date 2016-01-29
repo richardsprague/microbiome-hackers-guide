@@ -14,7 +14,7 @@
 * [Explore the Raw Data](explore.md)
     * [Export to Excel](HowToAnalyze/HowToAnalyze.md)
     * [Measuring Diversity](diversity.md)
-* [Learn the Science](science.md)
+* [Learn the Science](Science/science.md)
 * [Go Further](further.md)
 * [References](References.md)
 
