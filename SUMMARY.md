@@ -2,6 +2,7 @@
 
 * [Getting Started](getting_started.md)
 * [Learn the Science](Science/science.md)
+    * [Microbes are everywhere](Science/microbesEverywhere.md)
 * [How to analyze your samples](explore.md)
     * [Export to Excel](HowToAnalyze/HowToAnalyze.md)
     * [Measuring Diversity](diversity.md)
