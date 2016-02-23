@@ -6,7 +6,9 @@ Learn More
 # References
 Here is a list of other resources I found helpful:
 
+[References](References.md)
 
+# Other Ideas
 
 Meanwhile, here are some other ideas to consider:
 
