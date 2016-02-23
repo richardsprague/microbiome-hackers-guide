@@ -2,7 +2,7 @@
 
 * [Getting Started](getting_started.md)
 * [Learn the Science](Science/science.md)
-* [Explore the Raw Data](explore.md)
+* [How to analyze your samples](explore.md)
     * [Export to Excel](HowToAnalyze/HowToAnalyze.md)
     * [Measuring Diversity](diversity.md)
 * [Case Studies](CaseStudies/README.md)
@@ -15,9 +15,7 @@
     * [Dentist](experiment-dentist.md)
     * [Gut Cleanse](experiment-colon.md)
     * [...and more](experiment-other.md)
-
 * [Go Further](further.md)
-* [References](References.md)
 
 ---
 
