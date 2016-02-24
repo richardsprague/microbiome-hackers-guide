@@ -17,6 +17,6 @@
    * [Dentist](experiment-dentist.md)
    * [Gut Cleanse](experiment-colon.md)
    * [...and more](experiment-other.md)
-* [Go Further](further.md)
 * Organisms
+* [Go Further](further.md)
 
