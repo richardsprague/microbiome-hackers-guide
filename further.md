@@ -3,6 +3,13 @@ Learn More
 
 [Follow me](http://twitter.com/sprague) on Twitter, or check [my personal web site](http://richardsprague.com/) for more details of my experiment, and please give me feedback!
 
+# References
+Here is a list of other resources I found helpful:
+
+[References](References.md)
+
+# Other Ideas
+
 Meanwhile, here are some other ideas to consider:
 
 # Fermented Food
@@ -17,7 +24,7 @@ People have been fermenting food since the distant past, making everything from 
 
 Fermenting your own foods is surprisingly easy.
 
-##Yogurt
+## Yogurt
 One of the easiest ferments is home-made yogurt. Pour a few cups of whole milk into a saucepan and heat to not-quite-boiling. You’ll need to get it above 160 degrees, the temperature that kills bacteria in milk, but if it goes all the way to boiling the milk will taste scalded. Even that’s not the end of the world, but you may as well try to keep it under that. Use a kitchen thermometer the first few times if you like, but soon you’ll be able to tell intuitively because you’ll see steam rising from the surface of the milk, but no boiling bubbles.
 
 After the milk has been heated, remove and pour it into a glass bowl. Let it sit until it cools to about 110 degrees. Here, a kitchen thermometer is more useful, especially the first time because the exact temperature is more important. Warmer than 110 degrees and the lactobacillus yogurt bacteria will die; too much lower and they won’t grow. Once you have the hang of it, you’ll be able to tell based on the touch: it’ll feel unpleasantly warmer than your hand (which should be 98 degrees) but not too warm to touch.
@@ -29,7 +36,7 @@ Mix the starter thoroughly into the lukewarm milk and then cover it up and put i
 
 Set in a quiet place for about 8-10 hours. Overnight is ideal. When you open the bowl again, you’ll find the mixture no longer resembles milk, but has been transformed into a much thicker consistency — a yogurt. It will taste sour, and if you’re not accustomed to plain, unsweetened yogurt you may even think that is has spoiled. Nope, that’s just how pure, real yogurt is meant to taste.
 
-##Pickling
+## Pickling
 The next step after yogurt-making is also easy. It takes a little longer, from one to several weeks, but lets you expand your fermentation skills to many more foods. The most basic one is cabbage, to make your own sauerkraut.
 
 Think of fermentation as a type of farming, only instead of large plants that you see, you’re farming with invisible microbes. In both cases the object is to start with a small seed that grows into a full crop. For sauerkraut, the microbes are naturally occurring on the leaves of plants and vegetables. You just need to put them into the right environment so the microbes can grow. 

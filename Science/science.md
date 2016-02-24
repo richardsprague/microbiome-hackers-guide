@@ -32,37 +32,6 @@ Now, thanks to new machines originally developed for mass DNA sequencing, the pr
 Unlike the genetic discoveries you can make by understanding your DNA (from a low-cost consumer service like 23andme), much of the news from the microbial world is actionable. There’s little, if anything, you can do if you find you have a particular type of gene that gives you, say, a propensity to alzheimers for example. But because the microbes around you are constantly changing anyway, and because you can influence which ones grow and which don’t, the world of the human micro biome is eminently actionable. 
 
 
-
-[This next few sections give examples of microbes everywhere]
-
-![](https://upload.wikimedia.org/wikipedia/commons/7/73/Ecoli_colonies.png)
-
-[Examples of odd microbes everywhere]
-
-A team in France, performing experiments on snowflakes, discovered microbes in the sky.
-
-!fig(amatoSkyMicrobe)
-
-These microbes are so numerous that they affect the climate. 
-
-Traces of plankton have been found in space, on the surface of the International Space Station, where they are believed to have floated from the upper atmosphere.
-
-http://tass.ru/en/non-political/745635
-
-Microbes living in the gut of mealworms can digest styrofoam: http://cen.acs.org/articles/93/web/2015/09/Mealworms-Munch-Polystyrene-Foam.html
-
-Three kilometers underground, in a South African gold mine, scientists discovered [microbe that lives on dirt]
-
-There are even microbes that thrive in radioactive environments, like the dangerous interior of the Chernobyl nuclear reactor.
-
-
-
-
-Subglacial Lake Whillans is a lake found under more than 800 meters of ice in the West Antarctic. A careful underground bore hole was inserted by a team from Louisiana State University in 2014 [http://www.nature.com/nature/journal/v512/n7514/full/nature13667.html]  and found more than 4,000 different species of bacteria surviving under the ice. The total bacterial count was not that different from the count you’d find in surface lakes on other parts of the planet, a fact that is especially surprising for an environment that hasn’t had a ray of light in millions of years. The bacteria instead thrive on iron, sulphur, and nitrogen as energy sources.
-http://earthsky.org/earth/diverse-microbes-found-deep-beneath-antarctic-ice-sheet
-
-
-
 Nowhere are the microbes more numerous or obvious than in our guts. The tiny bacteria that come sliding down your inner tube eventually exit the body entirely, in a pile you’ve been making anew every day since your birth. Later we’ll show you how to analyze these exiting microbes, but first, because the gut is such an important home to microbes, let’s go into more detail about the journey they take from mouth to rear.
  
 >Just one species of bacteria, Bacteroidetes thetaiotaomicron, contains an arsenal of over 260 specific enzymes for breaking down different plant structures
