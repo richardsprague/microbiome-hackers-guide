@@ -18,5 +18,6 @@
    * [Gut Cleanse](experiment-colon.md)
    * [...and more](experiment-other.md)
 * [Organisms](Organisms/MHG-organisms.md)
+   * List of bacteria and their functions
 * [Go Further](further.md)
 
