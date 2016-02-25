@@ -31,7 +31,7 @@ An intro to biology
 Studying the Human Microbiome
 =============================
 
--   Studying the Microbiome
+-   Studying the microbiome
 
 -   The old way: culturing
 
