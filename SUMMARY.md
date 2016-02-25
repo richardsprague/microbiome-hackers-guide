@@ -20,5 +20,5 @@
 * [Organisms](Organisms/MHG-organisms.md)
    * [List of bacteria and their functions](Organisms/list_of_bacteria_and_their_functions.md)
 * [Go Further](further.md)
-* Acknowledgements
+* [Acknowledgements](acknowledgements.md)
 
