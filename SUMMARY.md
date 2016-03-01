@@ -15,7 +15,7 @@
    * [Gut Cleanse](experiment-colon.md)
    * [...and more](experiment-other.md)
 * [Case Studies](CaseStudies/README.md)
-   * [Baby](CaseStudies/baby.md)
+   * [Baby](HowToAnalyze/case studies/babybiome.md)
    * [Father and me](CaseStudies/FatherAndSon.md)
 * [Organisms](Organisms/MHG-organisms.md)
    * [List of bacteria and their functions](Organisms/list_of_bacteria_and_their_functions.md)
