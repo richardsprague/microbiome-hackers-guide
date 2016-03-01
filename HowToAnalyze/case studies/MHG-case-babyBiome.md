@@ -1,5 +1,5 @@
-<span id="peeking-into-a-baby-biome" class="anchor"><span id="OLE_LINK1" class="anchor"></span></span>Case study: a baby microbiome
------------------------------------------------------------------------------------------------------------------------------------
+Case study: a baby microbiome
+-------
 
 Molly is a healthy infant whose first-time parents are interested in the microbiome and have tried to do everything they can to optimize their baby’s microbial health. Molly was born vaginally, has never had antibiotics, is exclusively breast-fed by a mother who tries to eat nutritious, organic food. They live in the country, surrounded by nature, including pets and other animals that will become more of her life when she starts to move around.
 
@@ -12,7 +12,7 @@ But how can you tell whether their healthy lifestyle is helping? To find out, he
   Proteobacteria   3.97%
   Firmicutes       2.26%
 
-![](./images/media/babybiome1.jpg)
+![](./images/babybiome1.jpg)
 
 What does this all mean? Well, the first thing to notice about Molly's microbiome is the dominance of a group of bacteria called *Bacteroidetes*, and the much lower levels of another type called *Firmicutes*. In most westerners, the abundance of these two is exactly reversed, as you can see in a similar breakdown we have of Molly’s mom:
 
@@ -25,7 +25,7 @@ What does this all mean? Well, the first thing to notice about Molly's microbiom
   Proteobacteria    1.59%
   Nitrospirae       0.02%
 
-![](./images/media/mombiome1.jpg)
+![](./images/mombiome1.jpg)
 
 Figure 2: Mom's microbiome
 
