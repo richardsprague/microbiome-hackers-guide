@@ -1,4 +1,4 @@
-# Acknowledgements
+# Acknowledgments
 
 This book is copyright (c) 2015 by Ensembio, Inc.
 
