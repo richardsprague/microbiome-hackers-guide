@@ -12,7 +12,7 @@ The original, much more detailed version of this book is available at the best b
 Here are the main sections:
 
 * [Getting Started](getting_started.md): What to look for in your first uBiome results.
-* [Explore the Raw Data](analyze.md): Download your results for deeper analysis.
+* [Explore the Raw Data](HowToAnalyze/analyze.md): Download your results for deeper analysis.
 * [The Science](science.md): Learn more background about the microbiome
 * [Experiments](experiments.md): Examples of self-experimenting
 * [Next Steps](further.md): Take your knowledge to the next level
