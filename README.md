@@ -5,7 +5,7 @@ This is a **an early draft** excerpt of a book for curious people with little or
 ###Prerequistes
 To take best advantage of this book, you will need:
 * An account with uBiome. ([Order a kit now!](http://ubiome.com/pages/buynow))
-* The [PowerBiome web tools](http://warm-bastion-4552.herokuapp.com/).
+* The PowerBiome web tools [coming soon]
 
 The original, much more detailed version of this book is available at the best bookstores.
 
