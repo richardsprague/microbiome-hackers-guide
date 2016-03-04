@@ -22,6 +22,6 @@
 * [Go Further](further.md)
    * [Go Further](Next/AnnotatedReference.md)
    * References
-* References
+* [References](Next/references.md)
 * [Acknowledgements](acknowledgements.md)
 
