@@ -7,7 +7,7 @@ To take best advantage of this book, you will need:
 * An account with uBiome. ([Order a kit now!](http://ubiome.com/pages/buynow))
 * The PowerBiome web tools [coming soon]
 
-The original, much more detailed version of this book is available at the best bookstores.
+A much more detailed version of this book will  be available soon at the fine bookstores everywhere.
 
 Here are the main sections:
 
