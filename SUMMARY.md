@@ -7,7 +7,7 @@
 * [How to analyze your samples](HowToAnalyze/analyze.md)
    * [Export to Excel](HowToAnalyze/HowToAnalyze.md)
    * [Measuring Diversity](diversity.md)
-   * Make a single sheet with all your samples
+   * [Make a single sheet with all your samples](HowToAnalyze/makeSingleMultiSampleSheet.md)
 * [Experiments](experiments.md)
    * [Food](experiment-food.md)
    * [Travel](experiment-jungleTravel.md)
