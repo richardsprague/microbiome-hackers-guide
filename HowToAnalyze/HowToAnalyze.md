@@ -27,12 +27,12 @@ UBiome’s taxonomy files come in a simple structured text format called JSON (J
 	    "tax_color": "5E6591"
 	  }
 
-JSON is just structured data. That’s it.  The data is organized according to keys and values. The keys are unique identifiers and the values are their values. The whole file looks that way. The only requirement of a JSON file is that it be consistent with this pattern, because after all it will need to be read by a computer eventually.
+JSON is just structured data. That’s it: a big bunch of lookup keys and values. The keys are unique identifiers and the values are their values. The whole file looks that way. The only requirement of a JSON file is that it be precisely consistent with this pattern, because after all it will need to be read by a computer eventually.
 The uBiome Taxonomy JSON files identify the key ```uBiome_bacteriacounts``` which is mapped to a bunch of fields, each representing a particular organism found in your sample. Look at the figure above to get the basic idea.
 
 Because uBiome JSON files are well-structured, it’s easy to process them with other software, including Excel. That’s our next step: bring this data into Excel.
 
-Converting uBiome taxonomy JSON to Excel
+## Converting uBiome taxonomy JSON to Excel
 
 If you just have one or two files, it’s easy to bring uBiome taxonomy data into Excel. Go to the uBiome apps page and click on the section labeled “Download taxonomy”.
 
@@ -102,9 +102,9 @@ The built-in uBiome web tools look for relative differences. A taxon might be a 
 
 Compare that with a an organism with a count_norm of 50,000 in one sample and 51,000 in another sample. UBiome’s algorithms will treat these as a virtual tie, even though the absolute number of organisms in the second sample outnumber the first by 1,000 organisms.
 
-Which method of measuring is better? It depends on what you care more about.  Some species need have only a tiny representation in a sample to make a big difference in health outcomes. 
+Which method of measuring is better? It depends on what you care more about.  Some species need  only a tiny representation in a sample to make a big difference in health outcomes. 
 
-I prefer to use both methods of measurement: absolute number changes matter for the most popular taxons, and relative amounts matter more for the less-popular ones.
+I prefer to use both methods of measurement: absolute number changes for the most popular taxons, and relative amounts more for the less-popular ones.
 
 
 
