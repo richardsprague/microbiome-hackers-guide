@@ -1,10 +1,10 @@
-Converting to Excel
--------------------
+#How to Use the uBiome Taxonomy Files
 
-The Illumina machines spit off huge amounts of data (FASTQ files can be hundreds of thousands of lines long), so to be useful you’ll need a summary. UBiome provides a much more concise version called a “raw taxonomy” file, which is generally only a few hundred lines showing just the organisms they think they found in the sample.
 
-#What is JSON
-UBiome’s taxonomy files come in a simple structured text format called JSON (JavaScript Object Notation), commonly used across the web. Although it’s not as convenient for people as the rest of the uBiome web site, programmers refer to JSON as “human readable”, because if you squint enough you can sorta tell what it means without a computer program. Here’s a sample:
+The information you see in the uBiome web app is a greatly simplified view of the data torrent that comes from the gene sequencing machines that crunched your sample. Your raw data can be hundreds of hundreds of thousands of lines long, so to be more useful, uBiome provides a much more concise version. It’s called a “taxonomy” file, which is generally only a few hundred lines showing just the organisms that the uBiome computer algorithms think they found in your sample.
+
+##JSON files
+The taxonomy files come in a simple structured text format called JSON (JavaScript Object Notation), commonly used across the web. Although it’s not as convenient for people as the rest of the uBiome web site, programmers refer to JSON as “human readable”, because if you squint enough you can sorta tell what it means without a computer program. Here’s a sample:
 
 	{
 	  "ubiome_bacteriacounts": [{
@@ -56,12 +56,10 @@ Once the data is in Excel, you can work with it just as you would with any Excel
 
 ![](ExcelScreenOverview.png)
 
-Yours may look slightly different. Sometimes uBiome changes the labels on the taxonomy slightly, and the ordering of the columns may be different depending on how the JSON was converted, but none of that matters. The key is that you are now able to work with it in a full-blown spreadsheet.
+Yours may look slightly different. Labels may be slightly different sometimes, and the ordering of the columns may be different depending on how the JSON was converted, but none of that matters. The key is that you are now able to work with it in a full-blown spreadsheet.
 
-The uBiome data tags
-Let’s review the meaning of each of the columns. The uBiome JSON taxonomy data includes the following fields:
-
-The uBiome JSON taxonomy data includes the following fields:
+## The uBiome data tags
+Let’s review the meaning of each of the columns, which are derived from the following uBiome JSON keys:
 
 **count**: an absolute measure of number of organisms found in the sample. Without knowing the size of the sample, or how many times the DNA inside was processed through PCR amplification, this number doesn’t mean much except in relation to other counts at the same taxonomical rank.
 
@@ -116,9 +114,6 @@ I prefer to use both methods of measurement: absolute number changes for the mos
 ## Comparison over time ##
 
 #All my uBiome results in a single table
-
-[this whole section should be replaced with references to [Powerbiome](http://warm-bastion-4552.herokuapp.com/)]
-
 
 I often read news about a fresh scientific discovery involving the microbiome and immediately wonder if the discovery applies to me. For example, I recently saw a study from Oregon State University that seemed to find a link between high sugar diets and “cognitive flexibility”, i.e. your ability to adapt and adjust to changing circumstances. The study’s author, Kathy Magnusson, a professor in the OSU College of Veterinary Medicine, found that mice who eat lots of sugar have elevated levels of Clostridiales bacteria, and that this seemed to relate to a slower ability to solve a maze. Hmmm, I thought — how much Clostridiales do I have?
 
