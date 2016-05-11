@@ -66,8 +66,14 @@ Books
 
 General about the Microbiome
 ----------------------------
+*The Good Gut* by Justin Sonnenburg
+
+Written by one of the practicing scientists in the field, this is a must-read, and especially interesting because it includes recipes at the end from a researcher who clearly is interested in the practical consequences of his discoveries. This is not the best book for a general science-reading audience (I still give that distinction to Tim Spector or Rob Knight), but if you're interested in specific suggestions -- which foods to eat or avoid, how often to wash your hands, how to raise your children) then you'll get more accurate information here than in the best-selling diet alternatives.
 
 *The Diet Myth: Why the Secret to Health and Weight Loss is Already in Your Gut* Tim Spector
+
+The best so far of a string of excellent microbiome books written by practicing scientists. The author's concise writing style packs multiple interesting examples and facts on each page. Divided into chapters based on type of food, I learned about what's proven and what's unknown about the effects of different diets on health.
+
 
 *Missing Microbes* by Martin Blaser
 
