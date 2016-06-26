@@ -130,7 +130,7 @@ My complaint is that it's written by a clinician, not a scientist or journalist,
 
 ### Mullin, Gerard E. *The Gut Balance Revolution: Boost Your Metabolism, Restore Your Inner Ecology, and Lose the Weight for Good!*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1623364019&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20_
+![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1623364019&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20_)
 
 Although Dr. Mullin has been thinking about the microbiome for years, most of this book is about standard alternative diet advice, with references to Omega-6, FODMAPs, Mediterranean Diet, etc. but not really much specific about the microbiome. Don’t waste your money.
 
