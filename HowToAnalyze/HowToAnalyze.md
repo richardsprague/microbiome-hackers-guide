@@ -36,7 +36,7 @@ Because uBiome JSON files are well-structured, it’s easy to process them with 
 
 ## Converting uBiome taxonomy JSON to Excel
 
-If you just have one or two files, it’s easy to bring uBiome taxonomy data into Excel. Go to the uBiome Explorer page \(https://app.ubiome.com/explore\)  and click on the section labeled “Advanced” and then "Downloads":
+If you just have one or two files, it’s easy to bring uBiome taxonomy data into Excel. Go to the uBiome Explorer page \([https://app.ubiome.com/explore\](https://app.ubiome.com/explore\)\)  and click on the section labeled “Advanced” and then "Downloads":
 
 ![](/assets/ubiomeExplorerDownloads.jpg)
 
@@ -108,7 +108,7 @@ I prefer to use both methods of measurement: absolute number changes for the mos
 
 # All my uBiome results in a single table
 
-I often read news about a fresh scientific discovery involving the microbiome and immediately wonder if the discovery applies to me. For example, I recently saw a study from Oregon State University that seemed to find a link between high sugar diets and “cognitive flexibility”, i.e. your ability to adapt and adjust to changing circumstances. The study’s author, Kathy Magnusson, a professor in the OSU College of Veterinary Medicine, found that mice who eat lots of sugar have elevated levels of Clostridiales bacteria, and that this seemed to relate to a slower ability to solve a maze. Hmmm, I thought — how much Clostridiales do I have?
+I often read news about a fresh scientific discovery involving the microbiome and immediately wonder if the discovery applies to me. For example, I recently saw [a study from Oregon State University ](https://www.ncbi.nlm.nih.gov/pubmed?term=10.1016%2Fj.neuroscience.2015.05.016)that seemed to find a link between high sugar diets and “cognitive flexibility”, i.e. your ability to adapt and adjust to changing circumstances. The study’s author, Kathy Magnusson, a professor in the OSU College of Veterinary Medicine, found that mice who eat lots of sugar have elevated levels of Clostridiales bacteria, and that this seemed to relate to a slower ability to solve a maze. Hmmm, I thought — how much Clostridiales do I have?
 
 If you have just one uBiome result, that’s easy:
 
