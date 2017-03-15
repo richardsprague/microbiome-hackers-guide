@@ -1,4 +1,4 @@
-You are surrounded by life. No, I don’t mean just the people or pets or plants that may be near you. The stuff you can see is just a fraction of the living world you inhabit. The vast majority of the life around you is invisible. We tend to forget about things we can't see, ignoring that which is literally under our noses, but it’s there.
+No matter where you are, no matter what you are doing, you surrounded by life. It’s not just the people or pets or plants that may be nearby at this moment. What we see around us is just a fraction of the living world we inhabit. The vast majority of the life is invisible. We tend to forget about things we can't see, ignoring that which is literally under our noses, but it’s there.
 
 Life is incredibly tenacious, fighting for and keeping its niche in just about environment it encounters. In the sky, deep underground, in the most barren habitats cold or hot anywhere on earth, there are lifeforms. The vast majority of these are microbes, so small we can’t see them, but small doesn’t mean irrelevant. In fact, the more that science understands about the invisible microbial world, the more it is clear that these uncountably numerous creatures exert a much bigger effect than we think. 
 
@@ -6,7 +6,7 @@ Every traditional culture recognizes a role for the invisible, often translated 
 
 The invisible world of microbes is like that, with new, low-cost technologies showing us incredible, rich, living universes waiting to be explored.
 
-The word “microbe” refers to any tiny organism that carries its own genetic information for purposes of propagating itself. Far too small to see with the naked eye, dozens could fit inside a typical human cell. The vast majority of microbes are bacteria, though viruses and phages fit this description too, as well as archaea, the extremophile life forms that live and thrive in environments too challenging for bacteria. 
+The word “microbe” refers to any tiny organism that carries its own genetic information for purposes of propagating itself. Far too small to see with the naked eye, dozens could fit inside a typical human cell. Although it’s common to think of microbes and bacteria as the same thing, in fact there are at least seven different types of microorganism: bacteria, extremophile life forms called archaea that live and thrive in environments too challenging for bacteria, protozoa, algae, fungi, viruses, and some multi-cellular animal parasites such as helminths. Each of these has its own characteristic body type, means of reproduction, and ways of moving around.
 
 Let’s look next at some of these environments and see the odd places where microbes have been found.
 
@@ -14,6 +14,8 @@ Microbes in the air
 ===================
 
 Even the sky contains living microbes. Pierre Amato is a staff scientist at the Institut de Chimie de Clermont-Ferrand in France who for decades has been sampling clouds to determine their precise contents, and sure enough: he finds plenty of life there, usually between 1,000 and 10,000 bacterial cells per milliliter — not all that different from the amount [you’d find in alpine snow](http://www.livescience.com/26645-microbes-in-the-sky.html). Like every living organism, these cells must soak up water and other nutrients, converting them into energy and various by-products, which collectively have a massive effect on the overall atmosphere, more than enough to affect climate. [^1]
+
+![](./images/media/image1.tiff){width="6.5in" height="4.736805555555556in"}
 
 The upper atmosphere is a harsh place for life: regular freezing and thawing, constant bombardment of UV radiation from the sun during the day, cold, subzero freezing temperatures at night, high speed, unpredictable winds that quickly disperse any colonies. Plus, at any moment these organisms can find themselves flushed to the ground in a rainstorm, where they’ll need to adapt again.
 
@@ -29,16 +31,16 @@ Subglacial Lake Whillans is a lake buried under more than 800 meters of ice in t
 
 Those may not be the deepest examples. A Cold War-era Soviet team drilling the world’s deepest hole, were forced to abandon the project in 1994 at 12,261 meters (or 7.5 miles) underground, when they hit temperatures above 180 °C (or 356 °F), too hot for their equipment. Apparently the conditions weren’t too hot for life, though: the nine-inch diameter Kola Superdeep Borehole[^5] found 24 species of fossilized plankton among the two-billion-year-old rocks down there. Of course, fossils are not the same thing as living microbes, but even dead remnants at that depth is evidence of the tenacity of life.
 
-There are even microbes that thrive in radioactive environments, like the dangerous interior of a nuclear reactor. *Deinococcus radiodurans* is an extremophile member of Phylum Deinococcus-Thermus that boasts an impressive built-in DNA repair mechanism that lets it survive cold, vacuum, acid, light, dehydration – you name it. It remains unbothered by radiation levels more than 1,000 times higher than would kill a human.
+Still other microbes thrive in radioactive environments, like the dangerous interior of a nuclear reactor. *Deinococcus radiodurans* is an extremophile member of Phylum Deinococcus-Thermus that boasts an impressive built-in DNA repair mechanism that lets it survive cold, vacuum, acid, light, dehydration – you name it. It remains unbothered by radiation levels more than 1,000 times higher than would kill a human.
 
 Microbes around you
 ===================
 
-You don’t have to go to extreme conditions to find unusual microbes. Microbes thrive where humans live, and they are in our everyday environment too.
+You don’t have to go to extreme conditions to find unusual microbes. Microbes thrive whereever humans live, and they are in our everyday environment too. The recent PathoMap study of DNA collected from the New York City subway found that, like the air above, half of the microbes we walk past everyday are unknown to science. [^6] Most of the organisms are apparently benign, with no obvious affect on humans one way or another. Even when known pathogens are found, including *Yersinia pestis* (Bubonic plague) and *Bacillus anthracis* (anthrax), the lack of reported infections indicates that probably these organisms are busying themselves for some other, unknown, and maybe even useful purpose.
 
-A recent study of the New York City subway found that, like the air above, half of the microbes we walk past everyday are unknown to science.
+Generally the microbes seem content to exist patiently with no apparent affect on the environment. A station flooded by Hurricane Sandy showed a similarity to a marine environment a year after the disaster.
 
-A station flooded by Hurricane Sandy showed a similarity to a marine environment a year after the disaster.
+Humans are the source of many unusual microbes in our environment. Regularly shedding 1.5 million skin cells per hour, leftover inhabitants of our bodies can colonize a hotel room in less than six hours. [^7]
 
 Microbes you eat with your food
 ===============================
@@ -51,7 +53,7 @@ After harvest and processing, our meals still contain a surprising variety of mi
 
 You will ingest somewhere between 1.4 million and 1.3 trillion microbes per day, depending on what type of diet you follow. Eat according to USDA guidelines and you’ll be at the high end of the range, emphasizing fruits and vegetables, lean meat, dairy, and whole grains; the lower end is more typical of a vegan diet, or even a typical American convenience food-style diet of “junk food”. Interestingly, you’ll get roughly the same diversity of microbes no matter which diet you follow, although there can be a difference depending on whether the food is raw or cooked.
 
-We eat plants for their nutrients, but often a “nutrient” is in the eye of the beholder. Plants don’t like to be eaten any more than the rest of us, and they have developed powerful defense mechanisms to keep out predators, including microbes. In fact, it’s those anti-microbial properties that make many plants medicinally useful. One estimate showed that of 18,000 plants available to Native Americans, only 1,625 were used as food; but 2,564 were used as drugs, many of which are specifically there to manipulate microbes. [^6] Extrapolate that to the estimated 500,000 different plants on earth, only about 1-10% of which are useful as foods to humans, and it becomes clear that microbes play a big role in which plants thrive and which don’t.
+We eat plants for their nutrients, but often a “nutrient” is in the eye of the beholder. Plants don’t like to be eaten any more than the rest of us, and they have developed powerful defense mechanisms to keep out predators, including microbes. In fact, it’s those anti-microbial properties that make many plants medicinally useful. One estimate showed that of 18,000 plants available to Native Americans, only 1,625 were used as food; but 2,564 were used as drugs, many of which are specifically there to manipulate microbes. [^8] Extrapolate that to the estimated 500,000 different plants on earth, only about 1-10% of which are useful as foods to humans, and it becomes clear that microbes play a big role in which plants thrive and which don’t.
 
 Different Diet = Different microbes
 -----------------------------------
@@ -133,9 +135,9 @@ Lang, J. M., Eisen, J. A., & Zivkovic, A. M. (2014). The microbes we eat: abunda
 Killing microbes (anti-biotics)
 ===============================
 
-[^1]: <https://www.microbemagazine.org/index.php?option=com_content&view=article&id=4547:clouds-provide-atmospheric-oases-for-microbes&catid=939:07-2011-features&Itemid=1287>
+[^1]: <http://www.asmscience.org/content/journal/microbe/10.1128/microbe.7.119.1>
 
-[^2]: http://tass.ru/en/non-political/745635
+[^2]: <http://tass.ru/en/non-political/745635>
 
 [^3]: Chivian, Dylan, Eoin L Brodie, Eric J Alm, David E Culley, Paramvir S Dehal, Todd Z DeSantis, Thomas M Gihring, et al. 2008. “Environmental Genomics Reveals a Single-Species Ecosystem Deep within Earth.” Science (New York, N.Y.) 322 (5899). American Association for the Advancement of Science: 275–78. doi:10.1126/science.1155495.
 
@@ -143,4 +145,8 @@ Killing microbes (anti-biotics)
 
 [^5]: http://www.atlasobscura.com/places/kola-superdeep-borehole
 
-[^6]: Cowan, M M. 1999. “Plant Products as Antimicrobial Agents.” *Clinical Microbiology Reviews* 12 (4): 564–82. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=88925&tool=pmcentrez&rendertype=abstract.
+[^6]: Afshinnekoo, Ebrahim, Cem Meydan, Shanin Chowdhury, Dyala Jaroudi, Collin Boyer, Nick Bernstein, Julia M. Maritz, et al. “Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.” *Cell Systems* 1, no. 1 (n.d.): 72–87. doi:10.1016/j.cels.2015.01.001.
+
+[^7]: <http://www.wsj.com/articles/big-data-and-bacteria-mapping-the-new-york-subways-dna-1423159629>
+
+[^8]: Cowan, M M. 1999. “Plant Products as Antimicrobial Agents.” *Clinical Microbiology Reviews* 12 (4): 564–82. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=88925&tool=pmcentrez&rendertype=abstract.
