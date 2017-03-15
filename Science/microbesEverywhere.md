@@ -1,5 +1,4 @@
 # Microbes Everywhere
-
 No matter where you are, no matter what you are doing, you surrounded by life. It’s not just the people or pets or plants that may be nearby at this moment. What we see around us is just a fraction of the living world we inhabit. The vast majority of the life is invisible. We tend to forget about things we can't see, ignoring that which is literally under our noses, but it’s there.
 
 Life is incredibly tenacious, fighting for and keeping its niche in just about environment it encounters. In the sky, deep underground, in the most barren habitats cold or hot anywhere on earth, there are lifeforms. The vast majority of these are microbes, so small we can’t see them, but small doesn’t mean irrelevant. In fact, the more that science understands about the invisible microbial world, the more it is clear that these uncountably numerous creatures exert a much bigger effect than we think. 
@@ -16,7 +15,8 @@ Microbes in the air
 ===================
 
 Even the sky contains living microbes. Pierre Amato is a staff scientist at the Institut de Chimie de Clermont-Ferrand in France who for decades has been sampling clouds to determine their precise contents, and sure enough: he finds plenty of life there, usually between 1,000 and 10,000 bacterial cells per milliliter — not all that different from the amount [you’d find in alpine snow](http://www.livescience.com/26645-microbes-in-the-sky.html). Like every living organism, these cells must soak up water and other nutrients, converting them into energy and various by-products, which collectively have a massive effect on the overall atmosphere, more than enough to affect climate. [^1]
-![](https://www.wired.com/images_blogs/wiredscience/2011/05/BUGS_IN_ICE.jpg)
+
+![](https://www.wired.com/images\_blogs/wiredscience/2011/05/BUGS\_IN\_ICE.jpg)
 
 The upper atmosphere is a harsh place for life: regular freezing and thawing, constant bombardment of UV radiation from the sun during the day, cold, subzero freezing temperatures at night, high speed, unpredictable winds that quickly disperse any colonies. Plus, at any moment these organisms can find themselves flushed to the ground in a rainstorm, where they’ll need to adapt again.
 
@@ -34,16 +34,16 @@ Those may not be the deepest examples. A Cold War-era Soviet team drilling the w
 
 Still other microbes thrive in radioactive environments, like the dangerous interior of a nuclear reactor. *Deinococcus radiodurans* is an extremophile member of Phylum Deinococcus-Thermus that boasts an impressive built-in DNA repair mechanism that lets it survive cold, vacuum, acid, light, dehydration – you name it. It remains unbothered by radiation levels more than 1,000 times higher than would kill a human.
 
-![Deinococcus radiodurans](https://upload.wikimedia.org/wikipedia/commons/7/73/Deinococcus_radiodurans.jpg)
+![Deinococcus radiodurans](https://upload.wikimedia.org/wikipedia/commons/7/73/Deinococcus\_radiodurans.jpg)
 
 Microbes around you
 ===================
 
 You don’t have to go to extreme conditions to find unusual microbes. Microbes thrive whereever humans live, and they are in our everyday environment too. The recent PathoMap study of DNA collected from the New York City subway found that, like the air above, half of the microbes we walk past everyday are unknown to science. [^6] Most of the organisms are apparently benign, with no obvious affect on humans one way or another. Even when known pathogens are found, including *Yersinia pestis* (Bubonic plague) and *Bacillus anthracis* (anthrax), the lack of reported infections indicates that probably these organisms are busying themselves for some other, unknown, and maybe even useful purpose.
 
-Generally the microbes seem content to exist patiently with no apparent affect on the environment. A station flooded by Hurricane Sandy showed a similarity to a marine environment a year after the disaster.
-
 ![](http://www.cell.com/cms/attachment/2054936429/2060898672/gr1.jpg)
+
+Generally the microbes seem content to exist patiently with no apparent affect on the environment. A station flooded by Hurricane Sandy showed a similarity to a marine environment a year after the disaster.
 
 Humans are the source of many unusual microbes in our environment. Regularly shedding 1.5 million skin cells per hour, leftover inhabitants of our bodies can colonize a hotel room in less than six hours. [^7]
 
@@ -56,18 +56,11 @@ Plants are covered with them, from the flowers and branches to the roots. Seeds 
 
 After harvest and processing, our meals still contain a surprising variety of microbes. Of course, sometimes this is deliberate: some of us eat fermented foods like sauerkraut or yogurt to ingest the microbes that were grown to make their special flavor or texture. But even every day foods, like raw vegetables, will naturally be covered with healthy levels of microbes.
 
-You will ingest somewhere between 1.4 million and 1.3 trillion microbes per day, depending on what type of diet you follow. Eat according to USDA guidelines and you’ll be at the high end of the range, emphasizing fruits and vegetables, lean meat, dairy, and whole grains; the lower end is more typical of a vegan diet, or even a typical American convenience food-style diet of “junk food”. Interestingly, you’ll get roughly the same diversity of microbes no matter which diet you follow, although there can be a difference depending on whether the food is raw or cooked.
+You will ingest somewhere between 1.4 million and 1.3 trillion microbes per day, depending on what type of diet you follow. Eat according to USDA guidelines and you’ll be at the high end of the range, emphasizing fruits and vegetables, lean meat, dairy, and whole grains; the lower end is more typical of a vegan diet, or even a typical American convenience food-style diet of “junk food”. Interestingly, you’ll get roughly the same diversity of microbes no matter which diet you follow, although there can be a difference depending on whether the food is raw or cooked.[^8]
 
-We eat plants for their nutrients, but often a “nutrient” is in the eye of the beholder. Plants don’t like to be eaten any more than the rest of us, and they have developed powerful defense mechanisms to keep out predators, including microbes. In fact, it’s those anti-microbial properties that make many plants medicinally useful. One estimate showed that of 18,000 plants available to Native Americans, only 1,625 were used as food; but 2,564 were used as drugs, many of which are specifically there to manipulate microbes. [^8] Extrapolate that to the estimated 500,000 different plants on earth, only about 1-10% of which are useful as foods to humans, and it becomes clear that microbes play a big role in which plants thrive and which don’t.
+We eat plants for their nutrients, but often a “nutrient” is in the eye of the beholder. Plants don’t like to be eaten any more than the rest of us, and they have developed powerful defense mechanisms to keep out predators, including microbes. In fact, it’s those anti-microbial properties that make many plants medicinally useful. One estimate showed that of 18,000 plants available to Native Americans, only 1,625 were used as food; but 2,564 were used as drugs, many of which are specifically there to manipulate microbes. [^9] Extrapolate that to the estimated 500,000 different plants on earth, only about 1-10% of which are useful as foods to humans, and it becomes clear that microbes play a big role in which plants thrive and which don’t.
 
-Different Diet = Different microbes
------------------------------------
-
-antibiotics remain active in manure, which when fed to plants may remain. So even vegans may be getting more antibiotics than they like.
-
-### Vegans
-
-### Omnivores
+You’re not necessarily immune from accidental antibiotic ingestion if you simply avoid eating antibiotic-treated meat. Between 70% - 90% of the antibiotics given to farm animals are ultimately discharged in their manure, which if administered as fertilizer, can coat the soil used for growing food plants. Although antibiotics naturally degrade over time, the process can take months and under many conditions, giving ample time to be taken up in to plants that we eat, so even hard-core vegans may be getting more antibiotics than they like.
 
 How microbes make you sick
 --------------------------
@@ -135,11 +128,6 @@ Before refrigerators, the long-term preservation of food
 
 Yes, much of that yogurt makes it past the stomach and into the gut.
 
-Lang, J. M., Eisen, J. A., & Zivkovic, A. M. (2014). The microbes we eat: abundance and taxonomy of microbes consumed in a day’s worth of meals for three diet types. *PeerJ*, *2*, e659. http://doi.org/10.7717/peerj.659
-
-Killing microbes (anti-biotics)
-===============================
-
 [^1]: <http://www.asmscience.org/content/journal/microbe/10.1128/microbe.7.119.1>
 
 [^2]: <http://tass.ru/en/non-political/745635>
@@ -154,4 +142,6 @@ Killing microbes (anti-biotics)
 
 [^7]: <http://www.wsj.com/articles/big-data-and-bacteria-mapping-the-new-york-subways-dna-1423159629>
 
-[^8]: Cowan, M M. 1999. “Plant Products as Antimicrobial Agents.” *Clinical Microbiology Reviews* 12 (4): 564–82. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=88925&tool=pmcentrez&rendertype=abstract.
+[^8]: Lang, J. M., Eisen, J. A., & Zivkovic, A. M. (2014). The microbes we eat: abundance and taxonomy of microbes consumed in a day’s worth of meals for three diet types. *PeerJ*, *2*, e659. http://doi.org/10.7717/peerj.659
+
+[^9]: Cowan, M M. 1999. “Plant Products as Antimicrobial Agents.” *Clinical Microbiology Reviews* 12 (4): 564–82. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=88925&tool=pmcentrez&rendertype=abstract.
