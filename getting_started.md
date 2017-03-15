@@ -12,13 +12,13 @@ Figure : uBiome Explorer Insights Overview
 
 The Insights pane is a very high-level overview of your sample.
 
-This colorful bar chart is your first high-level glimpse of the bacteria found in your sample. Hover over it with your mouse \(or tap with your finger if you’re on a phone or iPad\), to see a pop-up view of the approximate percentages.
+
+
+![](/assets/uBiomeExplorerBacteriaOverviewJan24.png)
+
+This colorful pie chart is your first high-level glimpse of the bacteria found in your sample. Hover over it with your mouse \(or tap with your finger if you’re on a phone or iPad\), to see a pop-up view of the approximate percentages.
 
 You’re seeing a _phyla_-based look at your microbiome. As [we'll learn in more detail later](science.md), this is a very high level view, a bit like how a Martian might see life on earth from far in outer space. Keep in mind that by “very high level”, we mean _very_ high, the equivalent of seeing life only at the level of “vertebrate” and “invertebrate”. You don’t even bother separating fish from one another or for that matter, from land animals: just lump all of them together. At the phyla level, mammals, reptiles, fish – they’re all the same. Similarly, when you see the phylum _Firmicutes_, for example, think of it as having as encompassing as much variation as all the vertebrates, from those on land, in the ocean, big, small, harmless, dangerous and everything in between. In other words, this first approximation is pretty crude.
-
-Now scroll down to see the same data represented in a pie chart.
-
-![](images/OverallSamplePieJun16.jpg)
 
 This time the various phyla _are_ represented as percentages of the whole, so some of them are relegated to tiny slices of the pie. That doesn’t necessarily mean they’re unimportant, though, because in the world of life, even some tiny populations can exert an outsized influence. A wolf is just one of a gazillion different creatures in Yellowstone National Park, but that is little comfort to a rabbit.
 
@@ -36,7 +36,7 @@ Most westerners will find their sample dominated by two phyla: _Firmicutes_ and 
 
 **Prevotella** is associated with carbohydrates.
 
-**Proteobacteria**:   
+**Proteobacteria**:  
 If you’re an otherwise normal omnivore and see double-digit amounts of this it can be a sign that your body was recently under attack. For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn’s disease. That doesn’t mean that Proteobacteria is _bad_; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a [long trip to Central America](experiment-jungleTravel.md), during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
 
 # How are you different?
