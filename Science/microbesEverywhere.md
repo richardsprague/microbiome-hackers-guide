@@ -16,8 +16,7 @@ Microbes in the air
 ===================
 
 Even the sky contains living microbes. Pierre Amato is a staff scientist at the Institut de Chimie de Clermont-Ferrand in France who for decades has been sampling clouds to determine their precise contents, and sure enough: he finds plenty of life there, usually between 1,000 and 10,000 bacterial cells per milliliter — not all that different from the amount [you’d find in alpine snow](http://www.livescience.com/26645-microbes-in-the-sky.html). Like every living organism, these cells must soak up water and other nutrients, converting them into energy and various by-products, which collectively have a massive effect on the overall atmosphere, more than enough to affect climate. [^1]
-
-![](./images/media/image1.tiff){width="6.5in" height="4.736805555555556in"}
+![](https://www.wired.com/images_blogs/wiredscience/2011/05/BUGS_IN_ICE.jpg)
 
 The upper atmosphere is a harsh place for life: regular freezing and thawing, constant bombardment of UV radiation from the sun during the day, cold, subzero freezing temperatures at night, high speed, unpredictable winds that quickly disperse any colonies. Plus, at any moment these organisms can find themselves flushed to the ground in a rainstorm, where they’ll need to adapt again.
 
@@ -35,12 +34,16 @@ Those may not be the deepest examples. A Cold War-era Soviet team drilling the w
 
 Still other microbes thrive in radioactive environments, like the dangerous interior of a nuclear reactor. *Deinococcus radiodurans* is an extremophile member of Phylum Deinococcus-Thermus that boasts an impressive built-in DNA repair mechanism that lets it survive cold, vacuum, acid, light, dehydration – you name it. It remains unbothered by radiation levels more than 1,000 times higher than would kill a human.
 
+![Deinococcus radiodurans](https://upload.wikimedia.org/wikipedia/commons/7/73/Deinococcus_radiodurans.jpg)
+
 Microbes around you
 ===================
 
 You don’t have to go to extreme conditions to find unusual microbes. Microbes thrive whereever humans live, and they are in our everyday environment too. The recent PathoMap study of DNA collected from the New York City subway found that, like the air above, half of the microbes we walk past everyday are unknown to science. [^6] Most of the organisms are apparently benign, with no obvious affect on humans one way or another. Even when known pathogens are found, including *Yersinia pestis* (Bubonic plague) and *Bacillus anthracis* (anthrax), the lack of reported infections indicates that probably these organisms are busying themselves for some other, unknown, and maybe even useful purpose.
 
 Generally the microbes seem content to exist patiently with no apparent affect on the environment. A station flooded by Hurricane Sandy showed a similarity to a marine environment a year after the disaster.
+
+![](http://www.cell.com/cms/attachment/2054936429/2060898672/gr1.jpg)
 
 Humans are the source of many unusual microbes in our environment. Regularly shedding 1.5 million skin cells per hour, leftover inhabitants of our bodies can colonize a hotel room in less than six hours. [^7]
 
