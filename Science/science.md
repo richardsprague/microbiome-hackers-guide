@@ -1,6 +1,6 @@
 # Learn the Science
 
-This is an overview of the chapter. It does not appear in the official version of the book.
+Living microbes are found everywhere on earth, often in surprising places. Let's look at some examples to get an idea of how ubiquitous and hardy they can be, and then we'll back up with a short intro to the science of biology. Finally, we'll discuss how scientists study the human microbiome.
 
 
 
