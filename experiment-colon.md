@@ -1,4 +1,4 @@
-#Experiment: Gut Cleanse
+#Experiment 5: Gut Cleanse
 Your gut microbiome changes constantly in response to everything from diet to exercise, so when looking at multiple uBiome test results side-by-side it can be complicated to figure out what caused a particular change. What if you could wipe the slate clean; start over with a completely new biome and just track *that,* along with precisely what you eat afterwards? What could you learn?
 
 I recently tried exactly that, using a colon cleanse – the kind you do before a colonoscopy screening. By flushing all the bacteria from my system and carefully watching them grow back with side-by-side uBiome tests, I learned a few things that might interest you as well:
