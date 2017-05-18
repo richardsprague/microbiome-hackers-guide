@@ -42,7 +42,7 @@ There are rules that apply to all living things, and the most important one is E
 
 The components of life, plus the rules of Evolution, give us a way to classify everything into giant *taxonomy.* All organisms descend from a common ancestor,
 
-Botany
+Taxonomy
 ======
 
 How do you talk about the relationships between various different life forms?
