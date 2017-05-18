@@ -5,7 +5,7 @@ This is a **an early draft** excerpt of a book for curious people with little or
 ###Prerequistes
 To take best advantage of this book, you will need:
 * An account with uBiome. ([Order a kit now!](http://ubiome.com/pages/buynow))
-* The PowerBiome web tools (primary version)
+* The [[codename](https://github.com/richardsprague/actino)] web tools (just a placeholder for now)
 
 A much more detailed version of this book will  be available soon at fine bookstores everywhere.
 
@@ -21,7 +21,11 @@ By the end of the book, you will be well on your way to a hands-on understanding
 
 Please [contact us](http://twitter.com/sprague) for more information on how to get the final version of the book.
 
+<!--
 <p><img src="/images/Ensembio Logo 114x114.png" height="30" width="30"> &copy; 2015 Ensembio, Inc.</p>
+-->
+&copy 2017 Richard Sprague
+
 
 
 
