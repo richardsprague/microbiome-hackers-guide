@@ -2,6 +2,36 @@
 
 The information you see in the uBiome web app is a greatly simplified view of the data torrent that comes from the gene sequencing machines that crunched your sample. Your raw data can be hundreds of hundreds of thousands of lines long, so to be more useful, uBiome provides a much more concise version. It’s called a “taxonomy” file, which is generally only a few hundred lines showing just the organisms that the uBiome computer algorithms think they found in your sample.
 
+Because uBiome JSON files are well-structured, it’s easy to process them with other software, including Excel. That’s our next step: bring this data into Excel.
+
+## Study your results in Excel
+
+![](/assets/ubiomeExplorerAdvancedTab.jpg)
+
+## Converting uBiome taxonomy JSON to Excel
+
+If you just have one or two files, it’s easy to bring uBiome taxonomy data into Excel. Go to the uBiome Explorer page \([https://app.ubiome.com/explore\](https://app.ubiome.com/explore\)\)  and click on the section labeled “Advanced” and then "Downloads":
+
+![](/assets/ubiomeExplorerDownloads.jpg)
+
+You’ll see a page of JSON representing what uBiome found in your sample.
+
+![](uBiomeScreenShotTaxonomyJSON.png)
+
+On a desktop computer, if you select-all \(press control-A or command-A\) then you can copy this data to the clipboard to prepare to paste it to another web site.
+
+There are many web sites that will convert JSON to a format that will work in Excel. Google “Json to Excel” or “Json to CSV” and you’ll find one. Just paste your data into one of those sites to convert it for either Excel’s native \(XLS or XLSX\) format, or the more universal CSV format, readable by Excel. Here are a few of the sites I’ve tested:
+
+[http://www.convertcsv.com/json-to-csv.htm](http://www.convertcsv.com/json-to-csv.htm)
+
+[http://www.json-xls.com/json2xls](http://www.json-xls.com/json2xls)
+
+Once the data is in Excel, you can work with it just as you would with any Excel data sheet. Here’s how one of my recent uBiome taxonomy files looks in Mac Excel:
+
+![](ExcelScreenOverview.png)
+
+Yours may look slightly different. Labels may be slightly different sometimes, and the ordering of the columns may be different depending on how the JSON was converted, but none of that matters. The key is that you are now able to work with it in a full-blown spreadsheet.
+
 ## JSON files
 
 The taxonomy files come in a simple structured text format called JSON \(JavaScript Object Notation\), commonly used across the web. Although it’s not as convenient for people as the rest of the uBiome web site, programmers refer to JSON as “human readable”, because if you squint enough you can sorta tell what it means without a computer program. Here’s a sample:
@@ -32,31 +62,7 @@ The taxonomy files come in a simple structured text format called JSON \(JavaScr
 JSON is just structured data. That’s it: a big bunch of lookup keys and values. The keys are unique identifiers and the values are their values. The whole file looks that way. The only requirement of a JSON file is that it be precisely consistent with this pattern, because after all it will need to be read by a computer eventually.  
 The uBiome Taxonomy JSON files identify the key `uBiome_bacteriacounts` which is mapped to a bunch of fields, each representing a particular organism found in your sample. Look at the figure above to get the basic idea.
 
-Because uBiome JSON files are well-structured, it’s easy to process them with other software, including Excel. That’s our next step: bring this data into Excel.
 
-## Converting uBiome taxonomy JSON to Excel
-
-If you just have one or two files, it’s easy to bring uBiome taxonomy data into Excel. Go to the uBiome Explorer page \([https://app.ubiome.com/explore\](https://app.ubiome.com/explore\)\)  and click on the section labeled “Advanced” and then "Downloads":
-
-![](/assets/ubiomeExplorerDownloads.jpg)
-
-You’ll see a page of JSON representing what uBiome found in your sample.
-
-![](uBiomeScreenShotTaxonomyJSON.png)
-
-On a desktop computer, if you select-all \(press control-A or command-A\) then you can copy this data to the clipboard to prepare to paste it to another web site.
-
-There are many web sites that will convert JSON to a format that will work in Excel. Google “Json to Excel” or “Json to CSV” and you’ll find one. Just paste your data into one of those sites to convert it for either Excel’s native \(XLS or XLSX\) format, or the more universal CSV format, readable by Excel. Here are a few of the sites I’ve tested:
-
-[http://www.convertcsv.com/json-to-csv.htm](http://www.convertcsv.com/json-to-csv.htm)
-
-[http://www.json-xls.com/json2xls](http://www.json-xls.com/json2xls)
-
-Once the data is in Excel, you can work with it just as you would with any Excel data sheet. Here’s how one of my recent uBiome taxonomy files looks in Mac Excel:
-
-![](ExcelScreenOverview.png)
-
-Yours may look slightly different. Labels may be slightly different sometimes, and the ordering of the columns may be different depending on how the JSON was converted, but none of that matters. The key is that you are now able to work with it in a full-blown spreadsheet.
 
 ## The uBiome data tags
 
