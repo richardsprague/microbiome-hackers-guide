@@ -24,7 +24,8 @@ Please [contact us](http://twitter.com/sprague) for more information on how to g
 <!--
 <p><img src="/images/Ensembio Logo 114x114.png" height="30" width="30"> &copy; 2015 Ensembio, Inc.</p>
 -->
-&copy 2017 Richard Sprague
+
+&copy; 2017 Richard Sprague
 
 
 
