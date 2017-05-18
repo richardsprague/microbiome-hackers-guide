@@ -64,6 +64,8 @@ Anne already follows the general advice that doctors give to everyone, including
 
 For example, she’s experimenting with different toothpastes to see how that affects her mouth microbiome. Did you know that most of the common toothpaste brands include powerful antibiotics? Could the difference in brand be responsible for the unique phyla she sees? To learn more about herself, she’s experimenting with alternate brands -- testing her oral microbiome before and after to see the effects.
 
+This is not the end of the story. Sadly we don't know what will ultimately happen to Anne. But through better knowledge of herself, and her microbiome, she's doing everything she can to beat the odds.
+
 Here are some more references:
 
 > Shoemark, D. K., & Allen, S. J. (2015). The microbiome and disease: Reviewing the links between the oral microbiome, aging, and Alzheimer’s disease. *Journal of Alzheimer’s Disease*. IOS Press.
