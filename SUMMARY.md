@@ -4,6 +4,8 @@
 * [Getting Started](getting_started.md)
 * [Learn the Science](Science/science.md)
   * [Microbes are everywhere](Science/microbesEverywhere.md)
+  * [Intro to Biology](intro-to-biology.md)
+  * [Studying the human microbiome](studying-the-human-microbiome.md)
 * [How to analyze your samples](HowToAnalyze/analyze.md)
   * [Export to Excel](HowToAnalyze/HowToAnalyze.md)
   * [Measuring Diversity](diversity.md)
