@@ -2,7 +2,7 @@
 
 You just received an email that uBiome has finished processing your sample. Now what do you do?
 
-The first stop is the [_uBiome web dashboard_](http://app.ubiome.com/), where you’ll see an overview of your results. The instructions there are self-explanatory and you’ll learn most of what you need to know by simply clicking around. The following explanation will help you dig deeper.
+The first stop is the [_uBiome Explorer web dashboard_](http://app.ubiome.com/), where you’ll see an overview of your results. The instructions there are self-explanatory and you’ll learn most of what you need to know by simply clicking around. The following explanation will help you dig deeper.
 
 If you only have one sample, your page will look something like this:
 
