@@ -1,6 +1,6 @@
 # The Microbiome Hackers Guide
 
-This is a **an early draft** excerpt of a book for curious people with little or no knowledge of biology who want to learn the basics of the human microbiome in a hands-on, practical way — by experimenting on yourself.  By practicing with your own examples, you’ll learn how to study and manipulate the microbes inside you.
+This is **an early draft** excerpt of a book for curious people with little or no knowledge of biology who want to learn the basics of the human microbiome in a hands-on, practical way — by experimenting on yourself.  By practicing with your own examples, you’ll learn how to study and manipulate the microbes inside you.
 
 ###Prerequistes
 To take best advantage of this book, you will need:
