@@ -10,7 +10,7 @@
   * [Make a single sheet with all your samples](HowToAnalyze/makeSingleMultiSampleSheet.md)
 * [Experiments](experiments.md)
   * [Food](experiment-food.md)
-  * [Kefir](kefir.md)
+  * [Kefir-is](kefir.md)
   * [Travel](experiment-jungleTravel.md)
   * [Sleep](experiment-sleep.md)
   * [Dentist](experiment-dentist.md)
