@@ -3,7 +3,6 @@ If you follow the microbiome at all, you’ll eventually discover the benefits o
 
 Let’s jump to the conclusion: I tried it myself and it’s true. I found a very noticeable change in my gut microbiome — the most significant I’ve seen among my many experiments. Look at my levels of Lactococcus, the main genus of microbe known to be found in kefir:
 
-
 ![](/assets/62B8AA40-BB97-40FA-99EF-85EDFC81C407.jpg)
 
 You’ll note that I had none of this microbe until late January, when I started to drink kefir. The two dips after that, one in mid-March and another in early-April, coincide with trips out of town when I was not able to drink my kefir regularly.
@@ -23,4 +22,15 @@ Even without going the goat-hide route, I found that getting started was the onl
 I got mine by asking around until I found a neighbor who had been brewing his own. Anyone who makes homemade kefir will be happy to give you some extra grains. The fermentation process causes the grains to multiply, and you will find yourself throwing them out regularly.
 
 The grains themselves contain a combination of lactic acid bacteria (Lactobacillus, Lactococcus, Leuconostoc), acetic acid bacteria, and yeast,  clumped together with casein (milk proteins) and complex sugars in a matrix of a unique polysaccharide called Kefiran. The nutritional content apparently varies depending on fermentation time and other factors, but there’s a lot of good stuff in there. One study shows the following:
+
+![](/assets/kefir-oltes-nutrition.jpg)
+
+
+A rigorous microbial analysis by an Irish lab recently showed precisely which microbes are present in kefir, at various stages in the fermentation process. This chart shows the composition of ordinary pasteurized milk as it changes from before adding kefir grains (time 0 at the bottom) until 24 hours have passed (top) and the milk has been transformed into just _Acetobacter_, _Lactobacillus_, and _Leuconostoc_.
+
+![](/assets/kefir-microbial-makeup.jpg)
+
+The uBiome test looks only at the 16S ribosomal gene, which unfortunately can’t detect yeasts, so I don’t have an easy way to track the yeasts in the kefir. 
+
+
 
