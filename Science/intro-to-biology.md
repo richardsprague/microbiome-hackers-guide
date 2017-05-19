@@ -44,7 +44,7 @@ If you do that, you'll find that the number of mutations necessary to generate a
 
 That's how complicated the world of bacteria can be.
 
-
+![](/assets/scienceTreeLife.jpg)
 
 The cell
 --------
