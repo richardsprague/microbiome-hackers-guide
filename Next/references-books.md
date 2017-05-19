@@ -28,7 +28,9 @@ Another great overview that explains to the ordinary person the implications of 
 
 ### 4\. Blaser,Martin *Missing Microbes: How the Overuse of Antibiotics Is Fueling Our Modern Plagues*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1250069270&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+<a href="https://www.amazon.com/Missing-Microbes-Overuse-Antibiotics-Fueling/dp/1250069270/ref=as_li_ss_il?ie=UTF8&qid=1495159178&sr=8-1&keywords=missing+microbes&linkCode=li2&tag=richasprag-20&linkId=46d992e4c9d2e3ca1f3f95d45a859e2d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1250069270&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=richasprag-20&l=li2&o=1&a=1250069270" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
 
 ### 5\. Velasquez-Manoff, Moises *An Epidemic of Absence: A New Way of Understanding Allergies and Autoimmune Diseases*
 
