@@ -37,7 +37,7 @@ It makes sense that diversity would increase on a trip, but what can I learn abo
 
 Notice how a key one, Proteobacteria, spiked during my trip and then returned to normal after I returned home. I saw the same spike after [*my jungle trip*](http://www.ubiomeblog.com/my-microbiome-in-the-jungle/), during my [*gut cleanse experiment*](http://www.ubiomeblog.com/experimenting-with-a-gut-cleanse-by-richard-sprague/), and once before when I had been fighting an upset stomach. My experience is consistent with a similar observation by [*Duke University’s Lawrence David*](http://genomebiology.com/2014/15/7/R89) and collaborators, who found that this phylum seems to increase during episodes when the gut is under attack, like it is in foreign travel.
 
-![](./images/media/image05.png){width="6.5in" height="2.7916666666666665in"}
+![](/assets/experimentTravelMexicoProteobacteria.png)
 
 Whenever I see elevated proteobacteria in somebody’s uBiome results, I always ask them if they’ve noticed anything unusual tummy-wise.
 
