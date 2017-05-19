@@ -4,25 +4,25 @@ The number of books about the microbiome have exploded in the past few years, bu
 
 ### 1\. Knight, Rob *Follow Your Gut: How the Ecosystem in Your Gut Determines Your Health, Mood, and More*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1476784744&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+![](https://images-na.ssl-images-amazon.com/images/I/51eo4PeHPBL._SL160_.jpg)
 
 At only 120 pages, this is the most concise summary of what’s known — and not known — about the microbiome. Written by one of the scientists behind the American Gut Project, it’s a readable and fascinating overview of the facts and a great first introduction. If you only read one book, this is it.
 
 ### 1\. Sonnenburg, Justin *The Good Gut: Taking Control of Your Weight, Your Mood, and Your Long-term Health*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0143108085&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+![](https://images-na.ssl-images-amazon.com/images/I/51rHLpBNX2L._SL160_.jpg)
 
 Another concise, well-written summary by a top-notch researcher. This one ties for first place because, well, I'm a fan of uBiome and this one doesn't focus on American Gut. The science is first-rate, but there is practical advice too, including an appendix of microbiome-friendly recipes.
 
 ### 2\. Spector, Tim *The Diet Myth: Why the Secret to Health and Weight Loss is Already in Your Gut*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=029760919X&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+![](https://images-na.ssl-images-amazon.com/images/I/51MzBLv5PjL._SL160_.jpg)
 
 Another excellent one written by a practicing scientist and a good complement to *Follow Your Gut*. The author's concise writing style packs multiple interesting examples and facts on each page. Divided into chapters based on type of food, I learned about what's proven and what's unknown about the effects of different diets on health.
 
 ### 3\. Collen, Alanna *10% Human: How Your Body's Microbes Hold the Key to Health and Happiness*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0062345990&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+![](https://images-na.ssl-images-amazon.com/images/I/51dly8s5QrL._SL160_.jpg)
 
 Another great overview that explains to the ordinary person the implications of the microbiome. Well-written, full of interesting facts, but sticks strictly to mainstream science. For example, although the author explains the concept of "leaky gut", she observes it skeptically as an unproven hypothesis, rather than jump whole-hog into diagnoses. Best parts discuss the gut role on behavior ("Mind Control"), with detailed examples from autism research, Whipple's Disease, and more. The book includes a list of the highest-quality references, but unfortunately it's not complete, so many of the facts are hard to follow up.
 
@@ -34,7 +34,8 @@ Another great overview that explains to the ordinary person the implications of 
 
 ### 5\. Velasquez-Manoff, Moises *An Epidemic of Absence: A New Way of Understanding Allergies and Autoimmune Diseases*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1439199396&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+
+![](https://images-na.ssl-images-amazon.com/images/I/41lCyHGbSEL._SL160_.jpg)
 
 Another book that explains a provocative idea that our immune systems need regular stimulation by parasites and other infectious agents, or we risk unpleasant side effects in the form of allergies, diabetes, and many other nasty conditions. The remarkable correlation between the hygiene of modernity and the rise of autoimmune diseases makes for powerful evidence that science is far behind in understanding all the consequences of our current lifestyles.
 
