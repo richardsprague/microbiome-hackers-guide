@@ -10,9 +10,6 @@ If you only have one sample, your page will look something like this:
 
 Figure : uBiome Explorer Insights Overview
 
-The Insights pane is a very high-level overview of your sample.
-
-
 
 ![](/assets/uBiomeExplorerBacteriaOverviewJan24.png)
 
