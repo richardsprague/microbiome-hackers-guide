@@ -35,7 +35,11 @@ Those may not be the deepest examples. A Cold War-era Soviet team drilling the w
 
 Still other microbes thrive in radioactive environments, like the dangerous interior of a nuclear reactor. *Deinococcus radiodurans* is an extremophile member of Phylum Deinococcus-Thermus that boasts an impressive built-in DNA repair mechanism that lets it survive cold, vacuum, acid, light, dehydration – you name it. It remains unbothered by radiation levels more than 1,000 times higher than would kill a human.
 
+<!--
 ![Deinococcus radiodurans](https://upload.wikimedia.org/wikipedia/commons/7/73/Deinococcus\_radiodurans.jpg)
+-->
+
+![](/assets/scienceRadiodurans.jpg)
 
 Microbes around you
 ===================
