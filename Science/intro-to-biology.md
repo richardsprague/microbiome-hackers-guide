@@ -46,29 +46,7 @@ That's how complicated the world of bacteria can be.
 
 ![](/assets/scienceTreeLife.jpg)
 
-The cell
---------
 
-
-Some organisms have a single cell, and others are multi-cell, but the key division of life is not between the number of cells but rather in the complexity of its internals. Human cells, like all multicellular life forms, are classified as *eukaryotes*, because all of our cells are made of a number of internal features, called *organelles,* of which the most prominent is the *nucleus*.
-
-Bacteria, by contrast, are *prokaryotes*. Their cells look much simpler under a microscope: just a cell wall bounding some free-floating objects.
-
-All cells host proteins and, usually, a collection of genes wrapped in DNA. Each gene corresponds to a protein, which genes make thanks to another important molecule in each cell, the ribosome.
-
-Reproduction
-------------
-
-Part of the definition of life is the ability to reproduce, and cells do this by dividing themselves in half in a process called *mitosis*.
-
-Cells too can be complicated or simple, but within them they always have the special chemical compound DNA and, usually, its complementary molecule RNA.
-
-Evolution
----------
-
-There are rules that apply to all living things, and the most important one is Evolution.
-
-The components of life, plus the rules of Evolution, give us a way to classify everything into giant *taxonomy.* All organisms descend from a common ancestor,
 
 Taxonomy
 ======
