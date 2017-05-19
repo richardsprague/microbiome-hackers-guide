@@ -1,5 +1,7 @@
 # Getting Started
 
+Let's jump right in with a specific example.
+
 You just received an email that uBiome has finished processing your sample. Now what do you do?
 
 The first stop is the [_uBiome Explorer web dashboard_](http://app.ubiome.com/), where you’ll see an overview of your results. The instructions there are self-explanatory and you’ll learn most of what you need to know by simply clicking around. The following explanation will help you dig deeper.
@@ -10,12 +12,13 @@ If you only have one sample, your page will look something like this:
 
 Figure : uBiome Explorer Insights Overview
 
+That's the Insights pane, designed to tell you the highlights. If this is your first time here, go ahead and breeze through this page, but don't get caught up on details. As we'll learn, scientists have barely scratched the surface of what we will eventually understand about the microbiome, so think of this page as a teaser -- a hint of the potential. If your results show something you didn't expect, say on diversity or body weight, don't worry: it almost certainly just means that the Insights pane is wrong about you. Later we'll see how to pull out far more interesting and useful results.
 
 ![](/assets/uBiomeExplorerBacteriaOverviewJan24.png)
 
-This colorful pie chart is your first high-level glimpse of the bacteria found in your sample. Hover over it with your mouse \(or tap with your finger if you’re on a phone or iPad\), to see a pop-up view of the approximate percentages.
+Click next on the "My Bacteria" tab. The colorful pie chart there is your first high-level glimpse of the bacteria found in your sample. Hover over it with your mouse (or tap with your finger if you’re on a phone or iPad), to see a pop-up view of the approximate percentages.
 
-You’re seeing a _phyla_-based look at your microbiome. As [we'll learn in more detail later](science.md), this is a very high level view, a bit like how a Martian might see life on earth from far in outer space. Keep in mind that by “very high level”, we mean _very_ high, the equivalent of seeing life only at the level of “vertebrate” and “invertebrate”. You don’t even bother separating fish from one another or for that matter, from land animals: just lump all of them together. At the phyla level, mammals, reptiles, fish – they’re all the same. Similarly, when you see the phylum _Firmicutes_, for example, think of it as having as encompassing as much variation as all the vertebrates, from those on land, in the ocean, big, small, harmless, dangerous and everything in between. In other words, this first approximation is pretty crude.
+You’re seeing a _phyla_-based look at your microbiome. As [we'll learn in more detail later](science.md), this is a very high level view, a bit like how a Martian might see life on earth from far in outer space. Keep in mind that by “very high level”, we mean _very_ high, the equivalent of seeing life only at the level of “vertebrate” and “invertebrate”. The incomprehensible diversity of bacterial life means that at this level, you don’t even bother separating fish from one another or for that matter, from land animals: just lump all of them together. At the phyla level, mammals, reptiles, fish – they’re all the same. Similarly, when you see the phylum _Firmicutes_, for example, think of it as having as encompassing as much variation as all the vertebrates, from those on land, in the ocean, big, small, harmless, dangerous and everything in between. In other words, this first approximation is pretty crude.
 
 This time the various phyla _are_ represented as percentages of the whole, so some of them are relegated to tiny slices of the pie. That doesn’t necessarily mean they’re unimportant, though, because in the world of life, even some tiny populations can exert an outsized influence. A wolf is just one of a gazillion different creatures in Yellowstone National Park, but that is little comfort to a rabbit.
 
@@ -27,14 +30,14 @@ All we know at the phylum level is that proportionately, certain large classes o
 
 Most westerners will find their sample dominated by two phyla: _Firmicutes_ and _Bacteroidetes_. These are so common in healthy people that it’s tempting to assume this is "natural" or "normal", but like much else with the microbiome, the situation is different outside the western world, a clue that it’s difficult to summarize a single individual’s microbiome as “good” or “bad.” It all depends.
 
-**Firmicutes** is usually the most common, and for good reason: it’s very good at sucking energy out of the types of high-fat, highly-processed food we eat in industrialized societies. For that reason, some scientists think it may be associated with obesity because you don’t need to eat as much to extract the same amount of energy from food. On the other hand, it’s not hard to find skinny people with lots of Firmicutes, so this theory doesn’t always hold, but it’s worth asking the question.
+**_Firmicutes_** is usually the most common, and for good reason: it’s very good at sucking energy out of the types of high-fat, highly-processed food we eat in industrialized societies. For that reason, some scientists have claimed it might associate with obesity, since its presence might indicate a gut that is highly-optimized to pull as many calories as possible from food. On the other hand, it’s not hard to find skinny people with lots of Firmicutes, so this theory doesn’t always hold. I've seen it lower in vegetarians, and I suspect that maybe it reflects diet more than weight.
 
 **Bacteroidetes** is not as good at digesting fat, so it sticks to high-fiber foods like those in vegetables, which is why vegetarians tend to have high levels of this phylum. It’s often most prominent outside the industrialized world, too, where people eat less meat.
 
 **Prevotella** is associated with carbohydrates.
 
 **Proteobacteria**:  
-If you’re an otherwise normal omnivore and see double-digit amounts of this it can be a sign that your body was recently under attack. For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn’s disease. That doesn’t mean that Proteobacteria is _bad_; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a [long trip to Central America](experiment-jungleTravel.md), during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
+If you’re an otherwise normal omnivore and see double-digit amounts of this it can be a sign that your body was recently under attack. That's because Proteobacteria For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn’s disease. That doesn’t mean that Proteobacteria is _bad_; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a [long trip to Central America](experiment-jungleTravel.md), during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
 
 # How are you different?
 
