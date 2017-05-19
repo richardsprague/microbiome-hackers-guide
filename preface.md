@@ -25,3 +25,5 @@ Better yet, show me your actual microbiome test results: demonstrate how you had
 
 For the past three years, I've been doing exactly that. After hundreds of microbiome tests on myself, and even more that I've seen from others, I've compiled my own list of experiments, some of which work and some which don't. In the course of doing these self-experiments, I developed a number of computer tools that helped me understand my microbiome.  Those tools are available now for free and this book will show you how to use them.
 
+I think you'll find that it's quite easy to learn some basic things about the microbiome, and when you do, you're much better off than if you simply say "I read it somewhere".
+
