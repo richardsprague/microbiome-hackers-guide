@@ -27,7 +27,7 @@
   * [List of bacteria and their functions](Organisms/list_of_bacteria_and_their_functions.md)
 * [Go Further](further.md)
   * [References](Next/references.md)
-  * [Go Further](Next/AnnotatedReference.md)
+  * [Fermented foods](Next/AnnotatedReference.md)
   * [References-books](Next/references-books.md)
   * [References-Academic](references-academic.md)
 * [Acknowledgements](acknowledgements.md)
