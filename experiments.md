@@ -5,7 +5,7 @@ Microbe numbers shift daily in response to your environment, so a single sample 
 
 [Experiment 1: Food](/experiment-food.md) Can I learn anything if carefully record all the food I ate between two tests a week apart?
 
-[Experiment 2: Travel](/experiment-jungleTravel.md) I tested myself before and after a trip to Central America. What changed?
+[Experiment 2: Travel](/experiment-jungleTravel.md) I tested myself before and after a trip to Central America, and while [traveling in Mexico](/travel-in-mexico.md). What changed?
 
 [Experiment 3: Hacking My Sleep](/experiment-sleep.md) Can I improve my sleep by feeding the right microbes?
 
