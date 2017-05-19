@@ -12,7 +12,7 @@
   * [Make a single sheet with all your samples](HowToAnalyze/makeSingleMultiSampleSheet.md)
 * [Experiments](experiments.md)
   * [Food](experiment-food.md)
-  * [Travel](experiment-jungleTravel.md)
+  * [Travel in the jungle](experiment-jungleTravel.md)
   * [Travel in Mexico](travel-in-mexico.md)
   * [Sleep](experiment-sleep.md)
   * [Dentist](experiment-dentist.md)

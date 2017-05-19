@@ -5,6 +5,10 @@ In the previous chapter we discussed the Lawrence David study that measured an i
 
 We spent most of our time in a rural, jungle part of Belize, about a half hour’s drive from Benque, near the border with Guatemala. Besides viewing the fantastic, well-preserved Mayan ruins, we also did horseback riding, cave exploration, and of course plenty of eating.
 
+Here's a selfie I took in front of the incredibly well-preserved thousand-year-old pyramid at [Tikal](http://www.smithsonianmag.com/history/secrets-of-the-maya-deciphering-tikal-2289808/):
+
+![me at Tikal](https://farm9.staticflickr.com/8594/16063989023_353f14a4dd.jpg)
+
 I did one other thing: before leaving on the trip, and immediately afterwards, I took some gut microbiome samples. Here’s what my gut microbiome (phylum level) looked like before and after the trip:
 
   **Phylum** |           **Before** |  **After**|
