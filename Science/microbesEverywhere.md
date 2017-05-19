@@ -16,7 +16,8 @@ Microbes in the air
 
 Even the sky contains living microbes. Pierre Amato is a staff scientist at the Institut de Chimie de Clermont-Ferrand in France who for decades has been sampling clouds to determine their precise contents, and sure enough: he finds plenty of life there, usually between 1,000 and 10,000 bacterial cells per milliliter — not all that different from the amount [you’d find in alpine snow](http://www.livescience.com/26645-microbes-in-the-sky.html). Like every living organism, these cells must soak up water and other nutrients, converting them into energy and various by-products, which collectively have a massive effect on the overall atmosphere, more than enough to affect climate. [^1]
 
-![](https://www.wired.com/images\_blogs/wiredscience/2011/05/BUGS\_IN\_ICE.jpg)
+![](/assets/scienceMicrobesSky.jpg)
+[source: [ASMScience](http://www.asmscience.org/content/journal/microbe/10.1128/microbe.7.119.1)]
 
 The upper atmosphere is a harsh place for life: regular freezing and thawing, constant bombardment of UV radiation from the sun during the day, cold, subzero freezing temperatures at night, high speed, unpredictable winds that quickly disperse any colonies. Plus, at any moment these organisms can find themselves flushed to the ground in a rainstorm, where they’ll need to adapt again.
 
