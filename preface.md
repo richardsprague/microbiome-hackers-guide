@@ -23,8 +23,5 @@ Here’s an example:
 Okay, sounds good. But I don’t want you to stop there. I want the story to continue with “so I tried it myself and sure enough, I slept great!”.
 Better yet, show me your actual microbiome test results: demonstrate how you had low levels of the microbe before trying your experiment, and now you have high levels. You don’t have to do a fancy study. You don’t have to run a randomized control trial. Just show that it worked one time, on you.
 
-If you’re a doctor who likes to write books about these things, give me examples of where you used your knowledge of the microbiome to prescribe something that worked, show how you tested the person before/after, and then tell me that the microbiome was the secret.
+For the past three years, I've been doing exactly that. After hundreds of microbiome tests on myself, and even more that I've seen from others, I've compiled my own list of experiments, some of which work and some which don't. In the course of doing these self-experiments, I developed a number of computer tools that helped me understand my microbiome.  Those tools are available now for free and this book will show you how to use them.
 
-If you didn’t actually test the person’s microbiome, if you’re just recycling some medical advice that you read somewhere, then why waste your own credibility trying to tie it to the microbiome? Just say “Here are some ideas you may want to try” or “Maybe it has something to do with the microbiome” and leave it at that.
-
-But
