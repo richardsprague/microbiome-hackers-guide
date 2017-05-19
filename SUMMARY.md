@@ -28,6 +28,7 @@
 * [Go Further](further.md)
   * [Go Further](Next/AnnotatedReference.md)
   * [References](Next/references.md)
+  * [References-books](Next/references-books.md)
+  * [References-Academic](references-academic.md)
 * [Acknowledgements](acknowledgements.md)
-* [References-Academic](references-academic.md)
 
