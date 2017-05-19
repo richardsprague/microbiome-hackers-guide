@@ -16,6 +16,8 @@ Mexico City has become a serious foodie capital. If you haven’t been there rec
 My favorite drink was *pulque*, a fermented concoction made from the sap of the maguey (agave) plant. Unlike other fermented beverages like kombucha or beer, the fermentation takes place *inside* the plant, before harvesting. The plants take more than a decade to mature, and when they start to produce, you have to suck out the pulque quickly or it goes bad. Nobody’s figured out how to preserve it without losing flavor and potency, so unfortunately I’m not able to get any in the U.S.
 
 ![](/assets/experimentTravelMexicoPulque.jpg)
+
+
 I loved the food, but what about my microbes? To find out, I tested myself with uBiome gut kits before leaving, immediately at the end of the trip (‘during’), and then a few weeks later. Here’s the highest level (phylum) summary of the most common bacteria I found:
 
 
