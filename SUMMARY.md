@@ -25,7 +25,7 @@
   * [Alzheimers Disease](HowToAnalyze/case studies/alzheimers-disease.md)
 * [Organisms](Organisms/MHG-organisms.md)
   * [Probiotic bacteria](Organisms/MHG-organisms/probiotic-bacteria.md)
-* [List of bacteria and their functions](Organisms/list_of_bacteria_and_their_functions.md)
+  * [List of bacteria and their functions](Organisms/list_of_bacteria_and_their_functions.md)
 * [Go Further](further.md)
   * [References](Next/references.md)
   * [Fermented foods](Next/AnnotatedReference.md)
