@@ -28,8 +28,7 @@ Another great overview that explains to the ordinary person the implications of 
 
 ### 4\. Blaser,Martin *Missing Microbes: How the Overuse of Antibiotics Is Fueling Our Modern Plagues*
 
-<a href="https://www.amazon.com/Missing-Microbes-Overuse-Antibiotics-Fueling/dp/1250069270/ref=as_li_ss_il?ie=UTF8&qid=1495159178&sr=8-1&keywords=missing+microbes&linkCode=li2&tag=richasprag-20&linkId=46d992e4c9d2e3ca1f3f95d45a859e2d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1250069270&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=richasprag-20&l=li2&o=1&a=1250069270" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
+![](https://images-na.ssl-images-amazon.com/images/I/51PKojvuQ9L._SL160_.jpg)
 
 
 ### 5\. Velasquez-Manoff, Moises *An Epidemic of Absence: A New Way of Understanding Allergies and Autoimmune Diseases*
@@ -41,7 +40,7 @@ Another book that explains a provocative idea that our immune systems need regul
 
 
 ### Lustgarten, Michael *Infectious Burden: The Cause Of Aging And Age-Related Disease*
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01G48A88A&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+![](https://images-na.ssl-images-amazon.com/images/I/51I1SXSdDsL._SL160_.jpg)
 
 Short, practical summary of what's known about microbial infections, with suggestions for how to manage and treat them. I liked the chapters on the mouth and skin, with practical advice about how to choose toothpaste and soap.
 
