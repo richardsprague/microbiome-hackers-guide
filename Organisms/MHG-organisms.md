@@ -1,3 +1,6 @@
+Organisms, Probiotics, and what they do
+=======================================
+
 Once you have the tools to start viewing your microbiome, it helps to know something about what is already known about the organisms you’ll find.
 
 What’s Normal?
@@ -27,11 +30,7 @@ Main questions
 
     -   Omnivore
 
-The big three: Bacteroidetes, Firmicutes and Actinobacteria
------------------------------------------------------------
 
-The little two: Verrucomicrobia and Proteobacteria
---------------------------------------------------
 
 Outside the western world
 -------------------------
