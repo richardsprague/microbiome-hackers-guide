@@ -104,10 +104,3 @@ Far out theories
 
 *Plague Time: The New Germ Theory of Disease* Ewald, Paul Published in 2002, this book raises the intriguing possibility that most (perhaps all) serious diseases are caused by infections. Certain types of cancers (e.g. HPV) are already known to have viral origins, but imagine how our thinking would change if — when — someday science discovers infectious agents behind other cancers and heart disease. Reading this with other books about the role of microbes has made me far more sensitive to the possibility that science and medicine could one day undergo a huge shift in the way that diseases are diagnosed and treated.
 
-
-Not Recommended
-===============
-
-Life is short, so sometimes it’s nice to have a list of books marked “don’t bother.”
-
-*The Microbiome Diet* by Raphael Kellman Includes the typical formulaic suggestions for how to cure a bad microbiome (Remove! Replace! Reinoculate! Repair!) and lots of sweeping, unproven suggestions for what to eat: “Cinnamon balances blood sugar” with absolutely nothing to connect it to the microbiome. There is a nice list of “superfoods” including natural prebiotics like jicama, but again you must take his word for it that this somehow benefits the microbiome. Just google it and save the effort.
