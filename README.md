@@ -21,7 +21,7 @@ Here are the main sections:
 
 By the end of the book, you will be well on your way to a hands-on understanding of one of the most exciting areas at the frontier of biology.
 
-Please [contact us](http://twitter.com/sprague) for more information on how to get the final version of the book.
+Please [contact me](http://twitter.com/sprague) for more information on how to get the final version of the book.
 
 <!--
 <p><img src="/images/Ensembio Logo 114x114.png" height="30" width="30"> &copy; 2015 Ensembio, Inc.</p>
