@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Preface](preface.md)
 * [Getting Started](getting_started.md)
 * [Learn the Science](Science/science.md)
   * [Microbes are everywhere](Science/microbesEverywhere.md)
@@ -32,7 +33,5 @@
   * [Fermented foods](Next/AnnotatedReference.md)
   * [References-books](Next/references-books.md)
   * [References-Academic](references-academic.md)
-* [Acknowledgements](acknowledgements.md)
-
-
+* [Preface](preface.md)
 
