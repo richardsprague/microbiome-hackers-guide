@@ -4,15 +4,18 @@
 An intro to biology
 ===================
 
-- A crash course in botany
+
+With all this complexity, how do you begin to study the abundance of life around us? And then, how do we apply what we know about the zillions of organisms *around* us, to how they relate to what’s *inside* us?
+
+The methodically classification and analysis of life is the science of biology, and like life itself it is a very broad field. Fortunately, despite the incredible variations, scientists have discovered a few simple traits and rules that apply to every life form. For the special life form *homo sapiens*, we have also learned a number of simplifications that will let us talk in more detail later.
+
+- A crash course in biology
 
 - A crash course in microbiology
 
 - A crash course in anatomy
 
-With all this complexity, how do you begin to study the abundance of life around us? And then, how do we apply what we know about the zillions of organisms *around* us, to how they relate to what’s *inside* us?
 
-The methodically classification and analysis of life is the science of biology, and like life itself it is a very broad field. Fortunately, despite the incredible variations, scientists have discovered a few simple traits and rules that apply to every life form. For the special life form *homo sapiens*, we have also learned a number of simplifications that will let us talk in more detail later.
 
 The basics
 ==========
