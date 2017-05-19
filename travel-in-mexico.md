@@ -32,6 +32,7 @@ I loved the food, but what about my microbes? To find out, I tested myself with 
 
 The first thing to notice is the contrast between my microbiome during the trip versus otherwise. Before and after, my gut is normally dominated by the top two phyla, with nothing else breaking higher than 2%, but during the trip the abundances are more evenly spread. In other words, the diversity increased, as you can see in this picture of the changes in my “inverse simpson” diversity metric:
 
+![](/assets/experimentTravelMexicoDiversity.png)
 
 It makes sense that diversity would increase on a trip, but what can I learn about the bacteria that changed?
 
@@ -45,7 +46,7 @@ Because the uBiome technology is designed for citizen science and not medical pu
 
 That said, at the bacterial DNA level, the *Kluyvera* genus is quite similar to interesting bacteria like *E*. *Coli* or *Shigella*, and sure enough, I see that it spiked during my trip. *Kluyvera* ferments sugars and goes up in people on a ketogenic diet, but in this case I bet I’m seeing evidence of a perhaps some kind of an unwanted invader.
 
-![](./images/media/image08.png){width="6.5in" height="2.7916666666666665in"}
+![](/assets/experimentTravelMexicoKluyvera.png)
 
 Next, what might I learn if I study just the bacteria that changed the most ? To do that, I made a list of just those at the genus level that existed *before* my trip and *after*, but not *during*.
 
@@ -63,7 +64,8 @@ Next, what might I learn if I study just the bacteria that changed the most ? To
 
 I then compared this to uBiome’s big database, based on tens of thousands of samples. You can find a chart like this on your Insights tab:
 
-![](./images/media/image09.jpg){width="6.5in" height="3.625in"}
+![](/assets/experimentTravelMexicoElusive.jpg)
+
 
 Two of these stand out for me: *Methanomassiliicoccus* and *Citrobacter*, both of which are rare among uBiome samples and yet they appeared for me just once on a trip to Mexico. Interesting…
 
