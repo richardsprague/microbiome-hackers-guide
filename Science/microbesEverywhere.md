@@ -1,5 +1,5 @@
 # Microbes Everywhere
-No matter where you are, no matter what you are doing, you surrounded by life. It’s not just the people or pets or plants that may be nearby at this moment. What we see around us is just a fraction of the living world we inhabit. The vast majority of the life is invisible. We tend to forget about things we can't see, ignoring that which is literally under our noses, but it’s there.
+Virtually all of the life around you is invisible. We tend to forget about things we can't see, ignoring that which is literally under our noses, but it’s there: living, eating, reproducing lifeforms of incredible tenacity and surprisingly important effects on the world we *can* see.
 
 Life is incredibly tenacious, fighting for and keeping its niche in just about environment it encounters. In the sky, deep underground, in the most barren habitats cold or hot anywhere on earth, there are lifeforms. The vast majority of these are microbes, so small we can’t see them, but small doesn’t mean irrelevant. In fact, the more that science understands about the invisible microbial world, the more it is clear that these uncountably numerous creatures exert a much bigger effect than we think. 
 
