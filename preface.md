@@ -1,5 +1,4 @@
-Preface
-===============
+# Preface
 
 Seems like everyone in the health field is interested in the microbiome, and resourceful authors hoping to attract an audience are repurposing their previous work so it can include the word “microbiome”. So if you have a draft of a book called, say, *The Best Diet Ever: How to Lose Weight and Feel Great*, you change the title to *The Best Microbiome Diet Ever: The Scientific-Sounding Way to Lose Weight and Feel Great*.
 

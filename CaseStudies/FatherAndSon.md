@@ -1,5 +1,5 @@
-Father and son
-=============
+# Father and son
+
 My father and I live in different parts of the country: he's in the Midwest (where I grew up) and I'm on the West Coast. We're both healthy omnivores and, other than a couple-decade age difference we both eat roughly similar foods and have similar medical histories.
 
 That said, I was surprised to see our gut biomes were so similar.
