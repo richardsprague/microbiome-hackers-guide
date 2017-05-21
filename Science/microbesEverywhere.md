@@ -84,7 +84,7 @@ Before refrigerators, the long-term preservation of food
 
 Yes, much of that yogurt makes it past the stomach and into the gut.
 
-[^1]: <http://www.asmscience.org/content/journal/microbe/10.1128/microbe.7.119.1>
+[^1]: http://www.asmscience.org/content/journal/microbe/10.1128/microbe.7.119.1
 
 [^2]: <http://tass.ru/en/non-political/745635>
 
