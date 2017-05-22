@@ -46,7 +46,7 @@ Short, practical summary of what's known about microbial infections, with sugges
 
 ### Spector, Tim *Identically Different: Why We Can Change Our Genes*
 
-![](https:///ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00X76SVYQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+![](https://images-na.ssl-images-amazon.com/images/I/51e3sYJfomL._SL160_.jpg)
 
 Well-written, concise overview of what's known about epigenetics and "Fat Genes", "Gay Genes", "Infidelity Genes", "Bacteria Genes" and more. This is the same author of *The Diet Myth* discussed above, written before he became aware of the microbiome. 
 
@@ -66,13 +66,13 @@ Life is short, so to help you be more efficient, here's a list of books that I t
 
 ### Mullin, Gerard E. *The Gut Balance Revolution: Boost Your Metabolism, Restore Your Inner Ecology, and Lose the Weight for Good!*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1623364019&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20_)
+![](https://images-na.ssl-images-amazon.com/images/I/515i5gSlGjL._SL160_.jpg)
 
 Although Dr. Mullin has been thinking about the microbiome for years, most of this book is about standard alternative diet advice, with references to Omega-6, FODMAPs, Mediterranean Diet, etc. but not really much specific about the microbiome. Don’t waste your money.
 
 ### Kellman, Raphael *The Microbiome Diet* 
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0738218111&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+![](https://images-na.ssl-images-amazon.com/images/I/41a1ffMf3XL._SL160_.jpg)
 
 Includes the typical formulaic suggestions for how to cure a bad microbiome (Remove! Replace! Reinoculate! Repair!) and lots of sweeping, unproven suggestions for what to eat: “Cinnamon balances blood sugar” with absolutely nothing to connect it to the microbiome. There is a nice list of “superfoods” including natural prebiotics like jicama, but again you must take his word for it that this somehow benefits the microbiome. Just google it and save the effort.
 
