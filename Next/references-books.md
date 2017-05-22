@@ -54,7 +54,7 @@ Well-written, concise overview of what's known about epigenetics and "Fat Genes"
 
 ### Matthews, Richard *The Symbiont Factor: How the Gut Bacteria Microbiome Redefines Health, Disease and Humanity*
 
-![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1500553948&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=richasprag-20)
+![](https://images-na.ssl-images-amazon.com/images/I/51pgs53-dJL._SL160_.jpg)
 
 Heavily researched and footnoted (the last hundred pages are references), it's an overview of the practical side of what's known about the microbiome. When I'm looking for a short summary of particular conditions (Parkinsons, Alzheimers), I reach for Dr. Matthews book first.
 
