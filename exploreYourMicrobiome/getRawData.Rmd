@@ -15,28 +15,6 @@ Another new microbiome health company is [DayTwo](https://daytwo.com). Based on 
 
 Another company offering microbiome (and other genomic) testing is Gencove.
 
-I tested a Gencove kit on the same cheek sample I used for a uBiome mouth test. Gencove's directions ask me to spit into a vial. I then dipped a uBiome swab into the vial.  Using a *separate* uBiome test kit, I sampled my cheek microbiome in my normal way -- just a swab against the inside of my mouth, on the right and left cheeks, carefully avoiding other parts of the mouth like the tongue or lips.  Here are the results (All units are in percentages of sample):
-```{r}
-
-gencove.phylum.ub <- subset_samples(sprague.phylum.norm, grepl("Gencove",Label))
-
-gencove.ub <- mhg_abundance(gencove.phylum.ub, top=5)/10000
-gencove.ub$taxa <- row.names(gencove.ub)
-names(gencove.ub) <-c("uBiome Vial","uBiome Cheek", "Phylum")
-gencove.raw <- data.frame(c("Firmicutes","Bacteroidetes","Proteobacteria","Actinobacteria","Fusobacteria"),
-                          c(0.37,0.23,0.22,0.16,0.01)*100)
-names(gencove.raw)<-c("Phylum","Gencove")
-
-gencove<-inner_join(gencove.ub,gencove.raw, by="Phylum")
-
-
-kable(gencove %>% select(Phylum,`uBiome Vial`, `uBiome Cheek`,`Gencove`),digits=2)
-```
-
-It makes sense that the uBiome results would differ from one another: one is a mixed sample taken from a distributed mix of saliva within the mouth and the other is a simple swab along the cheek -- a very different ecosystem from the rest of the mouth. If you squint a little, the Gencove top results look similar to the uBiome cheek sample, with similar abundances across the board -- with one major exception, the phylum _Actinobacteria_. Unfortunately this exception is too big to ignore. Besides, it's not really fair to compare the cheek sample -- you have to compare the vial samples with each other.
-
-The bottom line is that different labs show different results, sometimes with such a major difference that you can't really compare them.
-
 
 
 I'll skip the details of how to collect the sample, and assume that you've done that already. Now on to the analysis.
