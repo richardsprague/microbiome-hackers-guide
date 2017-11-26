@@ -1,0 +1,15 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+actino
+phyloseq
+ggplot2
+tidyr
+dplyr
+knitr
+stringr
+ggthemes

@@ -1,0 +1,32 @@
+
+# Explore Your Microbiome
+
+Your first step is to get some data. 
+
+
+```{r child="exploreYourMicrobiome/getRawData.Rmd"}
+```
+
+
+```{r child="exploreYourMicrobiome/getting_started.Rmd", warning = FALSE}
+# Overview of uBiome Explorer
+```
+
+
+```{r child="exploreYourMicrobiome/exploreMicrobesToWatch.Rmd", warning = FALSE}
+# Specific microbes, including how they look in me
+```
+
+
+```{r child="exploreYourMicrobiome/HowToAnalyze.Rmd"}
+```
+
+
+```{r child="exploreYourMicrobiome/exploratoryDataAnalysis.Rmd"}
+```
+
+
+
+<!-- ```{r child="exploreYourMicrobiome/analyzeDiversity.Rmd"} -->
+<!-- ``` -->
+

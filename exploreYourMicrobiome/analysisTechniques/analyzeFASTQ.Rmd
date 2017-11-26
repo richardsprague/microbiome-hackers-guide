@@ -1,0 +1,135 @@
+
+### Working with FASTQ files
+
+
+The uBiome JSON taxonomy information will be more than enough for most people new to biology. But for anyone interested in expanding their bioinformatics skills, the raw data files are the place to look.
+
+FASTQ files are the text-based results of a run at your sample using one of Illumina’s high-end gene sequencers.
+
+For example, the first line in my data is:
+
+```
+@NS500457:29:H2HLGAFXX:1:11101:16760:1033 1:N:0:ACTTACA+NTGCGAA
+```
+
+This contains information about the gene sequencing hardware uBiome used for this sample. The other lines in the raw text file contain the actual base pairs detected by the sequencer, along with quality information to indicate the certainty of a particular read. In my case, the entire file is over 170,000 lines long, and that’s just one of the eight files in the FASTQ archive. That’s a lot of data!
+
+*How sequencing works*
+
+Each strand of DNA will be read from two directions (called 3-Prime and 5-Prime). This means that a given DNA letter will be read twice (once forward, once backward), so the ```count``` field of your JSON file will never show a number less than 2. But 2 is a tiny number that might just be there by chance. For that reason, careful scientists will avoid using any data with such small abundances. 
+
+uBiome will not release samples with under 3000 reads, so the minimum abundance you should bother with is 2/3000 = 0.07%.  Most samples will have far more than 3000 reads (my average is closer to 60,000), so if you want to compare small abundances, you shouldn't bother with anything less than 0.07%.  
+
+Because it's hard to compare low-abundance taxa across many samples that may have wide variations in total read counts, I discount anything with under about 12 reads if you are comparing across samples that are all greater than 10,000 reads, and 42 if you are comparing against those of 3,000 reads. Why those numbers?  Because 2/10000 = 0.0002 multiplied by my average of 60000 reads is 12; meanwhile, 0.000.007 % of 60,000 is about 42 ^[You can do this with the following Phyloseq command:
+
+```
+prune_taxa(taxa_sums(gut.norm)>42, gut.norm)
+```
+].  These are just rough guidelines -- a more thorough calculation would take into account the exact number of reads for all samples.  But a conservative scientific approach says it's better to throw away information that might be low quality.
+
+
+
+
+*Quality of your FASTQ*
+
+
+
+Here's how to check the quality of your overall FASTQ file.
+
+  Sum( count of the number of lines in the R1 files / 4 )
+
+In a Terminal session on OSX, you can check this with the following command.
+```
+$ gzcat *R1*.fastq.gz | echo $((`wc -l`/4))
+
+```
+A typical result for one of my files is ```0.375```.  
+
+
+
+*Study your FASTQ online*
+
+Although it’s possible to analyze this data on my own in a tool like BioPython, it’s much easier to submit the raw data to a public gene processing server, such as the Metagenomics Analysis Server (MG RAST) hosted by Argonne National Labs at this site:
+
+<http://metagenomics.anl.gov/>
+
+Note: You must use the Firefox browser (not Chrome, IE, or Safari), and before submitting any jobs you must apply for a (free) login ID, which you receive by email in a day or two.
+
+After logging in with your new account ID, click the “upload” icon on the home page and follow the process to prepare and submit your data:
+
+
+```{r echo=FALSE}
+knitr::include_graphics(paste0(getwd(),"/images/media/image1.jpeg"))
+
+```
+
+
+
+1.  Ignore the part about preparing the meta data; you can add it later.
+
+2.  Upload files. The site offers to let you upload from the web browser, but I’ve had better luck using their api and the following curl command:
+
+```
+curl -H "auth: webkey" -X POST -F "upload=@/path\_to\_file/metagenome.fasta" "<http://api.metagenomics.anl.gov/1/inbox/>" &gt; curl\_output.txt
+```
+
+I just type this from Terminal on my Mac. Note that you’ll need to get your own webkey (hit the ‘view webkey’ button on the submission page) which you will substitute into the curl command line above. Also change the filename part of the “upload=@” section to point to the correct file. Note that uBiome fastq files are compressed, but it’s okay to upload them as-is. You’ll uncompress them on the server after the upload.
+
+1.  Manage your inbox. Once the file has successfully uploaded, you’ll see it in your inbox. At this point, you should “unpack selected” if you uploaded a compressed file. Note depending on how busy the server is, it may be minutes or even hours of waiting, and pressing “update inbox” before you see the File Information shown below.
+
+
+```{r echo=FALSE}
+knitr::include_graphics(paste0(getwd(),"/images/media/image2.png"))
+```
+
+
+
+Next you’re ready to submit the data
+
+
+```{r echo=FALSE}
+knitr::include_graphics(paste0(getwd(),"/images/media/image3.jpeg"))
+```
+
+Here are my suggestions for this section
+
+1.  Check the box to say you won’t supply metadata.
+
+2.  Create a new project and select it.
+
+3.  Select the files you uploaded
+
+4.  Use the default values to choose pipeline options
+
+5.  Submit the job, being sure to make the data publicly accessible immediately, to increase the priority.
+
+There you go! Now a job has been submitted and you wait for it to complete. It usually takes a day or two to complete, after which you’ll receive an email notification. After that, click the bar chart icon on the upper right of the page:
+
+```{r echo=FALSE}
+knitr::include_graphics(paste0(getwd(),"/images/media/image4.jpeg"))
+```
+
+
+
+This brings you to an analysis page where you can study your data in much more detail.
+
+When I select my data under “Metagenomes” on the analysis page, I’m offered several options for Annotation Sources. Since the uBiome fastq data comes from 16S ribosomal RNA, I choose to compare my data against one of the large databases of known RNA. The popular Greengenes database is one of them, so I select it, and then ask to generate a table of the results.
+
+
+```{r echo=FALSE}
+knitr::include_graphics(paste0(getwd(),"/images/media/image5.png"))
+```
+
+
+
+The table, sorted by abundance and filtered to phylum, looks like this:
+
+```{r echo=FALSE}
+knitr::include_graphics(paste0(getwd(),"/images/media/image6.png"))
+```
+
+
+
+The results roughly conform to what we see from uBiome: the most common organisms are the same in each case, and although the scales are different, the abundance computed corresponds roughly to what we see from the uBiome count field.
+
+Other MG RAST tools let you compare your data against other databases of bacteria and proteins, graph the results, and perform sophisticated statistical analysis to determine other unique features of your sample. You can also compare your sample to microbiomes that have been uploaded by others, enabling you to study your results in much more detail.

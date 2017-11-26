@@ -1,0 +1,45 @@
+--- 
+site: bookdown::bookdown_site
+documentclass: book
+cover-image: assets/cover/coverPersonalScienceExperiments.jpg
+bibliography: [book.bib]
+biblio-style: apalike
+biblio-title: "References"
+link-citations: yes
+description: "What happens when you sample the microbiome daily for a year?"
+---
+
+
+
+```{r loadAllData, echo=FALSE, warning = FALSE, message = FALSE}
+
+knitr::opts_chunk$set(echo=FALSE, warning=FALSE, message=FALSE)
+
+source("loadMHGData.R")
+
+gut.norm <- gut.norm.nodupes
+gut.phylum.norm <- phylum.gut.nodupes
+gut.family.norm <- subset_samples(sprague.family.norm, Site == "gut")
+
+library(ggthemes)
+theme_set( theme_light(base_family = "MarkPro"))
+theme_set(theme_economist())# + scale_colour_economist())
+
+if(Sys.info()["sysname"]=="Darwin"){
+  quartzFonts(Candara = quartzFont(rep("Candara",4)), MarkPro = quartzFont(rep("MarkPro",4)))
+} else windowsFonts(Candara = windowsFont("Candara"), MarkPro = windowsFont("MarkPro"))
+```
+
+# Introduction {-}
+
+This is a short book about my personal experiments with the microbiome.
+
+During the period from 2014 until late 2017, I sequenced over 500 samples of my microbiome. Inspired by the experiment in @david_host_2014, during most of that time I also carefully tracked the food I ate, my sleep, and other variables like activity or location. Most of my near-daily samples were of my gut, but I also regularly tested my skin, nose, and mouth. Since I'm generally healthy, I didn't have a specific goal in mind other than to try to understand better what these microbes are doing, so many of my tests were taken while undergoing simple experiments, like eating a specific type of food or visiting a new location. While not necessarily up to the rigorous standards of a formal scientific trial, these "n of 1" studies on myself helped me discover several new interesting facts about my own microbiome, many of which appear to contradict other published studies. In addition, hundreds of people sent me their own test results, letting me compare many different microbiomes. And of course, I also followed the latest developments in scientific publications and the general press as I eagerly tried to learn more.
+
+What follows is a brief overview of some of the key things I learned. 
+
+* The microbiome is highly variable from day to day, often moving in ways that appear indistinguishable from random.
+* Broad trends _are_ there if you look closely. I found many intriguing new results.
+* It _is_ possible to change your microbiome in specific circumstances.
+* People's microbiomes are frustratingly different from one another. An aspect that seems to be true about one person may not apply to another.
+

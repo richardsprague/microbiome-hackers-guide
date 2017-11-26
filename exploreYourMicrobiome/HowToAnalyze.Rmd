@@ -1,0 +1,186 @@
+## How to Use the uBiome Taxonomy Files {#rawData}
+
+The information you see in the uBiome web app is a greatly simplified view of the data torrent that comes from the gene sequencing machines that crunched your sample. Your raw data can be thousands of lines long, so to be more useful, uBiome provides a much more concise version. It’s called a “taxonomy” file, which is generally only a few hundred lines showing just the organisms that the uBiome computer algorithms think they found in your sample.
+
+Because uBiome JSON files are well-structured, it’s easy to process them with other software, including Excel. That’s our next step: bring this data into Excel.
+
+### Study your results in Excel
+The uBiome web interface includes an easy way to download your data as a CSV (comma-separated value) file, which can be read into a spreadsheet like Excel. Just click the 'downloads' in the 'Advanced' tab, like this:
+
+```{r echo=FALSE}
+knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExplorerAdvancedTab.jpg"))
+
+```
+
+Then select "Download Taxonomy CSV"
+```{r echo=FALSE}
+
+knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExplorerAdvancedCSV.jpg"))
+```
+
+and a CSV copy of your results will be downloaded to your computer.
+
+
+
+Once the data is in Excel, you can work with it just as you would with any Excel data sheet. Here’s how one of my recent uBiome taxonomy files looks in Mac Excel:
+
+```{r echo=FALSE}
+knitr::include_graphics(paste0(getwd(),"/assets/ExcelScreenOverview.png"))
+```
+
+At this point, we can now apply the full power of your Excel skills to do the analysis. I usually start by turning the sheet into a "table", to make it easier to do filtering and sorting later. Most popular spreadsheets have an easy way to do this. On Mac Excel, I do that from the "insert" menu:
+
+
+```{r echo=FALSE}
+#knitr::include_graphics(rep("./HowToAnalyze/images/media/ubiomeExcelInsertTable.jpg"))
+knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExcelInsertTable.jpg"))
+```
+
+Once I have a table, then it's easy to apply a filter. For now I just want to look at the Phylum level, so I click the tiny triangle to the right of the "tax_rank" label, like this:
+
+```{r echo=FALSE}
+#knitr::include_graphics(rep("./HowToAnalyze/images/media/.jpg"))
+knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExcelFilterTable.jpg"))
+```
+
+And now I can look just at the Phylum rank. I won't bother showing each step after this, but after filtering and sorting, I can quickly end up with something like this:
+
+```{r echo=FALSE}
+#knitr::include_graphics(rep("./HowToAnalyze/images/media/ubiomeExcelSorted.jpg"))
+knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExcelSorted.jpg"))
+```
+
+Looks like there is about 80% Firmicutes in this sample, with Bacteroidetes at about 12%, and a few other phyla under about 4%. We'll go into more detail about what this means, but first let's talk a little about the uBiome taxonomy file format.
+
+### uBiome JSON taxonomy files
+
+Excel is great for a quick overview of your sample, but to really take advantage of the raw data it helps to understand the raw JSON format.
+
+After uBiome's lab completes the sequencing of your sample, the data generated goes into a bioinformatics pipeline where powerful algorithms use the zillions of DNA letters to find names for the specific organisms that inhabit you. One result, after many hours of computation, is a list of the organisms (taxa) found, along with their taxonomical rank and abundance. The result is stored in a simple structured text format called JSON (JavaScript Object Notation), commonly used across the web. Although it’s not as convenient for people as the rest of the uBiome web site, programmers refer to JSON as “human readable”, because if you squint enough you can sorta tell what it means without a computer program. Here’s a sample:
+
+```
+{
+  "download_time_utc": "2016-07-30T02:04:44Z",
+  "sequencing_revision": "72126",
+  "site": "gut",
+  "sampling_time": "2014-05-16T07:56:00.000Z",
+  "notes": "Before starting probiotics experiment",
+  "ubiome_bacteriacounts": [
+    {
+      "taxon": 1,
+      "parent": 0,
+      "count": 57603,
+      "count_norm": 1001617,
+      "tax_name": "root",
+      "tax_rank": "root"
+    },
+    {
+      "taxon": 2,
+      "parent": 131567,
+      "count": 57510,
+      "count_norm": 1000000,
+      "tax_name": "Bacteria",
+      "tax_rank": "superkingdom"
+    },
+```
+
+JSON is just structured data. That’s it: a big bunch of lookup keys and values. The keys are unique identifiers and the values are their values. The whole file looks that way. The only requirement of a JSON file is that it be precisely consistent with this pattern, because after all it will need to be read by a computer eventually. 
+
+The uBiome Taxonomy JSON files include the key `uBiome_bacteriacounts` which is mapped to a bunch of fields, each representing a particular organism found in your sample. Look at the figure above to get the basic idea. 
+
+
+### The uBiome data tags
+
+Let’s review the meaning of each of the columns, which are derived from the following uBiome JSON keys:
+
+**download_time_utc**: The time and date when this JSON file was downloaded. Think of this as a version number for the data format for this sample. uBiome can and sometimes does update its reference database, which can affect your results, so when comparing two different results you'll need to know whether the underlying data is comparable. If you are comparing results where the download times are significantly different (e.g. a year apart or more), you may want to download the data again for a fresher version.
+
+**sequencing_revision**: A unique identifer for this sample, often abbreviated "SSR". A sample is given a new SSR each time it is run through the gene sequencer. If the sequencing fails, then the SSR is simply thrown away. If the same sample is then run again, it will have a brand new SSR. This means that, while it is possible for the same sample to have multiple SSRs, the reverse is never true; an SSR can never refer to more than one sample. Incidentally, since SSRs are generated incrementally as new samples enter the machine, the numeric "distance" between SSRs represents the number of other samples that uBiome processed between them.
+
+**sampling_time** : The time and date when the sample was collected.  By default, this field is set to the time and date when the user registers the sample. The user has the option to change the date, but not the time. Be careful how you use this field. Dates are represented internally in Universal time (UTC aka GMT), but the time zone is set to Pacific time of the moment the sample was collected, so if the sample was collected at another time zone, you may need to adjust the dates accordingly. Either way, don't rely on the time of day.
+
+**site** : The part of the body where the sample was collected. Valid values are "gut", "skin", "mouth", "nose", and "custom". Occasionally uBiome may add new site values for specific partner experiments, so for example you may encounter "forehead", for skin samples collected using the Radiolab giveaway. The default value for each is set when the sample vial is created, but users are able to edit the value later. Because the information is self-reported, if you encounter a new sample, you should double-check that this value is correct. People who submit non-standard samples, like those from pets, often don't bother to change this field, so it's always best to confirm.
+
+**notes** : The user can enter an optional text field when submitting a sample. This is useful if you want to know more details about how it was collecte, or if it was part of another experiment.
+
+**count**: an absolute measure of number of organisms found in the sample. Commonly known among bioinformaticians as "read count" or "reads", it tells the number of DNA letters that were successfully read for that organism at a specific taxonomical rank. Without knowing the size of the sample, or how many times the DNA inside was processed through PCR amplification, this number doesn’t mean much except in relation to other counts at the same taxonomical rank. The **count** for the taxon "root" tells the total number of reads found in the entire sample, a useful measure of the quality of that sample. For consumer-grade sampling, uBiome reports samples with greater than 3,000 reads; for clinical samples, all results are greater than 10,000. A sample with fewer than these total reads will be rejected.
+
+**count\_norm**: a “normalized” version of the count, created by simply dividing the count on a given row by the count found on the row with tax\_name = Bacteria and then multiplying by one million. It’s easier to just think of it as parts per million: each unit is 1 / 10,000th of a percent. For example, if you see a row with count\_norm = 500,000, you can just think of that as 50% of the sample.
+
+**tax\_name**: this is the classification of the organism based on the level of its taxonomy. If you were looking at a human being, for example, you would see homo sapiens if you selected tax\_rank = species, but you’d see mammalia if you selected tax\_rank = class.
+
+**tax\_rank**: tells the level of the taxonomy. In daily conversation about animals or plants, we usually refer to the species (e.g. homo sapiens), but sometimes it’s more useful to talk about bigger groupings of related organisms. For example, humans are members of the class mammalia, along with tigers and horses. If you were counting organisms at the level of class mammalia, the count\_norm would almost certainly be bigger than the count\_norm for humans alone, unless humans were the only type of mammal found in the sample.
+
+**taxon** and **parent**: these help identify the ranking in a more precise way by pointing out which tax\_ranks are subsets of which. For example, Bacteroidia above has a parent = 976, meaning that it is a subset of the taxon 976, Bacteroidetes. When you follow the various taxons and parents up the chain, you’ll see they all end in the superkingdom Bacteria, which has a taxon of 2. The values for these numbers, incidentally, are taxonomical numbers from the curated database at NCBI, the national bioinformatics center run by the U.S. government. Enter the number into the taxonomy browser at the NCBI Taxonomy Browser and you can learn as much as you want about that organism.
+
+**tax\_color** doesn’t matter for this anaysis, but uBiome software uses this to colorize their pretty graphs to make them more readable.
+
+Of these fields, the most important ones are **tax\_name**, **tax\_rank**, and **count\_norm**.
+
+### Converting uBiome taxonomy JSON to Excel
+
+As already noted, it's easy to bring uBiome taxonomy data into Excel, and that's fine for just one or two samples. But if you want more powerful analysis, you'll need the raw JSON. Go to the [uBiome Explorer page](http://explorer.ubiome.com)  and click on the section labeled “Advanced” and then "Downloads":
+
+```{r echo=FALSE}
+#knitr::include_graphics(rep("./assets/ubiomeExplorerDownloads.jpg"))
+knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExplorerDownloads.jpg"))
+
+```
+
+
+You’ll see a page of JSON representing what uBiome found in your sample.
+
+```{r echo=FALSE}
+#knitr::include_graphics(rep("./HowToAnalyze/uBiomeScreenShotTaxonomyJSON.png"))
+
+knitr::include_graphics(paste0(getwd(),"/assets/uBiomeScreenShotTaxonomyJSON.png"))
+```
+
+
+
+On a desktop computer, if you select-all (press control-A or command-A) then you can copy this data to the clipboard and then into an email to share with a friend.
+
+If you like, you can even convert the JSON directly into Excel. Google “Json to Excel” or “Json to CSV” and you’ll find one. Just paste your data into one of those sites to convert it for either Excel’s native XLS or XLSX format, or the more universal CSV format, readable by Excel. Here are a few of the sites I’ve tested:
+
+[http://www.convertcsv.com/json-to-csv.htm](http://www.convertcsv.com/json-to-csv.htm)
+
+[http://www.json-xls.com/json2xls](http://www.json-xls.com/json2xls)
+
+It's nice to know that we can always go back to a spreadsheet version when needed. But the real power of JSON comes when you want to handle more than just one or two samples.
+
+---
+
+### Comparing samples
+
+There are two main things you’ll want to measure when comparing two samples:
+
+**Uniqueness**: which organisms are found in only one sample and not the other? If you are comparing two samples from the same individual (e.g. Yourself), then uniqueness is another way of talking about either extinctions (when a taxon has disappeared entirely in a later sample) and appearances (when a new taxon magically shows up). In other words, you care a lot about the order in which the samples were taken.
+
+On the other hand, if you’re comparing two separate individuals, then the ordering of the samples doesn’t matter. Uniqueness just tells which organisms are unique to a specific person.
+
+**Relative abundance**: which sample has more of which organism? There are two senses in which we care about the relative frequency of an organism’s occurrence in a sample. You might care, among all the taxons found, which ones are more highly represented in absolute amounts?  Or you might care on a relative basis. To help understand why this matters, it may help to think of the following specific example:
+
+In many Americans the phylum Firmicutes makes up a majority of the sample, often reaching 60% or more. You might find two people, one who has 60% Firmicutes and the other with 30% — only half as much. The relative difference is 2x and the absolute difference is 30 percentage points.
+
+On the other hand, you might find Bifidobacterium makes up 10% of the first sample and 5% of the second. In this case, the relative difference is 2x — just like the Firmicutes case — but the absolute difference is only 5 percentage points, much less than in the first example.
+
+The built-in uBiome web tools look for relative differences. A taxon might be a minuscule component of both samples, but when you start from a small base, even a few additional organisms can make up a big percentage change. In the extreme case, a sample with a count\_norm of 100 compared to another sample with a count\_norm of 300 will show a 3X increase — very high in aBiome terms, even though the absolute difference is only 300 - 100 = 200 organisms.
+
+Compare that with a an organism with a count\_norm of 50,000 in one sample and 51,000 in another sample. UBiome’s algorithms will treat these as a virtual tie, even though the absolute number of organisms in the second sample outnumber the first by 1,000 organisms.
+
+Which method of measuring is better? It depends on what you care more about.  Some species need  only a tiny representation in a sample to make a big difference in health outcomes.
+
+I prefer to use both methods of measurement: absolute number changes for the most popular taxons, and relative amounts more for the less-popular ones.
+
+Here's an example showing two samples I took, one day after another.
+
+```{r compareSamples}
+
+mhg_plot_top_heat(subset_samples(sprague.phylum.norm, Date %in% as.Date(c("2017-06-08","2017-06-07"))), n = 5, label = "xx")
+kable(mhg_abundance(subset_samples(prune_taxa(taxa_sums(sprague.phylum.norm)>5000000,sprague.phylum.norm), Date %in% as.Date(c("2017-06-08","2017-06-07"))))/10000, digits = 2)
+
+```
+
+The Abundance shown is a graphical heatmap that makes it easier for the eye to see changes, especially when looking at large amounts of data. In this chart, darker squares are _lower_ in abundance than the lighter ones, so we can see that while _Firmicutes_ stayed at a high percentage both days, _Bacteroidetes_ dropped a bit and I saw the brand new appearance of both _Euryarchaeota_ and _Verrucomicrobia_.  
+
+

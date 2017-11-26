@@ -1,0 +1,4 @@
+# Methods {-}
+
+This chapter will go into more detail about methods, building on the Explore Your Microbiome chapter to show more precisely how I measured myself and how I used the tools needed to build this book.
+

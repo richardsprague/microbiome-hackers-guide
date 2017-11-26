@@ -1,0 +1,15 @@
+## Exploratory Data Analysis
+
+If you feel comfortable writing simple programming scripts to analyze your data, the following sections will show you how to do more detailed analysis.
+
+
+```{r child = "./analysisTechniques/analyzePython.Rmd"}
+```
+
+```{r child="./analysisTechniques/analyzeMakeSingleSheet.Rmd"}
+
+```
+
+
+```{r child = "./analysisTechniques/analyzeFASTQ.Rmd"}
+```

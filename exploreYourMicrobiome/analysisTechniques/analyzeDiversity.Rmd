@@ -1,0 +1,26 @@
+## Diversity
+
+The human microbiome hosts a rich variety of species, but some people have more variety than others. This idea, that some microbiomes have a greater abundance and variety of species, seems intuitively obvious, but it can be hard to pin down exactly what we mean. 
+
+When we think about the visible world, we know that some landscapes are healthier than others. If you see two meadows, one with a rich variety of plants and insects, and the other overrun by an invasive weed, you will intuitively understand that the first is "healthier" than the second.
+
+We think of diversity as a good thing, because it gives an ecosystem multiple tools to apply to any external changes. A field that is overrun by a single, aggressive plant might appear to thrive under some conditions -- when water and sunshine are abundant, for example -- but it is also more vulnerable when conditions change. If the dominant plants in an ecosystem depend on plenty of water, then a drought will pose a serious challenge that risks wiping out most of the life. An ecosystem with a balance of plants, each with varying degrees of dependency on water, will contiue to thrive even if conditions change. The balance may change -- water-loving plants will do better when there's water available, and vice versa for other plants -- but overall the abundance of life in the ecosystem will remain constant.
+
+The same intuition is what we mean when we look at diversity in the human microbiome. A gut with fewer species will tend to be less resilient than one with more species.
+
+But how can we apply that intuition to tell us whether a specific microbiome has enough diversity?
+
+Many of the diversity measurements used by microbiome scientists are borrowed from ecologists, who have struggled with this problem for decades.
+
+The most popular measure was developed in 1949 by the British scientist E.H. Simpson and it can be described simply as the probability that two different microbes pulled at random will be the same species. 
+
+Here is how my Simpson diversity varies over a typical week:
+
+```{r diversityOneWeekPlot}
+plot_richness(subset_samples(gut.family.norm, Date > "2017-03-15" & Date < "2017-03-27"), measures=c("InvSimpson"),x = "Date") +
+  scale_x_date(date_labels = "%m-%d (%A)", date_breaks = "1 day", date_minor_breaks = "1 day") +
+  geom_smooth(method = "loess") +
+  ggtitle(paste("Gut Diversity Changes Day-to-Day",
+                tail(sample_data(gut.family.norm)$Date,1)))
+```
+

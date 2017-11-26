@@ -1,0 +1,34 @@
+---
+title: "Fusicatenibacter Is Associated with Kefir Drinking"
+author:
+- affiliation: Airdoc, Inc.
+  name: Richard Sprague
+bibliography: book.bib
+output:
+  html_document: default
+  bibliography: book.bib
+  pdf_document:
+    fig_caption: yes
+    keep_tex: yes
+    template: svm-latex-ms.tex
+  word_document: default
+categories: technology
+slug: how-a-citizen-scientist-will-win-a-nobel-prize
+tags: science
+abstract: Daily 16s microbiome sampling reveals that that consumption of the the fermented
+  drink, kefir, is associated with a previously-unexploreded _Fusicatenibacter_ .
+---
+[Ed: this is the fancy, PDF-able version]
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+During the period from 2014 until late 2017, we sequenced over 500 near-daily samples of the microbiome of a single individual. Replicating the experiment in @david_host_2014, we carefully tracked diet, sleep, location, activity, and other variables. Most samples were from gut, but bimonthly samples were regularly taken of skin, nose, and mouth as well.
+
+
+
