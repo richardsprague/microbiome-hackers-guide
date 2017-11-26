@@ -8,12 +8,12 @@ Your first step is to get some data.
 ```
 
 
-```{r child="exploreYourMicrobiome/getting_started.Rmd", warning = FALSE}
-# Overview of uBiome Explorer
+```{r childGetStarted, child="exploreYourMicrobiome/getting_started.Rmd"}
+
 ```
 
 
-```{r child="exploreYourMicrobiome/exploreMicrobesToWatch.Rmd", warning = FALSE}
+```{r child="exploreYourMicrobiome/exploreMicrobesToWatch.Rmd"}
 # Specific microbes, including how they look in me
 ```
 
