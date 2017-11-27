@@ -5,15 +5,16 @@ The information you see in the uBiome web app is a greatly simplified view of th
 Because uBiome JSON files are well-structured, it’s easy to process them with other software, including Excel. That’s our next step: bring this data into Excel.
 
 ### Study your results in Excel
-The uBiome web interface includes an easy way to download your data as a CSV (comma-separated value) file, which can be read into a spreadsheet like Excel. Just click the 'downloads' in the 'Advanced' tab, like this:
+The uBiome web interface includes an easy way to download your data as a CSV (comma-separated value) file, which can be read into a spreadsheet like Excel. Just click the 'downloads' in the 'Advanced' tab (Figure  \@ref(fig:howtoDownload))
 
-```{r echo=FALSE}
+```{r howtoDownload, echo=FALSE}
 knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExplorerAdvancedTab.jpg"))
 
 ```
 
-Then select "Download Taxonomy CSV"
-```{r echo=FALSE}
+Then select "Download Taxonomy CSV"  (Figure  \@ref(fig:howtoCSV))
+
+```{r howtoCSV, echo=FALSE}
 
 knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExplorerAdvancedCSV.jpg"))
 ```
@@ -22,9 +23,9 @@ and a CSV copy of your results will be downloaded to your computer.
 
 
 
-Once the data is in Excel, you can work with it just as you would with any Excel data sheet. Here’s how one of my recent uBiome taxonomy files looks in Mac Excel:
+Once the data is in Excel, you can work with it just as you would with any Excel data sheet. Here’s how one of my recent uBiome taxonomy files looks in Mac Excel  (Figure  \@ref(fig:howtoExcelOverview))
 
-```{r echo=FALSE}
+```{r howtoExcelOverview, echo=FALSE}
 knitr::include_graphics(paste0(getwd(),"/assets/ExcelScreenOverview.png"))
 ```
 

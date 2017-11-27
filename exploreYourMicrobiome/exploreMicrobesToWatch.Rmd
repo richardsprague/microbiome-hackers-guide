@@ -57,9 +57,18 @@ In most western guts, *Firmicutes* generally seems to dominate but, I find too m
 ```{r plotPhyla}
 
 Firmicutes <- subset_taxa(subset_samples(sprague.phylum.norm, Site == "gut"), Phylum %in% c("Firmicutes","Bacteroidetes"))
+fb <- mhg_abundance(subset_samples(Firmicutes, Date > "2017-03-15" & Date < "2017-03-27"))/10000 
+fb <- fb["Firmicutes",]/fb["Bacteroidetes",] # 
+fb <- fb %>% gather(Date,Ratio)
+fb$Date <- as.Date(fb$Date)
 
-plot_bar(subset_samples(Firmicutes, Date > "2017-03-15" & Date < "2017-03-27"), fill = "Phylum", x = "Date") +
-  ggtitle("Firmicutes Abundance (%)") + scale_y_continuous(labels=function(x)x/10000) + ylab("Abundance (%)")
+ggplot(data=fb %>% gather(Date,Ratio),aes(x=Date,y=Ratio, group=1)) + geom_point() + geom_line() +
+  scale_x_date(date_labels = "%m-%d (%A)", date_breaks = "1 day", date_minor_breaks = "1 day") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  ggtitle("Ten Consecutive Days of Firmicutes/Bacteroidetes")
+
+# plot_bar(subset_samples(Firmicutes, Date > "2017-03-15" & Date < "2017-03-27"), fill = "Phylum", x = "Date") +
+  # ggtitle("Firmicutes Abundance (%)") + scale_y_continuous(labels=function(x)x/10000) + ylab("Abundance (%)")
 
 ```
 
@@ -67,6 +76,7 @@ plot_bar(subset_samples(Firmicutes, Date > "2017-03-15" & Date < "2017-03-27"), 
 If you sampled on a Monday, you could well get a different answer than if you sampled on a Tuesday.
 
 In fact, although there _does_ seem to be an average where my _Firmicutes_ is most abundant, there are many days where the amounts drop well below half.
+
 ```{r plotHistogramFirmicutes}
 
 qplot(as.vector(otu_table(Firmicutes)[2,]/10000), geom="histogram", main="Histogram of Firmicutes Abundance", xlab = "Percentage of All My Samples", binwidth=5, fill=I("blue"), col = I("black"))
@@ -82,7 +92,7 @@ Although many of the species in this genus are pathogenic, you're much more like
 
 The blue dots indicate days on which I ate some beans.
 
-```{r}
+```{r exploreMicrobesBifido}
 
 food<-rikfood
 beef <- "beef|steak|ribeye|burger"
@@ -109,7 +119,7 @@ plot_bar(subset_samples(keytaxa.top,Date > "2017-06-01" & Date < "2017-08-01" ),
 
 A 2017 careful study of rats revealed higher levels of _Lactobacillus_ on a diet of chicken (versus beef or soy)^[@zhu_beef_2017].  The blue dots represent days on which I ate poultry (chicken or turkey).  Green dots are days I ate beef.
 
-```{r}
+```{r exploreMicrobesLacto}
 
 food<-rikfood
 chicken <- "chicken|turkey"
@@ -151,7 +161,8 @@ plot_bar(subset_samples(keytaxa.top,Date > "2017-06-01" ), fill = "Genus", x = "
 ### Fat and my levels of Lactobacillus
 
 Here's how much fat I eat daily.  Does this correlate with my levels of _Lactobacillus_?
-```{r}
+
+```{r exploreMicrobesFat}
 
 # unique(food[str_detect(food[["Fat"]], food),"Date"])
 # 

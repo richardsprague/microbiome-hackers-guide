@@ -4,7 +4,7 @@ You just received an email that uBiome has finished processing your sample. Now 
 
 The first stop is the [uBiome Explorer web dashboard](http://explorer.ubiome.com/), where you’ll see an overview of your results. The instructions there are self-explanatory and you’ll learn most of what you need to know by simply clicking around. The following explanation will help you dig deeper.
 
-If you only have one sample, your page will look something like this:
+If you only have one sample, your page will look something like Figure \@ref(fig:explorerStartPage).
 
 ```{r explorerStartPage, echo=FALSE, fig.cap = "uBiome Explorer Insights Overview"}
 knitr::include_graphics(paste0(getwd(),"/assets/ubiomeExplorerStartPageJan24Sample.png"))
