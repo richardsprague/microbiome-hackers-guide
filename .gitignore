@@ -8,3 +8,5 @@ _book/
 _bookdown_files/
 .idea/
 .Rproj.user
+.Rhistory
+

@@ -1,5 +1,4 @@
 bookdown::pdf_book:
-  #base_format: rticles::plos_article
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
