@@ -1,11 +1,10 @@
 
 # Explore Your Microbiome
 
-Your first step is to get some data. 
+This chapter assumes you have already sequenced your microbiome. You'll have a breakdown of the types of microbes found in your sample, and depending on the lab, you'll have some simple web tools to explore your sample. I have a complete review of the various microbiome sequencing services, but for most people the best service is [uBiome](http://ubiome.com), a low-cost (under $100) lab that will give you results in a few weeks. Although their web interface is limited and a bit confusing, uBiome shines at letting you download the raw data, either as an easy-to-process JSON or CSV file, or as the original FASTQ file -- the same format used by nearly all microbiome scientists. The powerful ability to study your sample in high-level tools like Python, R, or even Excel, makes this the best way for serious microbiome hackers to understand their results. But even if you don't want to build tools for yourself, there are plenty of pre-built tools (like the ones on this site) that can do more analysis for you.
 
+But first, let's look at the built-in uBiome web tools. Although this description is specific to uBiome, the general principles apply to just about any site that offers basic microbiome analysis.
 
-```{r child="exploreYourMicrobiome/getRawData.Rmd"}
-```
 
 
 ```{r childGetStarted, child="exploreYourMicrobiome/getting_started.Rmd"}
@@ -14,7 +13,7 @@ Your first step is to get some data.
 
 
 ```{r child="exploreYourMicrobiome/exploreMicrobesToWatch.Rmd"}
-# Specific microbes, including how they look in me
+
 ```
 
 

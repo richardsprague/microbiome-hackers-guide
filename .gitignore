@@ -1,12 +1,3 @@
-hackersGuideOld/
-node_modules/
-HackersGuide/hackersGuide.scriv/
-HackersGuide/hackersGuide Backup.scriv/
-HackersGuide/
-originals/
-_book/
-_bookdown_files/
-.idea/
 .Rproj.user
 .Rhistory
 

@@ -2,44 +2,33 @@
 
 If you're brand new to the microbiome, the variety of microbes can be pretty daunting. Let's look through specific microbes you're likely to see and compare them to the ones that were in my samples. 
 
-In this first step, we'll just consider the microbes that are commonly found, without considering how to change them. Later, in the chapter on [experiments](#experiments), we'll show more about how you can _manipulate_ them.
+In this first step, we'll just consider the most common microbes and the overall consensus on what they do.  Later, in the chapter on [experiments](#experiments), we'll show more about how you can _manipulate_ them.
+
+What you're really wondering is how does your sample compare to others? Do you have an unusual abundance (or lack) of a particular taxa? Is there something that might indicate a greater or lesser similarity between your sample and certain other types of people? That is a very difficult question which we'll address over and over in this book, but for now let's just look at the overall abundances among the hundreds of random people who have sent me their samples over the years. 
+
+```{r plotPeoplePhylum, fig.cap="Relative abundance of the most common phylum across hundreds of gut samples."}
+Firmicutes.people <- subset_taxa(subset_samples(people.phylum, Site == "gut"), Phylum %in% c("Firmicutes","Bacteroidetes"))
+
+
+mhg_plot_top(prune_taxa(taxa_sums(people.gut.phylum.norm)>500,people.gut.phylum.norm), top = 5) + ylab("Overall Abundance")  +
+  ggtitle("Top Phylum among hundreds of gut samples")
+
+```
+
+This is a "box and whisker" chart where the white boxes show where the vast majority of samples occur. The line through the middle of the white box is the median, and the other dots are outliers that fall outside the majority.
 
 
 ### The most common phyla
 
-Most westerners will find their sample dominated by two phyla: _Firmicutes_ and _Bacteroidetes_. These are so common in healthy people that it’s tempting to assume this is "natural" or "normal", but like much else with the microbiome, the situation is different outside the western world, a clue that it’s difficult to summarize a single individual’s microbiome as “good” or “bad.” It all depends.
-
-Of the samples I've collected, here's the general idea of how much of each phylum:
-
-```{r}
-Firmicutes.people <- subset_taxa(subset_samples(people.phylum, Site == "gut"), Phylum %in% c("Firmicutes","Bacteroidetes"))
-
-mhg_density_for_taxa2 <- function(ps,tax_name, username=NULL) {
-  df <- data.frame(abundance=as.numeric(otu_table(ps)[tax_name])/10000,
-                   user = sample_data(ps)$Username,
-                   date = sample_data(ps)$Date)
-  ggplot(data=df,
-         aes(x=abundance)) + 
-    stat_density() +
-    ggtitle(paste("Abundance of",tax_name,"across hundreds of samples")) 
-    
-}
-
-mhg_density_for_taxa(subset_samples(Firmicutes.people,Condition == "Healthy"),"Firmicutes")
-mhg_density_for_taxa(subset_samples(Firmicutes.people,Condition == "Healthy"),"Bacteroidetes")
-```
+Most westerners will find their sample dominated by two phyla: _Firmicutes_ and _Bacteroidetes_. These are so common in healthy people that it's tempting to assume this is "natural" or "normal", but like much else with the microbiome, the situation is different outside the western world, a clue that it's difficult to summarize a single individual's microbiome as "good" or "bad." It all depends.
 
 
-*Firmicutes* is usually the most abundant in uBiome tests of modern, urban people, and for good reason: it’s very good at sucking energy out of the types of high-fat, highly-processed food we eat in industrialized societies. For that reason, some scientists have claimed it might associate with obesity, since its presence might indicate a gut that is highly-optimized to pull as many calories as possible from food. On the other hand, it’s not hard to find skinny people with lots of Firmicutes, so this theory doesn’t always hold. I've seen it lower in vegetarians, and I suspect that maybe it reflects diet more than weight.
-
-
-*Bacteroidetes* is not as good at digesting fat, so it sticks to high-fiber foods like those in vegetables, which is why vegetarians tend to have high levels of this phylum. It’s often most prominent outside the industrialized world, too, where people eat less meat. Often, though not always, when I see a sample with high _Bacteroidetes_ (i.e. higher than _Firmicutes_) it'll turn out the person is a vegetarian. Incidentally, don't confuse this phylum with the similar-sounding genus _Bacteroides_ [see below].
 
 *Prevotella* is associated with carbohydrates, and you might think they're more common in people who eat lots of 
 
-*Proteobacteria* If you’re an otherwise normal omnivore and see double-digit amounts of this it can be a sign that your body was recently under attack. That's because the Proteobacteria includes many pathogens like *E. Coli* and *Shigella*. For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn’s disease. That doesn’t mean that Proteobacteria is _bad_; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a [trip to Central America](#experimentJungleTravel), during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
+*Proteobacteria* If you're an otherwise normal omnivore and see double-digit amounts of this it can be a sign that your body was recently under attack. That's because the Proteobacteria includes many pathogens like *E. Coli* and *Shigella*. For example, in one of my tests I had 14% Proteobacteria, which often is elevated in people with gastric disorders like Crohn's disease. That doesn't mean that Proteobacteria is _bad_; in fact, it could mean the opposite, that we need more of these to fight back invaders. In my case the unusually high amount came right after a [trip to Central America](#experimentJungleTravel), during which my body was exposed to many new and possibly pathogenic microbes. My Proteobacteria fell soon after I returned to the U.S. and my normal diet.
 
-Proteobacteria:  come back quickly after antibiotics (“a weed”) [QuantifiedBody](https://thequantifiedbody.net/human-microbiome-health-dr-rob-knight/)
+Proteobacteria:  come back quickly after antibiotics ("a weed") [QuantifiedBody](https://thequantifiedbody.net/human-microbiome-health-dr-rob-knight/)
 
 
 
@@ -51,7 +40,18 @@ Using examples from my own sampling, can I say something about what to look for?
 
 ### Firmicutes
 
-In most western guts, *Firmicutes* generally seems to dominate but, I find too much day-to-day variability to rely on a single test. Here's how my levels of the two most common phyla change on a daily basis:
+*Firmicutes* is usually the most abundant in uBiome tests of modern, urban people, and for good reason: it's very good at sucking energy out of the types of high-fat, highly-processed food we eat in industrialized societies. For that reason, some scientists have claimed it might associate with obesity, since its presence might indicate a gut that is highly-optimized to pull as many calories as possible from food. On the other hand, it's not hard to find skinny people with lots of Firmicutes, so this theory doesn't always hold. I've seen it lower in vegetarians, and I suspect that maybe it reflects diet more than weight.
+
+### Bacteroides
+
+
+*Bacteroidetes* is not as good at digesting fat, so it sticks to high-fiber foods like those in vegetables, which is why vegetarians tend to have high levels of this phylum. It's often most prominent outside the industrialized world, too, where people eat less meat. Often, though not always, when I see a sample with high _Bacteroidetes_ (i.e. higher than _Firmicutes_) it'll turn out the person is a vegetarian. Incidentally, don't confuse this phylum with the similar-sounding genus _Bacteroides_ [see below].
+
+
+Although many of the species in this genus are pathogenic, you're much more likely to encounter one of the "mutualist" versions that are co-dependent on humans, providing us with many important features we have not had to evolve, while our gut gives back nutrients and more that _they_ need to survive. Read much more in [@wexler_bacteroides_2007].
+
+
+In general I find too much day-to-day variability to rely on a single test. Here's how my levels of the two most common phyla change on a daily basis:
 
 
 ```{r plotPhyla}
@@ -84,9 +84,6 @@ qplot(as.vector(otu_table(Firmicutes)[2,]/10000), geom="histogram", main="Histog
 ```
 
 
-### Bacteroides
-
-Although many of the species in this genus are pathogenic, you're much more likely to encounter one of the "mutualist" versions that are co-dependent on humans, providng us with many important features we have not had to evolve, while our gut gives back nutrients and more that _they_ need to survive. Read much more in [@wexler_bacteroides_2007].
 
 ### Bifidobacterium
 
@@ -110,7 +107,8 @@ plot_bar(subset_samples(keytaxa.top,Date > "2017-06-01" & Date < "2017-08-01" ),
   ggtitle("Bifidobacterium Abundance (%)") + scale_y_continuous(labels=function(x)x/10000) + ylab("Abundance (%)") + 
   annotate("pointrange",x = beans.day[beans.day>as.Date("2017-06-01")], y = 0, ymin = -0.003, ymax = 0, color = "blue", size = 0.1) + 
   scale_x_date(date_labels = "%b20%y",
-                date_breaks = "1 month", date_minor_breaks = "2 weeks")
+                date_breaks = "1 month", date_minor_breaks = "2 weeks") +
+  theme(legend.position = "none")
 
 ```
 

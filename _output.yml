@@ -1,9 +1,10 @@
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
+#   before_body: frontpage.tex
+#  latex_engine: xelatex
+#  citation_package: natbib
+#  keep_tex: yes
 bookdown::epub_book: default
 bookdown::gitbook:
   css: style.css
