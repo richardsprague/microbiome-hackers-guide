@@ -4,7 +4,9 @@ This is a brief excerpt of a book for curious people with little or no knowledge
 
 Click [here](./psm.md) to read this document on Github.
 
+
 This excerpt draft is [available as a PDF](./_book/psm.pdf). To generate the book from scratch, you'll need a copy of the R package [Bookdown](http://bookdown.org).
+
 
 Please check this site regularly for updates.
 
