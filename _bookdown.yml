@@ -2,13 +2,15 @@ title: "Personal Science of the Microbiome: Experiments"
 author: "Richard Sprague"
 date: "`r Sys.Date()`"
 
+
+
 book_filename: "psm"
 language:
   ui:
     chapter_name: "Chapter "
     
 rmd_files: ["index.Rmd",
-"01-intro.Rmd",
+#"01-intro.Rmd",
 "exploreYourMicrobiome.Rmd",
 "03-method.Rmd",
 "06-references.Rmd"

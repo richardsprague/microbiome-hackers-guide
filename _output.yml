@@ -1,7 +1,7 @@
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
-#   before_body: frontpage.tex
+#    before_body: frontpage.tex
 #  latex_engine: xelatex
 #  citation_package: natbib
 #  keep_tex: yes
@@ -14,3 +14,4 @@ bookdown::gitbook:
         <li><a href="./">Personal Science and the Microbiome</a></li>
       after: |
         <li><a href="https://richardsprague.com" target="blank">by Richard Sprague</a></li>
+rmarkdown::github_document: default
